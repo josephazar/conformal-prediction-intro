@@ -1,0 +1,21 @@
+# Local OS/editor noise
+.DS_Store
+
+# Secrets and local environment
+.env
+.venv/
+
+# Python build/runtime artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+build/
+dist/
+
+
+# Mistral Document AI conversion script/project artifacts
+.mistral_docai_tmp/
+*.py
+pyproject.toml
+requirements.venv.txt
