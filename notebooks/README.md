@@ -90,10 +90,3 @@ jupyter nbconvert --to notebook --execute --inplace notebooks/01_*.ipynb   # or 
 Every notebook is self-contained (each repeats its own setup and data simulation), seeds
 all randomness, and runs end-to-end in under about two minutes on a laptop. Notebook 08
 downloads the California housing data on first run; everything else is offline.
-
-## Sources
-
-The material is distilled from the papers in `../conformal_prediction_papers_md/`:
-Angelopoulos & Bates (2023), Shafer & Vovk (2008), Lei et al. (2018), Tibshirani et al.
-(2019), Vovk, Gammerman & Shafer (2005), and Ryan Tibshirani's lecture notes. Notebook 08
-ends with a guide to which paper to read next depending on which notebook hooked you.
