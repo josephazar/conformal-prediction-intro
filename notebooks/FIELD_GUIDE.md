@@ -14,19 +14,25 @@ systematically undercovers, worst at small n.
 Symptom: empirical coverage sits consistently a little below target (say 0.888 for a 0.90
 promise) and gets worse the smaller your calibration set.
 
-Guard: take the k-th smallest score, k = ceil((n + 1) * (1 - alpha)).
+Guard: take the k-th smallest score, k = ceil((n + 1) * (1 - alpha)), as every notebook does.
 
 ```python
 k = math.ceil((n + 1) * (1 - alpha))
-q_hat = np.sort(scores)[k - 1]                        # the exact rank (notebook 06)
-q_hat = np.quantile(scores, k / n, method="higher")   # the idiom in most notebooks
+q_hat = np.sort(scores)[k - 1]                        # the k-th smallest calibration score
 ```
 
-The second line, used in most of this series, returns the (k+1)-th smallest score whenever
-k < n: one extra seat of conservatism, harmless at n in the thousands (USD 0.74 at n = 4,000
-against MAPIE's split regressor, which takes the exact rank; notebook 08) and visible at
-n = 40, which is why notebook 06 takes the exact rank. Libraries differ, and even differ
-between their own classes, so check which rank yours returns.
+With distinct scores this rule covers a new point with probability exactly k/(n+1), which
+lies between 1 - alpha and 1 - alpha + 1/(n+1). Beware the shortcuts that look equivalent
+(notebook 02, section 3): `np.quantile(scores, 1 - alpha)` interpolates and can land below the
+k-th score, which is invalid; `np.quantile(scores, k / n, method="higher")` returns the
+(k+1)-th smallest whenever k < n, which is valid but spends one rank for nothing, a cost that
+is invisible at n in the thousands and worth points of coverage at n = 40 (notebook 06).
+Libraries differ, and even differ between their own classes: in MAPIE 1.4.1 the split and
+cross-conformal regressors take the exact rank, while the split classifiers and conformalized
+quantile regression (which by default corrects each bound at alpha/2) can land one rank higher;
+at alpha = 0.10 that happens exactly when (n + 1)(1 - alpha), or (n + 1)(1 - alpha/2) for each
+CQR bound, is a whole number below n (notebook 08). MAPIE 1.6.0 takes the exact rank in all of them.
+Check which rank your version returns.
 
 And if `ceil((n + 1) * (1 - alpha)) > n`, stop: your calibration set is too small for this
 alpha, and the only honest prediction set is the whole outcome space: the entire real line in
@@ -66,7 +72,7 @@ contract, a regulation, or a support queue.
 
 Realized long-run coverage given one fixed calibration set is a random variable — roughly
 Beta-distributed around the target. With 50 calibration points, a "90%" system routinely
-delivers 82% or 96%; with ~1000 points a 90% target typically lands in 0.88-0.92.
+delivers 83% or 96%; with ~1000 points a 90% target typically lands in 0.88-0.92.
 
 Symptom: two reruns of the same pipeline report meaningfully different coverage.
 

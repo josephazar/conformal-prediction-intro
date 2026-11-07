@@ -84,8 +84,8 @@ In regression, the difference between the true value and the model prediction.
 The size of the error, ignoring direction. This is the simplest regression score.
 
 **Corrected quantile**  
-The finite-sample conformal threshold. It uses a slightly conservative order statistic so
-the coverage promise is valid.
+The finite-sample conformal threshold: the k-th smallest of n calibration scores, with
+k = ceil((n + 1)(1 - alpha)), the smallest rank for which the coverage promise holds.
 
 **Naive quantile**  
 The tempting ordinary quantile. It can undercover, especially with small calibration sets.
