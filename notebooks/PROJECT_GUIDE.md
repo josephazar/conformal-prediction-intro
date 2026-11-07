@@ -145,5 +145,5 @@ them. Say so in your report: injected faults are usually cleaner than real ones.
 | Angelopoulos, Candes and Tibshirani (2023), *Conformal PID control for time series prediction* | quantile tracking, integrator, scorecaster | 15 |
 | Barber, Candes, Ramdas and Tibshirani (2023), *Conformal prediction beyond exchangeability* | recency-weighted conformal and its coverage-gap bound | 09, 15 |
 | Xu and Xie (2021), *Conformal prediction interval for dynamic time-series* | EnbPI | bonus 02 |
-| Foygel Barber et al. (2021), *The limits of distribution-free conditional predictive inference* | why no method can promise coverage at a given hour or building | 03, 15 |
+| Foygel Barber et al. (2021), *The limits of distribution-free conditional predictive inference* | why no distribution-free method can promise coverage at every individual input (with continuous features), such as each single future hour; groups fixed in advance (hour of day, building type) can still be calibrated on their own | 03, 15 |
 | Vovk, Gammerman and Shafer (2005), *Algorithmic learning in a random world*, chapter 7 | testing exchangeability with conformal martingales | 09 |

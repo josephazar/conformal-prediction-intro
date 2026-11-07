@@ -1,0 +1,5 @@
+# Only for regenerating notebooks/llm_data with notebooks/llm_data/generate_llm_data.ipynb,
+# which needs an Azure OpenAI resource. The course notebooks do not need this file.
+-r requirements.txt
+requests==2.34.2
+pyarrow==25.0.1

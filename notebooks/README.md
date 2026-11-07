@@ -98,6 +98,10 @@ and cached in [llm_data/](llm_data/README.md), so the notebooks run offline.
 19. [19_retrieval_risk_control_rag.ipynb](19_retrieval_risk_control_rag.ipynb) —
     how many passages to retrieve: a coverage promise for the evidence, conformal risk control for
     the share of evidence missed, and Learn then Test for answer quality.
+20. [20_answer_or_hand_off.ipynb](20_answer_or_hand_off.ipynb) —
+    when Quill should answer alone and when it should hand the question to a tutor: why 90%
+    coverage is not a 90% success rate on the answers shown alone, and how Learn then Test
+    certifies the error rate among answered questions, or says honestly that nothing can be.
 
 ## Bonus notebooks
 
@@ -134,7 +138,7 @@ the model, the prompts, the sources and their licences.
 | `load_wine` (bundled with sklearn) | 08 | A deliberately small classification set for cross-conformal |
 | `simulate_building_load`, `simulate_building_portfolio` (synthetic) | 09-15 | Hourly electricity of Kestrel's office buildings; counterpart: Building Data Genome 2 |
 | `simulate_vm_cpu`, `simulate_vm_fleet` (synthetic) | 10-15 | 5-minute CPU load of Kestrel's virtual machines; counterpart: public cloud traces such as the Azure Public Dataset |
-| `llm_data/mmlu_*.csv` (real model outputs, MIT-licensed questions) | 16, 17 | Quill's answers to exam questions from 28 non-medical MMLU subjects |
+| `llm_data/mmlu_*.csv` (real model outputs, MIT-licensed questions) | 16, 17, 20 | Quill's answers to exam questions from 28 non-medical MMLU subjects |
 | `llm_data/element_claims.csv` (real model outputs, PubChem ground truth) | 18 | Quill's explainers about the chemical elements, graded claim by claim |
 | `llm_data/hotpot_*.csv` (real model outputs, CC BY-SA 4.0 passages) | 19 | Retrieval and answers over HotpotQA's encyclopedia passages |
 
@@ -145,7 +149,7 @@ anything. To re-run them, from the repository root:
 
 ```bash
 python -m venv .venv && source .venv/bin/activate
-pip install numpy pandas scikit-learn matplotlib mapie jupyter ipykernel
+pip install -r requirements.txt   # pinned versions, tested with Python 3.10
 jupyter nbconvert --to notebook --execute --inplace notebooks/01_*.ipynb   # or open in Jupyter
 ```
 

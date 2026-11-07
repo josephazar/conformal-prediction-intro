@@ -332,6 +332,10 @@ the model and counts as leakage.
 **Stuck (frozen) value**  
 A reading repeated by a frozen sensor or gateway. It looks plausible and is wrong.
 
+**Empty band**  
+A band whose lower edge sits above its upper edge. It contains no value, always misses, and is
+left out of width averages (notebook 15).
+
 **Minimum-run-length rule**  
 Flag runs of at least L consecutive identical readings, within a tolerance.
 
@@ -404,6 +408,16 @@ improves as the parameter loosens.
 **Learn then Test (LTT)**  
 Test each candidate parameter for "risk at most epsilon", correct for testing many candidates,
 and keep the ones that pass. Works when the risk is not monotone.
+
+**Selective risk**  
+The error rate among the cases a system decides on its own, for example among the questions a
+chatbot answers without handing off. Coverage bounds it only loosely, at alpha / P(answered)
+on average over calibration draws; Learn then Test can certify it (notebook 20).
+
+**Fixed-sequence testing**  
+Test candidate settings one at a time in an order fixed in advance, each at the full error level
+delta, and stop at the first that fails. Whatever the order, the chance of certifying any bad
+setting stays at most delta (notebook 20).
 
 ## Libraries And Practice
 

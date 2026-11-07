@@ -7,22 +7,30 @@ trap, the tell-tale symptom, and the guard.
 
 ## §1. The off-by-one quantile
 
-The guarantee needs the ceil((n+1)(1-alpha))-th smallest calibration score, not the plain
+The guarantee needs at least the ceil((n+1)(1-alpha))-th smallest calibration score, not the plain
 (1-alpha) sample quantile. The difference looks cosmetic and is not: the naive quantile
 systematically undercovers, worst at small n.
 
 Symptom: empirical coverage sits consistently a little below target (say 0.888 for a 0.90
 promise) and gets worse the smaller your calibration set.
 
-Guard:
+Guard: take the k-th smallest score, k = ceil((n + 1) * (1 - alpha)).
 
 ```python
-q_level = math.ceil((n + 1) * (1 - alpha)) / n
-q_hat = np.quantile(scores, q_level, method="higher")
+k = math.ceil((n + 1) * (1 - alpha))
+q_hat = np.sort(scores)[k - 1]                        # the exact rank (notebook 06)
+q_hat = np.quantile(scores, k / n, method="higher")   # the idiom in most notebooks
 ```
 
+The second line, used in most of this series, returns the (k+1)-th smallest score whenever
+k < n: one extra seat of conservatism, harmless at n in the thousands (USD 0.74 at n = 4,000
+against MAPIE's split regressor, which takes the exact rank; notebook 08) and visible at
+n = 40, which is why notebook 06 takes the exact rank. Libraries differ, and even differ
+between their own classes, so check which rank yours returns.
+
 And if `ceil((n + 1) * (1 - alpha)) > n`, stop: your calibration set is too small for this
-alpha, and the only honest prediction set is infinite. Assert on it; do not clip it.
+alpha, and the only honest prediction set is the whole outcome space: the entire real line in
+regression, every label in classification. Assert on it; do not clip it.
 
 ## §2. Never calibrate on training residuals
 
@@ -39,9 +47,14 @@ hyperparameter tuning. Split first, fit later, calibrate once.
 ## §3. Marginal is not conditional
 
 The guarantee is an average over everything: 90% overall can decompose into 98% on easy
-inputs and 70% on the hard slice your business actually worries about. No conformal method
-can promise exact per-input coverage distribution-free (that is a theorem, not a caveat),
-but adaptive scores (notebook 05) and per-group calibration (notebook 04) close most of
+inputs and 70% on the hard slice your business actually worries about. Two stronger promises
+are worth telling apart. Coverage within a few groups fixed in advance and visible when you
+predict (a region, a customer tier, an exam subject) is achievable: calibrate each group on
+its own data (notebook 17), and expect wider sets for small groups; overlapping groups need a
+method built for them (Gibbs, Cherian and Candes 2023). Per-class coverage is achievable too,
+by checking each candidate label against its own class's threshold (notebook 04). Coverage at
+every individual input is not achievable: with continuous features, no distribution-free
+method can promise it with finite intervals (that is a theorem, not a caveat). Adaptive scores (notebook 05) and per-group calibration close most of
 the practical gap.
 
 Symptom: overall dashboards green, one segment's complaints rising.
@@ -92,18 +105,27 @@ reinstates exactly the false confidence conformal prediction was hired to remove
 Symptom: pressure to "make the sets smaller" without a plan to make the model better.
 
 Guard: design the product around set size — auto-accept singletons, route large sets to a
-human. Set size is your triage signal (notebook 04).
+human. Set size is your triage signal (notebook 04). If singletons act without a human,
+measure their error rate on its own: 90% coverage does not make the singletons 90% right
+(§29 and notebook 20 show why, and how to certify such a rate).
 
 ## §8. Do not average many splits
 
-Averaging or intersecting intervals from many random calibration splits (with the
-multiplicity correction validity requires) is provably worse — wider — than using one
-split. The obvious ensembling idea is a documented dead end (Lei et al. 2018).
+Combining intervals from many random calibration splits without a correction carries no
+guarantee: averaged endpoints have none, and the intersection of N intervals at 90% each is
+guaranteed only 1 - N alpha (nothing at all for N = 10). The valid Bonferroni fix runs each
+split at alpha/N and intersects; under the assumptions of Lei et al. (2018, Theorem 2.4) the
+result is, with probability tending to one, wider than a single split. A majority vote over
+the split sets keeps coverage of at least 1 - 2 alpha under any dependence between them
+(Gasparin and Ramdas 2024), but no combination is free, and none is the obvious "run it ten
+times and average".
 
 Symptom: a well-meaning teammate proposes "run it 10 times and combine".
 
-Guard: one split, sized deliberately. If split waste hurts, use CV+/jackknife+ (notebook
-06), which pool data with an actual theorem attached.
+Guard: one split, sized deliberately. If split waste hurts, use jackknife+ (proved floor
+1 - 2 alpha) or CV+ (proved floor 1 - 2 alpha - min{2(1 - 1/K)/(n/K + 1), (1 - K/n)/(K + 1)},
+0.717 at n = 120, K = 10 equal folds and alpha = 0.10; Barber et al. 2021, Theorem 4), both of which
+usually land near the target in practice (notebook 06).
 
 ## §9. Check per-class coverage in classification
 
@@ -176,7 +198,9 @@ and split and calibrate at that level. Notebook 09 shows both cases.
 The guarantee holds under an assumption you can check. Plot the scores over time; run a
 permutation test between the calibration window and recent data; train a classifier to tell
 the two apart (notebook 07); or run a conformal test martingale, whose false-alarm
-probability is bounded by Ville's inequality no matter how long you watch.
+probability is bounded by Ville's inequality no matter how long you watch. A test that stays
+quiet is evidence, not proof: it says no shift large enough to detect showed up. Summarizing a
+dependent stream (daily means, say) does not make it exchangeable either.
 
 Symptom: a guarantee quoted in a report with no evidence about the assumption behind it.
 
@@ -282,13 +306,19 @@ with a stuck-value detector (notebooks 13 and 14).
 ## §22. Online calibration guarantees the long run, not this week
 
 ACI and conformal PID bound the average miss rate over a long stream, for any sequence, with
-no exchangeability assumption. They promise nothing about a given week, and ACI can return
-infinite bands.
+no exchangeability assumption. They promise nothing about a given week. ACI can return
+infinite bands, and both methods can return empty ones: whenever the offset falls below minus
+half the raw band's width (for ACI also when its working alpha reaches 1), the lower edge lands
+above the upper (notebook 15: up to 114 hours, depending on the variant). An empty
+band shows no range at all for that hour, a guaranteed miss.
 
 Symptom: long-run coverage on target and a bad week that someone asks about.
 
-Guard: report weekly (worst-week) coverage, width and infinite-band counts next to long-run
-coverage (notebook 15).
+Guard: report weekly (worst-week) coverage, width, and the counts of infinite and empty bands
+next to long-run coverage. Average width and interval score over the finite, non-empty bands
+only, and say so; count empty bands as misses, and never swap or clip them away. Dropping a
+method's worst hours from a score can flatter it, so check that the ranking holds on the hours
+where every method issued a finite, non-empty band (notebook 15).
 
 ## §23. Pre-training overlap is leakage
 
@@ -303,7 +333,7 @@ after the model or not listed; otherwise report the overlap (notebook 12).
 
 ---
 
-# Part III: language models (notebooks 16-19)
+# Part III: language models (notebooks 16-20)
 
 ## §24. Token probabilities, stated confidence and agreement are opinions
 
@@ -323,13 +353,13 @@ single question; a conformal set does promise coverage (notebooks 16 and 17).
 A calibration is valid for one procedure: one model version, one prompt, one set of decoding
 settings, one option order, one population of questions. Change any of them and the calibration
 scores may no longer be exchangeable with the new answers. Hosted models are not even
-bit-for-bit repeatable: the same request can come back with different probabilities.
+bit-for-bit repeatable: the same prompt and settings can come back with different probabilities.
 
 Symptom: coverage drifts after a "harmless" prompt edit or a silent model upgrade.
 
 Guard: log the procedure with every calibration run (model version string, prompt hash,
 decoding settings, option order, date, population); recalibrate after any change; measure how
-much an identical request varies (notebook 16).
+much the same prompt, sent again, varies (notebook 16).
 
 ## §26. The benchmark is not your users
 
@@ -346,7 +376,11 @@ rehearsal (notebooks 09 and 16).
 
 Conformal factuality promises that, with probability at least 1 - alpha, every claim kept in an
 answer is true. It says nothing about any single claim, and "true" means "accepted by the
-grader": a wrong reference value or an ambiguous question becomes part of the guarantee.
+grader": a wrong reference value or an ambiguous question becomes part of the guarantee. Know
+what the grader reads, too: notebook 18 checks the value the model returned, not the sentence
+shown to the reader, so the promise covers the sentence only as far as it repeats that value.
+The promise has a price in content: at stricter levels the filter removes more true claims and
+can empty whole answers.
 
 Symptom: a filtered explainer published with a guarantee nobody can trace to its grading rules.
 
@@ -365,3 +399,20 @@ setting chosen and then reported as guaranteed.
 
 Guard: say "on average" when you use conformal risk control; for non-monotone risks use Learn
 then Test, one test per candidate setting with a family-wise error correction (notebook 19).
+
+## §29. Coverage is not the error rate among the answers you give
+
+A 90% shortlist promises that the true answer is in the set nine times in ten. It does not
+make nine in ten of its single-option answers right: misses over all questions are at most
+alpha on average, so among the questions answered alone the error can reach
+alpha / P(answered alone). Picking the loosest threshold whose calibration error looks fine is
+not a certificate either: it breaks the promise far more often than the stated delta.
+
+Symptom: "90% coverage, so 90% of the answers shown alone are right", or an answer threshold
+read off a calibration curve.
+
+Guard: fix the promise (epsilon, delta) and a grid of thresholds in advance; test them strictest
+first with a binomial p-value on the answered calibration questions, at the full delta, and
+stop at the first failure; ship the loosest certified threshold, or hand everything off when
+none is certified. The binomial test needs an i.i.d. sample of the traffic you will serve
+(notebook 20).

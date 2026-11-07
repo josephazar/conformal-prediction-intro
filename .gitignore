@@ -19,3 +19,6 @@ dist/
 *.py
 pyproject.toml
 requirements.venv.txt
+
+# External audit reports (kept local, not published)
+audit/

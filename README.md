@@ -13,13 +13,13 @@ fictional operator of office buildings and a cloud platform, and takes the metho
 series: exchangeability tested rather than assumed, honest backtests, calibrated forecast
 bands, frozen sensors, alarms, and coverage under drift. Part III follows Quill Learning, a
 fictional education company, and applies the same ideas to language models with real model
-outputs: calibrated confidence, answer shortlists, factual claims you can vouch for, and
-retrieval with a guarantee.
+outputs: calibrated confidence, answer shortlists, factual claims you can vouch for,
+retrieval with a guarantee, and a certified error rate for the answers it gives on its own.
 
 ## What Is Inside
 
 - `notebooks/` - Part I (notebooks 01-08), from point-prediction failure to MAPIE;
-  Part II (notebooks 09-15), forecasts and alarms you can trust; Part III (notebooks 16-19),
+  Part II (notebooks 09-15), forecasts and alarms you can trust; Part III (notebooks 16-20),
   language models that know what they do not know.
 - `notebooks/llm_data/` - cached outputs of `gpt-4.1-mini` used by Part III, with the notebook
   that generated them and their provenance and licences.
@@ -65,6 +65,7 @@ Part III, language models that know what they do not know:
 | 17 | `17_multiple_choice_answer_sets.ipynb` | Multiple-choice answers as prediction sets, with and without probabilities |
 | 18 | `18_conformal_factuality.ipynb` | Keeping only the generated claims you can vouch for |
 | 19 | `19_retrieval_risk_control_rag.ipynb` | Retrieval depth for RAG: conformal risk control and Learn then Test |
+| 20 | `20_answer_or_hand_off.ipynb` | Answer alone or hand off: a certified error rate among the answers given, with Learn then Test |
 
 Bonus notebooks:
 
@@ -77,13 +78,14 @@ Bonus notebooks:
 
 ## How To Run
 
-Create a virtual environment and install the notebook dependencies:
+Create a virtual environment and install the pinned notebook dependencies (tested with
+Python 3.10):
 
 ```bash
 python -m venv .venv
 source .venv/bin/activate
 python -m pip install --upgrade pip
-python -m pip install numpy pandas scikit-learn scipy matplotlib mapie jupyter ipykernel
+python -m pip install -r requirements.txt
 ```
 
 Start Jupyter:
@@ -94,10 +96,10 @@ jupyter lab
 
 The notebooks are self-contained. Most data is synthetic and generated inside each
 notebook with fixed seeds. Notebook 08 uses public scikit-learn datasets, including
-California housing and wine. Notebooks 16-19 read cached language-model outputs from
+California housing and wine. Notebooks 16-20 read cached language-model outputs from
 `notebooks/llm_data/`, so they also run offline and need no API key; only regenerating that
-data (`notebooks/llm_data/generate_llm_data.ipynb`) needs an Azure OpenAI deployment and
-`pyarrow`.
+data (`notebooks/llm_data/generate_llm_data.ipynb`) needs an Azure OpenAI deployment and the
+extra packages in `requirements-llm.txt`.
 
 To execute a notebook from the command line and save its outputs:
 
@@ -135,6 +137,14 @@ This course is inspired by and cites the following conformal prediction literatu
   NeurIPS, 2019.
 - Rina Foygel Barber, Emmanuel J. Candes, Aaditya Ramdas, and Ryan J. Tibshirani.
   "Predictive Inference with the Jackknife+." Annals of Statistics, 2021.
+- Ilia Nouretdinov, Thomas Melluish, and Vladimir Vovk. "Ridge Regression Confidence Machine."
+  ICML, 2001.
+- Matteo Gasparin and Aaditya Ramdas. "Merging Uncertainty Sets via Majority Vote." 2024.
+- Vladimir Vovk. "Conditional Validity of Inductive Conformal Predictors." ACML, 2012.
+- Jing Lei and Larry Wasserman. "Distribution-Free Prediction Bands for Non-parametric
+  Regression." Journal of the Royal Statistical Society Series B, 2014.
+- Isaac Gibbs, John J. Cherian, and Emmanuel J. Candes. "Conformal Prediction with
+  Conditional Guarantees." 2023.
 - Chen Xu and Yao Xie. "Conformal Prediction Interval for Dynamic Time-Series." ICML, 2021.
 - Vianney Taquet, Vincent Blot, Thomas Morzadec, Louis Lacombe, and Nicolas Brunel.
   "MAPIE: an Open-Source Library for Distribution-Free Uncertainty Quantification." 2022.
@@ -168,6 +178,12 @@ Part III also draws on:
   "Conformal Risk Control." ICLR, 2024.
 - Anastasios N. Angelopoulos, Stephen Bates, Emmanuel J. Candes, Michael I. Jordan, and
   Lihua Lei. "Learn then Test: Calibrating Predictive Algorithms to Achieve Risk Control." 2021.
+- John J. Cherian, Isaac Gibbs, and Emmanuel J. Candes. "Large Language Model Validity via
+  Enhanced Conformal Prediction Methods." NeurIPS, 2024.
+- Yonatan Geifman and Ran El-Yaniv. "Selective Classification for Deep Neural Networks."
+  NeurIPS, 2017.
+- Stephen Bates, Anastasios Angelopoulos, Lihua Lei, Jitendra Malik, and Michael I. Jordan.
+  "Distribution-Free, Risk-Controlling Prediction Sets." Journal of the ACM, 2021.
 - Dan Hendrycks, Collin Burns, Steven Basart, Andy Zou, Mantas Mazeika, Dawn Song, and Jacob
   Steinhardt. "Measuring Massive Multitask Language Understanding." ICLR, 2021 (MMLU).
 - Zhilin Yang, Peng Qi, Saizheng Zhang, Yoshua Bengio, William W. Cohen, Ruslan Salakhutdinov,
