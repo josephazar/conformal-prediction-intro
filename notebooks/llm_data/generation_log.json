@@ -1,0 +1,16 @@
+{
+  "chat_deployment": "gpt-4.1-mini",
+  "embedding_deployment": "text-embedding-3-large",
+  "api_version": "2025-04-01-preview",
+  "random_seed": 20260707,
+  "generated_on": "2026-11-07",
+  "counts": {
+    "mmlu_questions": 2513,
+    "element_claims": 1296,
+    "hotpot_questions": 799,
+    "hotpot_answers": 3995
+  },
+  "usage_this_run": {
+    "cached": 19966
+  }
+}

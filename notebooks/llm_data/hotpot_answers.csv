@@ -1,0 +1,3996 @@
+qid,k,model_answer,exact_match,f1
+hotpot_0000,1,United States,False,0.0
+hotpot_0000,2,Switzerland,False,0.0
+hotpot_0000,3,United States,False,0.0
+hotpot_0000,5,United States,False,0.0
+hotpot_0000,10,United States,False,0.0
+hotpot_0001,1,Peter O'Toole,True,1.0
+hotpot_0001,2,Peter O'Toole,True,1.0
+hotpot_0001,3,Peter O'Toole,True,1.0
+hotpot_0001,5,Peter O'Toole,True,1.0
+hotpot_0001,10,Peter O'Toole,True,1.0
+hotpot_0002,1,Yes,False,0.0
+hotpot_0002,2,United States,True,1.0
+hotpot_0002,3,United States,True,1.0
+hotpot_0002,5,United States,True,1.0
+hotpot_0002,10,United States,True,1.0
+hotpot_0003,1,Not specified,False,0.0
+hotpot_0003,2,Bull Terrier,True,1.0
+hotpot_0003,3,Bull Terrier,True,1.0
+hotpot_0003,5,Bull Terrier,True,1.0
+hotpot_0003,10,Bull Terrier,True,1.0
+hotpot_0004,1,No machine mentioned,False,0.4
+hotpot_0004,2,Not mentioned,False,0.0
+hotpot_0004,3,Not mentioned,False,0.0
+hotpot_0004,5,No,False,0.0
+hotpot_0004,10,Boltzmann machine,True,1.0
+hotpot_0005,1,Pearl Jam,False,0.0
+hotpot_0005,2,Eric Gaffney,True,1.0
+hotpot_0005,3,Eric Gaffney,True,1.0
+hotpot_0005,5,Eric Gaffney,True,1.0
+hotpot_0005,10,Eric Gaffney,True,1.0
+hotpot_0006,1,SønderjyskE Ishockey,False,0.0
+hotpot_0006,2,Denmark men's national ice hockey team,False,0.9091
+hotpot_0006,3,Denmark men's national ice hockey team,False,0.9091
+hotpot_0006,5,Denmark men's national ice hockey team,False,0.9091
+hotpot_0006,10,Denmark men's national ice hockey team,False,0.9091
+hotpot_0007,1,1999 Galtür avalanche,False,0.8
+hotpot_0007,2,1999 Galtür avalanche,False,0.8
+hotpot_0007,3,1999 Galtür avalanche,False,0.8
+hotpot_0007,5,1999 Galtür avalanche,False,0.8
+hotpot_0007,10,1999 Galtür avalanche,False,0.8
+hotpot_0008,1,President of the United States,True,1.0
+hotpot_0008,2,President of the United States,True,1.0
+hotpot_0008,3,Vice President,False,0.3333
+hotpot_0008,5,President and Vice President,False,0.25
+hotpot_0008,10,Vice President,False,0.3333
+hotpot_0009,1,None,False,0.0
+hotpot_0009,2,Not mentioned,False,0.0
+hotpot_0009,3,Not mentioned,False,0.0
+hotpot_0009,5,51 Minds,False,0.0
+hotpot_0009,10,Sheen Michaels Entertainment,True,1.0
+hotpot_0010,1,Yes,True,1.0
+hotpot_0010,2,Yes,True,1.0
+hotpot_0010,3,Yes,True,1.0
+hotpot_0010,5,Yes,True,1.0
+hotpot_0010,10,Yes,True,1.0
+hotpot_0011,1,Coaxial cables,False,0.6667
+hotpot_0011,2,Coaxial cables,False,0.6667
+hotpot_0011,3,Coaxial cables,False,0.6667
+hotpot_0011,5,Coaxial cable,False,0.6667
+hotpot_0011,10,Coaxial cable,False,0.6667
+hotpot_0012,1,Not provided,False,0.0
+hotpot_0012,2,Armando Iannucci,True,1.0
+hotpot_0012,3,Armando Iannucci,True,1.0
+hotpot_0012,5,Armando Iannucci,True,1.0
+hotpot_0012,10,Armando Iannucci,True,1.0
+hotpot_0013,1,master builder,False,0.4
+hotpot_0013,2,master builder,False,0.4
+hotpot_0013,3,master builder,False,0.4
+hotpot_0013,5,master builder,False,0.4
+hotpot_0013,10,master builder,False,0.4
+hotpot_0014,1,Not mentioned,False,0.0
+hotpot_0014,2,Not mentioned,False,0.0
+hotpot_0014,3,2005,True,1.0
+hotpot_0014,5,2005,True,1.0
+hotpot_0014,10,2005,True,1.0
+hotpot_0015,1,Not specified,False,0.0
+hotpot_0015,2,42 members,True,1.0
+hotpot_0015,3,42 members,True,1.0
+hotpot_0015,5,42 members,True,1.0
+hotpot_0015,10,42 members,True,1.0
+hotpot_0016,1,Barnoldswick,True,1.0
+hotpot_0016,2,Barnoldswick,True,1.0
+hotpot_0016,3,Barnoldswick,True,1.0
+hotpot_0016,5,Barnoldswick,True,1.0
+hotpot_0016,10,Barnoldswick,True,1.0
+hotpot_0017,1,artworks,False,0.0
+hotpot_0017,2,drawings,True,1.0
+hotpot_0017,3,drawings,True,1.0
+hotpot_0017,5,drawings,True,1.0
+hotpot_0017,10,drawings,True,1.0
+hotpot_0018,1,45th Infantry Division,True,1.0
+hotpot_0018,2,45th Infantry Division,True,1.0
+hotpot_0018,3,45th Infantry Division,True,1.0
+hotpot_0018,5,45th Infantry Division,True,1.0
+hotpot_0018,10,45th Infantry Division,True,1.0
+hotpot_0019,1,Arrowhead Stadium; Kauffman Stadium,False,0.6667
+hotpot_0019,2,Arrowhead Stadium; Kauffman Stadium,False,0.6667
+hotpot_0019,3,Arrowhead Stadium; Kauffman Stadium,False,0.6667
+hotpot_0019,5,Arrowhead Stadium; Kauffman Stadium,False,0.6667
+hotpot_0019,10,Arrowhead Stadium; Kauffman Stadium,False,0.6667
+hotpot_0020,1,Mach number (Mach 2),False,0.4
+hotpot_0020,2,Mach 2,False,0.6667
+hotpot_0020,3,Mach 2,False,0.6667
+hotpot_0020,5,Mach number,False,0.0
+hotpot_0020,10,Mach 2,False,0.6667
+hotpot_0021,1,Tweaker,False,0.0
+hotpot_0021,2,Capital Cities,True,1.0
+hotpot_0021,3,Capital Cities,True,1.0
+hotpot_0021,5,Capital Cities,True,1.0
+hotpot_0021,10,Capital Cities,True,1.0
+hotpot_0022,1,Designated hitter rule,True,1.0
+hotpot_0022,2,Designated hitter rule,True,1.0
+hotpot_0022,3,Designated hitter rule,True,1.0
+hotpot_0022,5,Designated hitter rule,True,1.0
+hotpot_0022,10,Designated hitter rule,True,1.0
+hotpot_0023,1,Rose Mary Woods,True,1.0
+hotpot_0023,2,Rose Mary Woods,True,1.0
+hotpot_0023,3,Rose Mary Woods,True,1.0
+hotpot_0023,5,Rose Mary Woods,True,1.0
+hotpot_0023,10,Rose Mary Woods,True,1.0
+hotpot_0024,1,Arthur Miller,True,1.0
+hotpot_0024,2,Arthur Miller,True,1.0
+hotpot_0024,3,Arthur Miller,True,1.0
+hotpot_0024,5,Arthur Miller,True,1.0
+hotpot_0024,10,Arthur Miller,True,1.0
+hotpot_0025,1,Syed Mohammad Ahmed,False,0.0
+hotpot_0025,2,Yasir Hussain,True,1.0
+hotpot_0025,3,Yasir Hussain,True,1.0
+hotpot_0025,5,Yasir Hussain,True,1.0
+hotpot_0025,10,Yasir Hussain,True,1.0
+hotpot_0026,1,Na Na,True,1.0
+hotpot_0026,2,Na Na,True,1.0
+hotpot_0026,3,Na Na,True,1.0
+hotpot_0026,5,Na Na,True,1.0
+hotpot_0026,10,"""Na Na""",True,1.0
+hotpot_0027,1,Umberto II of Italy,False,0.6667
+hotpot_0027,2,Umberto II of Italy,False,0.6667
+hotpot_0027,3,Umberto II of Italy,False,0.6667
+hotpot_0027,5,Umberto II of Italy,False,0.6667
+hotpot_0027,10,Umberto II of Italy,False,0.6667
+hotpot_0028,1,English Mastiff,True,1.0
+hotpot_0028,2,English Mastiff,True,1.0
+hotpot_0028,3,English Mastiff,True,1.0
+hotpot_0028,5,English Mastiff,True,1.0
+hotpot_0028,10,English Mastiff,True,1.0
+hotpot_0029,1,Beaver and Erie Canal,True,1.0
+hotpot_0029,2,Beaver and Erie Canal,True,1.0
+hotpot_0029,3,Beaver and Erie Canal,True,1.0
+hotpot_0029,5,Beaver and Erie Canal,True,1.0
+hotpot_0029,10,Beaver and Erie Canal,True,1.0
+hotpot_0030,1,Not specified,False,0.0
+hotpot_0030,2,No specific release date provided,False,0.0
+hotpot_0030,3,No specific release date provided,False,0.0
+hotpot_0030,5,22 September 2015,True,1.0
+hotpot_0030,10,22 September 2015,True,1.0
+hotpot_0031,1,John Morgan,True,1.0
+hotpot_0031,2,John Morgan,True,1.0
+hotpot_0031,3,John Morgan,True,1.0
+hotpot_0031,5,John Morgan,True,1.0
+hotpot_0031,10,John Morgan,True,1.0
+hotpot_0032,1,Extreme metal,True,1.0
+hotpot_0032,2,Extreme metal,True,1.0
+hotpot_0032,3,Extreme metal,True,1.0
+hotpot_0032,5,Extreme metal,True,1.0
+hotpot_0032,10,Extreme metal,True,1.0
+hotpot_0033,1,Louisville International Airport,True,1.0
+hotpot_0033,2,Louisville International Airport,True,1.0
+hotpot_0033,3,Louisville International Airport,True,1.0
+hotpot_0033,5,Louisville International Airport,True,1.0
+hotpot_0033,10,Louisville International Airport,True,1.0
+hotpot_0034,1,Not mentioned,False,0.0
+hotpot_0034,2,Brian Stokes Mitchell,True,1.0
+hotpot_0034,3,Brian Stokes Mitchell,True,1.0
+hotpot_0034,5,Brian Stokes Mitchell,True,1.0
+hotpot_0034,10,Brian Stokes Mitchell,True,1.0
+hotpot_0035,1,Bunker Hill,False,0.0
+hotpot_0035,2,Bunker Hill,False,0.0
+hotpot_0035,3,Boston,False,0.0
+hotpot_0035,5,"Charlestown, Massachusetts",True,1.0
+hotpot_0035,10,"Charlestown, Massachusetts",True,1.0
+hotpot_0036,1,Worcester County,True,1.0
+hotpot_0036,2,Worcester,False,0.6667
+hotpot_0036,3,Worcester,False,0.6667
+hotpot_0036,5,Worcester County,True,1.0
+hotpot_0036,10,Worcester County,True,1.0
+hotpot_0037,1,Sex Drive,True,1.0
+hotpot_0037,2,Sex Drive,True,1.0
+hotpot_0037,3,Sex Drive,True,1.0
+hotpot_0037,5,Sex Drive,True,1.0
+hotpot_0037,10,Sex Drive,True,1.0
+hotpot_0038,1,Prussia,True,1.0
+hotpot_0038,2,Prussia,True,1.0
+hotpot_0038,3,Prussia,True,1.0
+hotpot_0038,5,Prussia,True,1.0
+hotpot_0038,10,Prussia,True,1.0
+hotpot_0039,1,Walldorf,True,1.0
+hotpot_0039,2,Walldorf,True,1.0
+hotpot_0039,3,Walldorf,True,1.0
+hotpot_0039,5,Walldorf,True,1.0
+hotpot_0039,10,Walldorf,True,1.0
+hotpot_0040,1,Vikram,True,1.0
+hotpot_0040,2,Vikram,True,1.0
+hotpot_0040,3,Vikram,True,1.0
+hotpot_0040,5,Vikram,True,1.0
+hotpot_0040,10,Vikram,True,1.0
+hotpot_0041,1,Fantastic Voyage,False,0.0
+hotpot_0041,2,Gangsta's Paradise,True,1.0
+hotpot_0041,3,Gangsta's Paradise,True,1.0
+hotpot_0041,5,Gangsta's Paradise,True,1.0
+hotpot_0041,10,Gangsta's Paradise,True,1.0
+hotpot_0042,1,Amesiella,True,1.0
+hotpot_0042,2,Amesiella,True,1.0
+hotpot_0042,3,Amesiella,True,1.0
+hotpot_0042,5,Amesiella,True,1.0
+hotpot_0042,10,Amesiella,True,1.0
+hotpot_0043,1,John Mills,False,0.0
+hotpot_0043,2,Tom Courtenay,False,0.3333
+hotpot_0043,3,Tom Courtenay,False,0.3333
+hotpot_0043,5,Tom Courtenay,False,0.3333
+hotpot_0043,10,Tom Courtenay,False,0.3333
+hotpot_0044,1,Not provided,False,0.0
+hotpot_0044,2,"January 24, 2012",True,1.0
+hotpot_0044,3,"January 24, 2012",True,1.0
+hotpot_0044,5,"January 24, 2012",True,1.0
+hotpot_0044,10,"January 24, 2012",True,1.0
+hotpot_0045,1,Las Vegas,True,1.0
+hotpot_0045,2,Las Vegas,True,1.0
+hotpot_0045,3,Las Vegas,True,1.0
+hotpot_0045,5,Las Vegas,True,1.0
+hotpot_0045,10,Las Vegas,True,1.0
+hotpot_0046,1,"Liberal arts, science, Jesuit tradition",False,0.0
+hotpot_0046,2,"liberal arts, science, Jesuit tradition",False,0.0
+hotpot_0046,3,"Grammar, logic, and rhetoric",True,1.0
+hotpot_0046,5,"Grammar, logic, and rhetoric",True,1.0
+hotpot_0046,10,"Grammar, logic, and rhetoric",True,1.0
+hotpot_0047,1,Acting career,True,1.0
+hotpot_0047,2,Acting career,True,1.0
+hotpot_0047,3,Acting career,True,1.0
+hotpot_0047,5,Acting career,True,1.0
+hotpot_0047,10,Acting career,True,1.0
+hotpot_0048,1,No,True,1.0
+hotpot_0048,2,No,True,1.0
+hotpot_0048,3,No,True,1.0
+hotpot_0048,5,No,True,1.0
+hotpot_0048,10,No,True,1.0
+hotpot_0049,1,Crocosmia,True,1.0
+hotpot_0049,2,Crocosmia,True,1.0
+hotpot_0049,3,Crocosmia,True,1.0
+hotpot_0049,5,Crocosmia,True,1.0
+hotpot_0049,10,Crocosmia,True,1.0
+hotpot_0050,1,Not mentioned,False,0.0
+hotpot_0050,2,No component with formula (ON)CHOH,False,0.0
+hotpot_0050,3,No component with formula (ON)CHOH,False,0.0
+hotpot_0050,5,No component with formula (ON)CHOH,False,0.0
+hotpot_0050,10,Picric acid,True,1.0
+hotpot_0051,1,Only Eugene Dynkin.,False,0.0
+hotpot_0051,2,Yes,True,1.0
+hotpot_0051,3,Yes,True,1.0
+hotpot_0051,5,Yes,True,1.0
+hotpot_0051,10,Yes,True,1.0
+hotpot_0052,1,Yes,False,0.0
+hotpot_0052,2,Yes,False,0.0
+hotpot_0052,3,No,True,1.0
+hotpot_0052,5,No,True,1.0
+hotpot_0052,10,Yes,False,0.0
+hotpot_0053,1,Not provided,False,0.0
+hotpot_0053,2,Not provided,False,0.0
+hotpot_0053,3,Not provided,False,0.0
+hotpot_0053,5,Not provided,False,0.0
+hotpot_0053,10,More than 10 million,True,1.0
+hotpot_0054,1,Not specified,False,0.0
+hotpot_0054,2,Song Kang-ho and Jung Woo-sung,False,0.0
+hotpot_0054,3,Song Kang-ho and Jung Woo-sung,False,0.0
+hotpot_0054,5,Song Kang-ho and Jung Woo-sung,False,0.0
+hotpot_0054,10,Song Kang-ho and Jung Woo-sung,False,0.0
+hotpot_0055,1,"Hotel, Airport, Wheels",False,0.6667
+hotpot_0055,2,"Hotel, Airport, Wheels",False,0.6667
+hotpot_0055,3,"Hotel, Airport, Wheels",False,0.6667
+hotpot_0055,5,"Hotel, Airport, Wheels",False,0.6667
+hotpot_0055,10,"Hotel, Airport, Wheels",False,0.6667
+hotpot_0056,1,Star Wars: Clone Wars (2003 TV series),False,0.0
+hotpot_0056,2,Star Wars: Clone Wars (2003 TV series),False,0.0
+hotpot_0056,3,Dexter's Laboratory and Samurai Jack,False,0.8889
+hotpot_0056,5,Dexter's Laboratory and Samurai Jack,False,0.8889
+hotpot_0056,10,Dexter's Laboratory and Samurai Jack,False,0.8889
+hotpot_0057,1,Robins Air Force Base is named after Brigadier General Augustine Warner Robins.,False,0.3529
+hotpot_0057,2,Robins Air Force Base is named after Brigadier General Augustine Warner Robins.,False,0.3529
+hotpot_0057,3,Not stated,False,0.0
+hotpot_0057,5,Robins Air Force Base,False,0.2222
+hotpot_0057,10,Brig Gen Augustine Warner Robins,True,1.0
+hotpot_0058,1,Jay Schottenstein,True,1.0
+hotpot_0058,2,Jay Schottenstein,True,1.0
+hotpot_0058,3,Jay Schottenstein,True,1.0
+hotpot_0058,5,Jay Schottenstein,True,1.0
+hotpot_0058,10,Jay Schottenstein,True,1.0
+hotpot_0059,1,Washington State,False,0.0
+hotpot_0059,2,Washington State,False,0.0
+hotpot_0059,3,No information provided,False,0.0
+hotpot_0059,5,Washington State University,False,0.0
+hotpot_0059,10,Washington State University,False,0.0
+hotpot_0060,1,Only Todd Field,False,0.0
+hotpot_0060,2,Yes,True,1.0
+hotpot_0060,3,Yes,True,1.0
+hotpot_0060,5,Yes,True,1.0
+hotpot_0060,10,Yes,True,1.0
+hotpot_0061,1,Chad,True,1.0
+hotpot_0061,2,Chad,True,1.0
+hotpot_0061,3,Chad,True,1.0
+hotpot_0061,5,Chad,True,1.0
+hotpot_0061,10,Chad,True,1.0
+hotpot_0062,1,Kimberly Po,False,0.0
+hotpot_0062,2,Kimberly Po,False,0.0
+hotpot_0062,3,Kimberly Po,False,0.0
+hotpot_0062,5,Kimberly Po,False,0.0
+hotpot_0062,10,Kimberly Po,False,0.0
+hotpot_0063,1,Neither,False,0.0
+hotpot_0063,2,Maurice Level,True,1.0
+hotpot_0063,3,Maurice Level,True,1.0
+hotpot_0063,5,Maurice Level,True,1.0
+hotpot_0063,10,Maurice Level,True,1.0
+hotpot_0064,1,Five aerial victories,False,0.0
+hotpot_0064,2,44 victories,False,0.6667
+hotpot_0064,3,44 victories,False,0.6667
+hotpot_0064,5,44 victories,False,0.6667
+hotpot_0064,10,44 victories,False,0.6667
+hotpot_0065,1,Cartoon Network,True,1.0
+hotpot_0065,2,Cartoon Network's Adult Swim,False,0.3333
+hotpot_0065,3,Cartoon Network,True,1.0
+hotpot_0065,5,Cartoon Network's Adult Swim,False,0.3333
+hotpot_0065,10,Adult Swim,False,0.0
+hotpot_0066,1,South West England,False,0.75
+hotpot_0066,2,South West England,False,0.75
+hotpot_0066,3,South West England,False,0.75
+hotpot_0066,5,"West Dorset, South West England",True,1.0
+hotpot_0066,10,West Dorset,False,0.5714
+hotpot_0067,1,Miami,False,0.0
+hotpot_0067,2,Miami,False,0.0
+hotpot_0067,3,Miami,False,0.0
+hotpot_0067,5,Miami,False,0.0
+hotpot_0067,10,"Marietta, Georgia",False,0.6667
+hotpot_0068,1,Arts management,False,0.0
+hotpot_0068,2,Arts management,False,0.0
+hotpot_0068,3,Arts management,False,0.0
+hotpot_0068,5,Arts management,False,0.0
+hotpot_0068,10,Arts manager,False,0.0
+hotpot_0069,1,Pharrell Williams,False,0.8
+hotpot_0069,2,Pharrell Williams,False,0.8
+hotpot_0069,3,Pharrell Williams,False,0.8
+hotpot_0069,5,Pharrell Williams,False,0.8
+hotpot_0069,10,Pharrell Williams,False,0.8
+hotpot_0070,1,Vijay Mallya,False,0.8
+hotpot_0070,2,Vijay Mallya,False,0.8
+hotpot_0070,3,Vijay Mallya,False,0.8
+hotpot_0070,5,Vijay Mallya,False,0.8
+hotpot_0070,10,Vijay Mallya,False,0.8
+hotpot_0071,1,Karl Marx,True,1.0
+hotpot_0071,2,Karl Marx,True,1.0
+hotpot_0071,3,Karl Marx,True,1.0
+hotpot_0071,5,Karl Marx,True,1.0
+hotpot_0071,10,Karl Marx,True,1.0
+hotpot_0072,1,Geordie,True,1.0
+hotpot_0072,2,Geordie,True,1.0
+hotpot_0072,3,Geordie,True,1.0
+hotpot_0072,5,Geordie,True,1.0
+hotpot_0072,10,Geordie,True,1.0
+hotpot_0073,1,Johnny Bright,False,0.8
+hotpot_0073,2,Johnny Bright,False,0.8
+hotpot_0073,3,Johnny Bright,False,0.8
+hotpot_0073,5,Johnny Bright,False,0.8
+hotpot_0073,10,Johnny Bright,False,0.8
+hotpot_0074,1,Steven Selling,True,1.0
+hotpot_0074,2,Steven Selling,True,1.0
+hotpot_0074,3,Steven Selling,True,1.0
+hotpot_0074,5,Steven Selling,True,1.0
+hotpot_0074,10,Steven Selling,True,1.0
+hotpot_0075,1,Edward Herrmann,False,0.0
+hotpot_0075,2,Veronica Hamel,True,1.0
+hotpot_0075,3,Veronica Hamel,True,1.0
+hotpot_0075,5,Veronica Hamel,True,1.0
+hotpot_0075,10,Veronica Hamel,True,1.0
+hotpot_0076,1,Ford Island,True,1.0
+hotpot_0076,2,Ford Island,True,1.0
+hotpot_0076,3,Ford Island,True,1.0
+hotpot_0076,5,Ford Island,True,1.0
+hotpot_0076,10,Ford Island,True,1.0
+hotpot_0077,1,Flowering plants,True,1.0
+hotpot_0077,2,flowering plants,True,1.0
+hotpot_0077,3,Flowering plants,True,1.0
+hotpot_0077,5,Flowering plants,True,1.0
+hotpot_0077,10,Flowering plants,True,1.0
+hotpot_0078,1,Humberside,False,0.3333
+hotpot_0078,2,Humberside,False,0.3333
+hotpot_0078,3,Humberside,False,0.3333
+hotpot_0078,5,Humberside,False,0.3333
+hotpot_0078,10,Humberside,False,0.3333
+hotpot_0079,1,Not specified,False,0.0
+hotpot_0079,2,Arlo Looking Cloud,True,1.0
+hotpot_0079,3,Arlo Looking Cloud,True,1.0
+hotpot_0079,5,Arlo Looking Cloud,True,1.0
+hotpot_0079,10,Arlo Looking Cloud,True,1.0
+hotpot_0080,1,Whitewater Canal,True,1.0
+hotpot_0080,2,Whitewater Canal,True,1.0
+hotpot_0080,3,Whitewater Canal,True,1.0
+hotpot_0080,5,Whitewater Canal,True,1.0
+hotpot_0080,10,Whitewater Canal,True,1.0
+hotpot_0081,1,Frank Sinatra and the Rat Pack,False,0.3333
+hotpot_0081,2,"Frank Sinatra, Dean Martin, Sammy Davis Jr.",True,1.0
+hotpot_0081,3,"Frank Sinatra, Dean Martin, Sammy Davis Jr.",True,1.0
+hotpot_0081,5,"Frank Sinatra, Dean Martin, Sammy Davis Jr.",True,1.0
+hotpot_0081,10,"Frank Sinatra, Dean Martin, Sammy Davis Jr.",True,1.0
+hotpot_0082,1,Mike Shinoda,False,0.0
+hotpot_0082,2,Teru,False,0.0
+hotpot_0082,3,Teru,False,0.0
+hotpot_0082,5,Teru,False,0.0
+hotpot_0082,10,Teru,False,0.0
+hotpot_0083,1,United States,False,0.0
+hotpot_0083,2,USA,False,0.0
+hotpot_0083,3,United States,False,0.0
+hotpot_0083,5,United States,False,0.0
+hotpot_0083,10,United States,False,0.0
+hotpot_0084,1,Not mentioned,False,0.0
+hotpot_0084,2,1993,False,0.0
+hotpot_0084,3,1993,False,0.0
+hotpot_0084,5,1993,False,0.0
+hotpot_0084,10,1991,True,1.0
+hotpot_0085,1,No information provided,False,0.0
+hotpot_0085,2,No information provided,False,0.0
+hotpot_0085,3,No information provided,False,0.0
+hotpot_0085,5,General Electric,False,0.0
+hotpot_0085,10,General Electric,False,0.0
+hotpot_0086,1,Musicians,False,0.0
+hotpot_0086,2,American rock singers,False,0.4
+hotpot_0086,3,American rock singers,False,0.4
+hotpot_0086,5,American rock singers,False,0.4
+hotpot_0086,10,American rock singers,False,0.4
+hotpot_0087,1,England and Scotland,True,1.0
+hotpot_0087,2,England and Scotland,True,1.0
+hotpot_0087,3,England and Scotland,True,1.0
+hotpot_0087,5,England and Scotland,True,1.0
+hotpot_0087,10,England and Scotland,True,1.0
+hotpot_0088,1,Wilhelm Steinitz,False,0.6667
+hotpot_0088,2,Wilhelm Steinitz,False,0.6667
+hotpot_0088,3,Wilhelm Steinitz,False,0.6667
+hotpot_0088,5,Wilhelm Steinitz,False,0.6667
+hotpot_0088,10,Wilhelm Steinitz,False,0.6667
+hotpot_0089,1,Rhyme,True,1.0
+hotpot_0089,2,Nursery rhyme reference,False,0.5
+hotpot_0089,3,Title reference pun,False,0.0
+hotpot_0089,5,Pun,False,0.0
+hotpot_0089,10,Pun,False,0.0
+hotpot_0090,1,Ellie Kemper,True,1.0
+hotpot_0090,2,Ellie Kemper,True,1.0
+hotpot_0090,3,Ellie Kemper,True,1.0
+hotpot_0090,5,Ellie Kemper,True,1.0
+hotpot_0090,10,Ellie Kemper,True,1.0
+hotpot_0091,1,The new king in 1714 (George I).,False,0.5
+hotpot_0091,2,The new king in 1714 (King George I).,False,0.4444
+hotpot_0091,3,The new king in 1714 (George I).,False,0.5
+hotpot_0091,5,The new king in 1714 (George I).,False,0.5
+hotpot_0091,10,George I,True,1.0
+hotpot_0092,1,Ramsey County,False,0.5
+hotpot_0092,2,Hennepin County,True,1.0
+hotpot_0092,3,Hennepin County,True,1.0
+hotpot_0092,5,Hennepin County,True,1.0
+hotpot_0092,10,Hennepin County,True,1.0
+hotpot_0093,1,Not mentioned,False,0.0
+hotpot_0093,2,Not mentioned,False,0.0
+hotpot_0093,3,No information provided,False,0.0
+hotpot_0093,5,Enigma,True,1.0
+hotpot_0093,10,Enigma,True,1.0
+hotpot_0094,1,Not mentioned,False,0.0
+hotpot_0094,2,Not mentioned,False,0.0
+hotpot_0094,3,Not mentioned,False,0.0
+hotpot_0094,5,CableACE Award for Best Actress in a Dramatic Series,False,0.3077
+hotpot_0094,10,CableACE Award for Best Actress in a Dramatic Series,False,0.3077
+hotpot_0095,1,15 animals,False,0.6667
+hotpot_0095,2,15 animals,False,0.6667
+hotpot_0095,3,15 animals,False,0.6667
+hotpot_0095,5,15 animals,False,0.6667
+hotpot_0095,10,15 animals,False,0.6667
+hotpot_0096,1,Mondelez International,False,0.8
+hotpot_0096,2,Mondelez International,False,0.8
+hotpot_0096,3,Mondelez International,False,0.8
+hotpot_0096,5,Mondelez International,False,0.8
+hotpot_0096,10,Mondelez International,False,0.8
+hotpot_0097,1,Rock band,False,0.6667
+hotpot_0097,2,Rock band,False,0.6667
+hotpot_0097,3,Rock band,False,0.6667
+hotpot_0097,5,Rock band,False,0.6667
+hotpot_0097,10,Rock band,False,0.6667
+hotpot_0098,1,Raiffeisen Banking Group Austria (RBG),False,0.0
+hotpot_0098,2,Austrian Volksbanks,True,1.0
+hotpot_0098,3,Austrian Volksbanks,True,1.0
+hotpot_0098,5,Austrian Volksbanks,True,1.0
+hotpot_0098,10,Austrian Volksbanks,True,1.0
+hotpot_0099,1,Pietro Badoglio,False,0.8
+hotpot_0099,2,Pietro Badoglio,False,0.8
+hotpot_0099,3,Pietro Badoglio,False,0.8
+hotpot_0099,5,Pietro Badoglio,False,0.8
+hotpot_0099,10,Pietro Badoglio,False,0.8
+hotpot_0100,1,Not specified,False,0.0
+hotpot_0100,2,John R. Leonetti,True,1.0
+hotpot_0100,3,John R. Leonetti,True,1.0
+hotpot_0100,5,John R. Leonetti,True,1.0
+hotpot_0100,10,John R. Leonetti,True,1.0
+hotpot_0101,1,Björn Ulvaeus,False,0.0
+hotpot_0101,2,Benny Andersson,True,1.0
+hotpot_0101,3,Benny Andersson,True,1.0
+hotpot_0101,5,Benny Andersson,True,1.0
+hotpot_0101,10,Benny Andersson,True,1.0
+hotpot_0102,1,Barry Humphries,False,0.0
+hotpot_0102,2,Barry Humphries,False,0.0
+hotpot_0102,3,Dame Edna Everage,False,0.0
+hotpot_0102,5,Dame Edna Everage,False,0.0
+hotpot_0102,10,Dame Edna Everage,False,0.0
+hotpot_0103,1,Not specified,False,0.0
+hotpot_0103,2,Joseph E. Grosberg,True,1.0
+hotpot_0103,3,Joseph E. Grosberg,True,1.0
+hotpot_0103,5,Joseph E. Grosberg,True,1.0
+hotpot_0103,10,Joseph E. Grosberg,True,1.0
+hotpot_0104,1,Jimmy Ellis,True,1.0
+hotpot_0104,2,Jimmy Ellis,True,1.0
+hotpot_0104,3,Jimmy Ellis,True,1.0
+hotpot_0104,5,Jimmy Ellis,True,1.0
+hotpot_0104,10,Jimmy Ellis,True,1.0
+hotpot_0105,1,BBC Focus,True,1.0
+hotpot_0105,2,BBC Focus,True,1.0
+hotpot_0105,3,BBC Focus,True,1.0
+hotpot_0105,5,BBC Focus,True,1.0
+hotpot_0105,10,BBC Focus,True,1.0
+hotpot_0106,1,Not stated,False,0.0
+hotpot_0106,2,"May 5, 1939",True,1.0
+hotpot_0106,3,"May 5, 1939",True,1.0
+hotpot_0106,5,"May 5, 1939",True,1.0
+hotpot_0106,10,"May 5, 1939",True,1.0
+hotpot_0107,1,General of the Armies,False,0.1667
+hotpot_0107,2,Commander of the American Expeditionary Force (AEF) on the Western Front in World War I,False,0.8182
+hotpot_0107,3,Commander of the American Expeditionary Force (AEF) on the Western Front in World War I,False,0.8182
+hotpot_0107,5,Commander of the American Expeditionary Force (AEF) on the Western Front in World War I,False,0.8182
+hotpot_0107,10,Commander of the American Expeditionary Force (AEF) on the Western Front in World War I,False,0.8182
+hotpot_0108,1,British Bristol Olympus turbojet,True,1.0
+hotpot_0108,2,British Bristol Olympus turbojet,True,1.0
+hotpot_0108,3,British Bristol Olympus turbojet,True,1.0
+hotpot_0108,5,British Bristol Olympus turbojet,True,1.0
+hotpot_0108,10,British Bristol Olympus turbojet,True,1.0
+hotpot_0109,1,Ellie Kemper,True,1.0
+hotpot_0109,2,Ellie Kemper,True,1.0
+hotpot_0109,3,Ellie Kemper,True,1.0
+hotpot_0109,5,Ellie Kemper,True,1.0
+hotpot_0109,10,Ellie Kemper,True,1.0
+hotpot_0110,1,Not mentioned,False,0.0
+hotpot_0110,2,Three centuries,True,1.0
+hotpot_0110,3,Not specified,False,0.0
+hotpot_0110,5,Not specified,False,0.0
+hotpot_0110,10,Three centuries,True,1.0
+hotpot_0111,1,Centers for Medicare and Medicaid Services (CMS),False,0.9231
+hotpot_0111,2,Centers for Medicare and Medicaid Services (CMS),False,0.9231
+hotpot_0111,3,Centers for Medicare and Medicaid Services (CMS),False,0.9231
+hotpot_0111,5,Centers for Medicare and Medicaid Services (CMS),False,0.9231
+hotpot_0111,10,Centers for Medicare and Medicaid Services (CMS),False,0.9231
+hotpot_0112,1,Joe Orton,False,0.6667
+hotpot_0112,2,Joe Orton,False,0.6667
+hotpot_0112,3,Joe Orton,False,0.6667
+hotpot_0112,5,Joe Orton,False,0.6667
+hotpot_0112,10,Joe Orton,False,0.6667
+hotpot_0113,1,Kittie,True,1.0
+hotpot_0113,2,Kittie,True,1.0
+hotpot_0113,3,Kittie,True,1.0
+hotpot_0113,5,Kittie,True,1.0
+hotpot_0113,10,Kittie,True,1.0
+hotpot_0114,1,11 November 1918,True,1.0
+hotpot_0114,2,11 November 1918,True,1.0
+hotpot_0114,3,11 November 1918,True,1.0
+hotpot_0114,5,11 November 1918,True,1.0
+hotpot_0114,10,11 November 1918,True,1.0
+hotpot_0115,1,Futures Collegiate Baseball League (FCBL),False,0.2
+hotpot_0115,2,Futures Collegiate Baseball League (FCBL),False,0.2
+hotpot_0115,3,Futures Collegiate Baseball League (FCBL),False,0.2
+hotpot_0115,5,Futures Collegiate Baseball League (FCBL),False,0.2
+hotpot_0115,10,Futures Collegiate Baseball League (FCBL),False,0.2
+hotpot_0116,1,Alfonso Cuarón,True,1.0
+hotpot_0116,2,Not stated,False,0.0
+hotpot_0116,3,Not provided,False,0.0
+hotpot_0116,5,Not specified,False,0.0
+hotpot_0116,10,Alfonso Cuarón,True,1.0
+hotpot_0117,1,King Kelly,False,0.5
+hotpot_0117,2,King Kelly,False,0.5
+hotpot_0117,3,"$10,000 Kelly",True,1.0
+hotpot_0117,5,"""$10,000 Kelly""",True,1.0
+hotpot_0117,10,"$10,000 Kelly",True,1.0
+hotpot_0118,1,Treaty of Trianon,True,1.0
+hotpot_0118,2,Treaty of Trianon,True,1.0
+hotpot_0118,3,Treaty of Trianon,True,1.0
+hotpot_0118,5,Treaty of Trianon,True,1.0
+hotpot_0118,10,Treaty of Trianon,True,1.0
+hotpot_0119,1,George Kuchar,False,0.0
+hotpot_0119,2,Arthur Penn,False,0.8
+hotpot_0119,3,Arthur Penn,False,0.8
+hotpot_0119,5,Arthur Penn,False,0.8
+hotpot_0119,10,Arthur Penn,False,0.8
+hotpot_0120,1,Writers,False,0.0
+hotpot_0120,2,Writers,False,0.0
+hotpot_0120,3,Writers,False,0.0
+hotpot_0120,5,Writers,False,0.0
+hotpot_0120,10,Writers,False,0.0
+hotpot_0121,1,Not specified,False,0.0
+hotpot_0121,2,"Boston, Massachusetts",True,1.0
+hotpot_0121,3,"Boston, Massachusetts",True,1.0
+hotpot_0121,5,"Boston, Massachusetts",True,1.0
+hotpot_0121,10,"Boston, Massachusetts",True,1.0
+hotpot_0122,1,Lord Chancellor,False,0.6667
+hotpot_0122,2,Lord Chancellor of England,True,1.0
+hotpot_0122,3,Lord Chancellor of England,True,1.0
+hotpot_0122,5,Lord Chancellor of England,True,1.0
+hotpot_0122,10,Lord Chancellor of England,True,1.0
+hotpot_0123,1,25 October 1921,True,1.0
+hotpot_0123,2,25 October 1921,True,1.0
+hotpot_0123,3,25 October 1921,True,1.0
+hotpot_0123,5,25 October 1921,True,1.0
+hotpot_0123,10,25 October 1921,True,1.0
+hotpot_0124,1,March 2012,False,0.0
+hotpot_0124,2,March 2012,False,0.0
+hotpot_0124,3,March 2012,False,0.0
+hotpot_0124,5,March 2012,False,0.0
+hotpot_0124,10,March 2012,False,0.0
+hotpot_0125,1,Fiat S.p.A.,False,0.0
+hotpot_0125,2,Fiat S.p.A.,False,0.0
+hotpot_0125,3,Fiat S.p.A.,False,0.0
+hotpot_0125,5,Fiat S.p.A.,False,0.0
+hotpot_0125,10,Fiat S.p.A.,False,0.0
+hotpot_0126,1,Not stated,False,0.0
+hotpot_0126,2,Thirteen,True,1.0
+hotpot_0126,3,Thirteen,True,1.0
+hotpot_0126,5,Thirteen,True,1.0
+hotpot_0126,10,Thirteen,True,1.0
+hotpot_0127,1,Apple Lisa mouse,False,0.8
+hotpot_0127,2,Apple Lisa mouse,False,0.8
+hotpot_0127,3,Apple one-button mouse,False,0.4
+hotpot_0127,5,Apple one-button mouse,False,0.4
+hotpot_0127,10,Apple one-button mouse,False,0.4
+hotpot_0128,1,Ministry of European Integration,True,1.0
+hotpot_0128,2,Ministry of European Integration,True,1.0
+hotpot_0128,3,Ministry of European Integration,True,1.0
+hotpot_0128,5,Ministry of European Integration,True,1.0
+hotpot_0128,10,Ministry of European Integration,True,1.0
+hotpot_0129,1,Yes,True,1.0
+hotpot_0129,2,Yes,True,1.0
+hotpot_0129,3,Yes,True,1.0
+hotpot_0129,5,Yes,True,1.0
+hotpot_0129,10,Yes,True,1.0
+hotpot_0130,1,Not mentioned,False,0.0
+hotpot_0130,2,Not provided,False,0.0
+hotpot_0130,3,Not provided,False,0.0
+hotpot_0130,5,Not provided,False,0.0
+hotpot_0130,10,Jack Schwartzman,False,0.0
+hotpot_0131,1,Dallas,True,1.0
+hotpot_0131,2,Dallas,True,1.0
+hotpot_0131,3,Dallas,True,1.0
+hotpot_0131,5,Dallas,True,1.0
+hotpot_0131,10,Dallas,True,1.0
+hotpot_0132,1,Tamworth and Walcha,False,0.5
+hotpot_0132,2,Tamworth and Walcha,False,0.5
+hotpot_0132,3,Tamworth and Walcha,False,0.5
+hotpot_0132,5,Tamworth and Walcha,False,0.5
+hotpot_0132,10,Tamworth and Walcha,False,0.5
+hotpot_0133,1,Trenton–Mercer Airport (no data on Palm Springs provided),False,0.4
+hotpot_0133,2,Trenton–Mercer Airport,True,1.0
+hotpot_0133,3,Trenton–Mercer Airport,True,1.0
+hotpot_0133,5,Trenton–Mercer Airport,True,1.0
+hotpot_0133,10,Trenton–Mercer Airport,True,1.0
+hotpot_0134,1,Tennis,True,1.0
+hotpot_0134,2,Tennis,True,1.0
+hotpot_0134,3,Tennis,True,1.0
+hotpot_0134,5,Tennis,True,1.0
+hotpot_0134,10,Tennis,True,1.0
+hotpot_0135,1,Darren Hayes,False,0.8
+hotpot_0135,2,Darren Hayes,False,0.8
+hotpot_0135,3,Darren Hayes,False,0.8
+hotpot_0135,5,Darren Hayes,False,0.8
+hotpot_0135,10,Darren Hayes,False,0.8
+hotpot_0136,1,No information provided,False,0.0
+hotpot_0136,2,7°56' South,False,0.6667
+hotpot_0136,3,7°56' South,False,0.6667
+hotpot_0136,5,7°56' South,False,0.6667
+hotpot_0136,10,7°56' South,False,0.6667
+hotpot_0137,1,"Indianapolis, Indiana, United States",False,0.5
+hotpot_0137,2,"Midland, Michigan, United States",True,1.0
+hotpot_0137,3,"Midland, Michigan, United States",True,1.0
+hotpot_0137,5,"Midland, Michigan, United States",True,1.0
+hotpot_0137,10,"Midland, Michigan, United States",True,1.0
+hotpot_0138,1,Alexander Gorsky,True,1.0
+hotpot_0138,2,Alexander Gorsky,True,1.0
+hotpot_0138,3,Alexander Gorsky,True,1.0
+hotpot_0138,5,Alexander Gorsky,True,1.0
+hotpot_0138,10,Alexander Gorsky,True,1.0
+hotpot_0139,1,The Jungle Book,False,0.8
+hotpot_0139,2,The Jungle Book,False,0.8
+hotpot_0139,3,The Jungle Book,False,0.8
+hotpot_0139,5,The Jungle Book,False,0.8
+hotpot_0139,10,The Jungle Book,False,0.8
+hotpot_0140,1,Unknown from passages,False,0.0
+hotpot_0140,2,No,True,1.0
+hotpot_0140,3,No,True,1.0
+hotpot_0140,5,No,True,1.0
+hotpot_0140,10,No,True,1.0
+hotpot_0141,1,Not answered in passages,False,0.0
+hotpot_0141,2,The Legend of Sleepy Hollow,True,1.0
+hotpot_0141,3,The Legend of Sleepy Hollow,True,1.0
+hotpot_0141,5,The Legend of Sleepy Hollow,True,1.0
+hotpot_0141,10,The Legend of Sleepy Hollow,True,1.0
+hotpot_0142,1,Dame Zara Kate Bate,False,0.0
+hotpot_0142,2,Harold Edward Holt,True,1.0
+hotpot_0142,3,Harold Edward Holt,True,1.0
+hotpot_0142,5,Harold Edward Holt,True,1.0
+hotpot_0142,10,Harold Edward Holt,True,1.0
+hotpot_0143,1,Near Philip Billard Municipal Airport,True,1.0
+hotpot_0143,2,"Pleasant Hill, Missouri",False,0.0
+hotpot_0143,3,"Pleasant Hill, Missouri",False,0.0
+hotpot_0143,5,"Pleasant Hill, Missouri",False,0.0
+hotpot_0143,10,"Pleasant Hill, Missouri",False,0.0
+hotpot_0144,1,Not mentioned,False,0.0
+hotpot_0144,2,Graduados,True,1.0
+hotpot_0144,3,Graduados,True,1.0
+hotpot_0144,5,Graduados,True,1.0
+hotpot_0144,10,Graduados,True,1.0
+hotpot_0145,1,No shared country,False,0.0
+hotpot_0145,2,Armenia,False,0.0
+hotpot_0145,3,Armenia,False,0.0
+hotpot_0145,5,Armenia,False,0.0
+hotpot_0145,10,Armenia,False,0.0
+hotpot_0146,1,Johannes Vermeer,True,1.0
+hotpot_0146,2,Johannes Vermeer,True,1.0
+hotpot_0146,3,Johannes Vermeer,True,1.0
+hotpot_0146,5,Johannes Vermeer,True,1.0
+hotpot_0146,10,Johannes Vermeer,True,1.0
+hotpot_0147,1,Tamil,True,1.0
+hotpot_0147,2,Tamil,True,1.0
+hotpot_0147,3,Tamil,True,1.0
+hotpot_0147,5,Tamil,True,1.0
+hotpot_0147,10,Tamil,True,1.0
+hotpot_0148,1,Not provided,False,0.0
+hotpot_0148,2,"3,500,000",False,0.6667
+hotpot_0148,3,"3,500,000",False,0.6667
+hotpot_0148,5,"3,500,000",False,0.6667
+hotpot_0148,10,"3,500,000",False,0.6667
+hotpot_0149,1,No information provided,False,0.0
+hotpot_0149,2,No information provided,False,0.0
+hotpot_0149,3,Harold Holt,True,1.0
+hotpot_0149,5,Harold Holt,True,1.0
+hotpot_0149,10,Harold Holt,True,1.0
+hotpot_0150,1,Shari Shattuck,True,1.0
+hotpot_0150,2,Shari Shattuck,True,1.0
+hotpot_0150,3,Shari Shattuck,True,1.0
+hotpot_0150,5,Shari Shattuck,True,1.0
+hotpot_0150,10,Shari Shattuck,True,1.0
+hotpot_0151,1,18th century,False,0.1429
+hotpot_0151,2,18th century,False,0.1429
+hotpot_0151,3,18th century,False,0.1429
+hotpot_0151,5,18th century,False,0.1429
+hotpot_0151,10,18th century,False,0.1429
+hotpot_0152,1,Atomic bomb,False,0.0
+hotpot_0152,2,Atomic bomb,False,0.0
+hotpot_0152,3,Nuclear weapons,True,1.0
+hotpot_0152,5,Nuclear weapons,True,1.0
+hotpot_0152,10,Nuclear weapons,True,1.0
+hotpot_0153,1,White Night,False,0.0
+hotpot_0153,2,the summer solstice in June,False,0.6667
+hotpot_0153,3,the summer solstice in June,False,0.6667
+hotpot_0153,5,the summer solstice in June,False,0.6667
+hotpot_0153,10,the summer solstice in June,False,0.6667
+hotpot_0154,1,Panicum,True,1.0
+hotpot_0154,2,Panicum,True,1.0
+hotpot_0154,3,Panicum,True,1.0
+hotpot_0154,5,Panicum,True,1.0
+hotpot_0154,10,Panicum,True,1.0
+hotpot_0155,1,Barcelona,True,1.0
+hotpot_0155,2,Barcelona,True,1.0
+hotpot_0155,3,Barcelona,True,1.0
+hotpot_0155,5,Barcelona,True,1.0
+hotpot_0155,10,Barcelona,True,1.0
+hotpot_0156,1,Not stated,False,0.0
+hotpot_0156,2,Not stated,False,0.0
+hotpot_0156,3,Not specified,False,0.0
+hotpot_0156,5,Not specified,False,0.0
+hotpot_0156,10,1978,True,1.0
+hotpot_0157,1,Jim Thorpe,True,1.0
+hotpot_0157,2,Jim Thorpe,True,1.0
+hotpot_0157,3,Jim Thorpe,True,1.0
+hotpot_0157,5,Jim Thorpe,True,1.0
+hotpot_0157,10,Jim Thorpe,True,1.0
+hotpot_0158,1,The passages do not provide this information.,False,0.0
+hotpot_0158,2,2005 season,True,1.0
+hotpot_0158,3,2005 season,True,1.0
+hotpot_0158,5,2005 season,True,1.0
+hotpot_0158,10,2005 season,True,1.0
+hotpot_0159,1,Not specified,False,0.0
+hotpot_0159,2,24800 miles,False,0.5
+hotpot_0159,3,24800 miles,False,0.5
+hotpot_0159,5,24800 miles,False,0.5
+hotpot_0159,10,24800 mi,True,1.0
+hotpot_0160,1,Center,False,0.0
+hotpot_0160,2,Not specified,False,0.0
+hotpot_0160,3,Center,False,0.0
+hotpot_0160,5,Center,False,0.0
+hotpot_0160,10,Centre,False,0.3333
+hotpot_0161,1,Sam Tick,True,1.0
+hotpot_0161,2,Sam Tick,True,1.0
+hotpot_0161,3,Sam Tick,True,1.0
+hotpot_0161,5,Sam Tick,True,1.0
+hotpot_0161,10,Sam Tick,True,1.0
+hotpot_0162,1,Over 250 million entries,False,0.3333
+hotpot_0162,2,More than 265 million business records,False,0.5
+hotpot_0162,3,More than 265 million business records,False,0.5
+hotpot_0162,5,More than 265 million business records,False,0.5
+hotpot_0162,10,More than 265 million business records,False,0.5
+hotpot_0163,1,Paul Rudd,False,0.0
+hotpot_0163,2,Reese Witherspoon,True,1.0
+hotpot_0163,3,Reese Witherspoon,True,1.0
+hotpot_0163,5,None,False,0.0
+hotpot_0163,10,Reese Witherspoon,True,1.0
+hotpot_0164,1,About 560 stores,False,0.5
+hotpot_0164,2,About 560 stores,False,0.5
+hotpot_0164,3,About 560 stores,False,0.5
+hotpot_0164,5,About 560 stores,False,0.5
+hotpot_0164,10,About 560 stores,False,0.5
+hotpot_0165,1,2.1 million members,False,0.8
+hotpot_0165,2,2.1 million members,False,0.8
+hotpot_0165,3,2.1 million members,False,0.8
+hotpot_0165,5,2.1 million members,False,0.8
+hotpot_0165,10,2.1 million members,False,0.8
+hotpot_0166,1,Not provided,False,0.0
+hotpot_0166,2,Not provided,False,0.0
+hotpot_0166,3,NKOTB,False,0.0
+hotpot_0166,5,Mudvayne,True,1.0
+hotpot_0166,10,Mudvayne,True,1.0
+hotpot_0167,1,Universities,False,0.0
+hotpot_0167,2,public research universities,False,0.4
+hotpot_0167,3,public research universities,False,0.4
+hotpot_0167,5,public research universities,False,0.4
+hotpot_0167,10,Public research universities,False,0.4
+hotpot_0168,1,Cannot determine from passages provided.,False,0.0
+hotpot_0168,2,Michael McKean,False,0.8
+hotpot_0168,3,Michael McKean,False,0.8
+hotpot_0168,5,Michael McKean,False,0.8
+hotpot_0168,10,Michael McKean,False,0.8
+hotpot_0169,1,"Louisville, Kentucky",False,0.6667
+hotpot_0169,2,"Louisville, Kentucky",False,0.6667
+hotpot_0169,3,"Louisville, Kentucky",False,0.6667
+hotpot_0169,5,"Louisville, Kentucky",False,0.6667
+hotpot_0169,10,"Louisville, Kentucky",False,0.6667
+hotpot_0170,1,A cover band (name not specified),False,0.0
+hotpot_0170,2,a cover band,False,0.0
+hotpot_0170,3,No cover band mentioned,False,0.0
+hotpot_0170,5,No cover band mentioned,False,0.0
+hotpot_0170,10,A cover band in high school,False,0.0
+hotpot_0171,1,Not specified,False,0.0
+hotpot_0171,2,2017,True,1.0
+hotpot_0171,3,2017,True,1.0
+hotpot_0171,5,2017,True,1.0
+hotpot_0171,10,2017,True,1.0
+hotpot_0172,1,Invader (Invasor),True,1.0
+hotpot_0172,2,Invader (Invasor),True,1.0
+hotpot_0172,3,Invader (Invasor),True,1.0
+hotpot_0172,5,Invader (Invasor),True,1.0
+hotpot_0172,10,Invader (Invasor),True,1.0
+hotpot_0173,1,Donald Duck,True,1.0
+hotpot_0173,2,Donald Duck,True,1.0
+hotpot_0173,3,Donald Duck,True,1.0
+hotpot_0173,5,Donald Duck,True,1.0
+hotpot_0173,10,Donald Duck,True,1.0
+hotpot_0174,1,Final Fantasy XII,True,1.0
+hotpot_0174,2,Final Fantasy XII,True,1.0
+hotpot_0174,3,Final Fantasy XII,True,1.0
+hotpot_0174,5,Final Fantasy XII,True,1.0
+hotpot_0174,10,Final Fantasy XII,True,1.0
+hotpot_0175,1,Not specified,False,0.0
+hotpot_0175,2,Between World War I and World War II,True,1.0
+hotpot_0175,3,Between World War I and World War II,True,1.0
+hotpot_0175,5,Between World War I and World War II,True,1.0
+hotpot_0175,10,Between World War I and World War II,True,1.0
+hotpot_0176,1,Judy Campbell,False,0.0
+hotpot_0176,2,Judy Campbell,False,0.0
+hotpot_0176,3,Judy Campbell,False,0.0
+hotpot_0176,5,Sebastian Shaw,False,0.8
+hotpot_0176,10,Sebastian Shaw,False,0.8
+hotpot_0177,1,Seacoast Region,True,1.0
+hotpot_0177,2,Seacoast Region,True,1.0
+hotpot_0177,3,Seacoast Region,True,1.0
+hotpot_0177,5,Seacoast Region,True,1.0
+hotpot_0177,10,Seacoast Region,True,1.0
+hotpot_0178,1,19th century,False,0.0
+hotpot_0178,2,19th century,False,0.0
+hotpot_0178,3,19th century,False,0.0
+hotpot_0178,5,19th century,False,0.0
+hotpot_0178,10,19th century,False,0.0
+hotpot_0179,1,Not mentioned,False,0.0
+hotpot_0179,2,Sean,True,1.0
+hotpot_0179,3,Sean,True,1.0
+hotpot_0179,5,Sean,True,1.0
+hotpot_0179,10,Sean,True,1.0
+hotpot_0180,1,Country music,False,0.6667
+hotpot_0180,2,Country music,False,0.6667
+hotpot_0180,3,Country music,False,0.6667
+hotpot_0180,5,Country music,False,0.6667
+hotpot_0180,10,Country,True,1.0
+hotpot_0181,1,13 February 2004,True,1.0
+hotpot_0181,2,13 February 2004,True,1.0
+hotpot_0181,3,7 February 2004,False,0.6667
+hotpot_0181,5,13 February 2004,True,1.0
+hotpot_0181,10,13 February 2004,True,1.0
+hotpot_0182,1,Around 300 houses,False,0.5
+hotpot_0182,2,Around 300 houses,False,0.5
+hotpot_0182,3,Around 300 houses,False,0.5
+hotpot_0182,5,Around 300 houses,False,0.5
+hotpot_0182,10,Around 300 houses,False,0.5
+hotpot_0183,1,Literary magazines,False,0.0
+hotpot_0183,2,Literary journals,False,0.0
+hotpot_0183,3,Literary journals,False,0.0
+hotpot_0183,5,Literary journals,False,0.0
+hotpot_0183,10,Literary journals,False,0.0
+hotpot_0184,1,Not specified,False,0.0
+hotpot_0184,2,Not specified,False,0.0
+hotpot_0184,3,Not specified,False,0.0
+hotpot_0184,5,Not specified,False,0.0
+hotpot_0184,10,November to March,True,1.0
+hotpot_0185,1,Not mentioned,False,0.0
+hotpot_0185,2,Kadhal Mannan,False,0.0
+hotpot_0185,3,Kadhal Mannan,False,0.0
+hotpot_0185,5,Kadhal Mannan,False,0.0
+hotpot_0185,10,Chief Minister of Tamil Nadu,False,0.0
+hotpot_0186,1,Not mentioned,False,0.0
+hotpot_0186,2,Not specified,False,0.0
+hotpot_0186,3,Not specified,False,0.0
+hotpot_0186,5,Major Charles White Whittlesey,True,1.0
+hotpot_0186,10,Major Charles White Whittlesey,True,1.0
+hotpot_0187,1,Not specified,False,0.0
+hotpot_0187,2,ABC1 and ABC2,True,1.0
+hotpot_0187,3,ABC1 and ABC2,True,1.0
+hotpot_0187,5,ABC1 and ABC2,True,1.0
+hotpot_0187,10,ABC1 and ABC2,True,1.0
+hotpot_0188,1,No,True,1.0
+hotpot_0188,2,No,True,1.0
+hotpot_0188,3,No,True,1.0
+hotpot_0188,5,No,True,1.0
+hotpot_0188,10,No,True,1.0
+hotpot_0189,1,Happy Death Day,True,1.0
+hotpot_0189,2,Happy Death Day,True,1.0
+hotpot_0189,3,Happy Death Day,True,1.0
+hotpot_0189,5,Happy Death Day,True,1.0
+hotpot_0189,10,Happy Death Day,True,1.0
+hotpot_0190,1,1976,True,1.0
+hotpot_0190,2,1976,True,1.0
+hotpot_0190,3,1976,True,1.0
+hotpot_0190,5,1976,True,1.0
+hotpot_0190,10,1976,True,1.0
+hotpot_0191,1,Belfast,False,0.5
+hotpot_0191,2,Belfast,False,0.5
+hotpot_0191,3,Belfast,False,0.5
+hotpot_0191,5,Belfast,False,0.5
+hotpot_0191,10,Belfast,False,0.5
+hotpot_0192,1,Yes,True,1.0
+hotpot_0192,2,Yes,True,1.0
+hotpot_0192,3,Yes,True,1.0
+hotpot_0192,5,Yes,True,1.0
+hotpot_0192,10,Yes,True,1.0
+hotpot_0193,1,St Augustine's Abbey,True,1.0
+hotpot_0193,2,St Augustine's Abbey,True,1.0
+hotpot_0193,3,St Augustine's Abbey,True,1.0
+hotpot_0193,5,St Augustine's Abbey,True,1.0
+hotpot_0193,10,St Augustine's Abbey,True,1.0
+hotpot_0194,1,ARY Films,True,1.0
+hotpot_0194,2,ARY Films,True,1.0
+hotpot_0194,3,ARY Films,True,1.0
+hotpot_0194,5,ARY Films,True,1.0
+hotpot_0194,10,ARY Films,True,1.0
+hotpot_0195,1,Robin Gibb,True,1.0
+hotpot_0195,2,Robin Gibb,True,1.0
+hotpot_0195,3,Robin Gibb,True,1.0
+hotpot_0195,5,Robin Gibb,True,1.0
+hotpot_0195,10,Robin Gibb,True,1.0
+hotpot_0196,1,a dependent area or dependency,False,0.0
+hotpot_0196,2,An autonomous region or administrative division,False,0.0
+hotpot_0196,3,An autonomous region or administrative division,False,0.0
+hotpot_0196,5,A degree of self-governance or autonomy,False,0.0
+hotpot_0196,10,a degree of self-governance or autonomy,False,0.0
+hotpot_0197,1,1858,True,1.0
+hotpot_0197,2,1858,True,1.0
+hotpot_0197,3,1858,True,1.0
+hotpot_0197,5,1858,True,1.0
+hotpot_0197,10,1858,True,1.0
+hotpot_0198,1,England,True,1.0
+hotpot_0198,2,England,True,1.0
+hotpot_0198,3,England,True,1.0
+hotpot_0198,5,England,True,1.0
+hotpot_0198,10,England,True,1.0
+hotpot_0199,1,DTM and International Touring Car Championship,False,0.2857
+hotpot_0199,2,DTM and International Touring Car Championship,False,0.2857
+hotpot_0199,3,DTM and International Touring Car Championship,False,0.2857
+hotpot_0199,5,DTM and International Touring Car Championship,False,0.2857
+hotpot_0199,10,DTM and International Touring Car Championship,False,0.2857
+hotpot_0200,1,"iTunes, iTunes Radio, and Beats Music",False,0.2857
+hotpot_0200,2,"iTunes, iTunes Radio, and Beats Music",False,0.2857
+hotpot_0200,3,"iTunes, iTunes Radio, and Beats Music",False,0.2857
+hotpot_0200,5,"iTunes, iTunes Radio, and Beats Music",False,0.2857
+hotpot_0200,10,"iTunes, iTunes Radio, and Beats Music",False,0.2857
+hotpot_0201,1,Prime Minister of Denmark,True,1.0
+hotpot_0201,2,Prime Minister of Denmark,True,1.0
+hotpot_0201,3,Prime Minister of Denmark,True,1.0
+hotpot_0201,5,Prime Minister of Denmark,True,1.0
+hotpot_0201,10,Prime Minister of Denmark,True,1.0
+hotpot_0202,1,Musicians,False,0.0
+hotpot_0202,2,Musicians,False,0.0
+hotpot_0202,3,Musicians,False,0.0
+hotpot_0202,5,musicians,False,0.0
+hotpot_0202,10,Musicians,False,0.0
+hotpot_0203,1,Yes,False,0.0
+hotpot_0203,2,No,True,1.0
+hotpot_0203,3,No,True,1.0
+hotpot_0203,5,No,True,1.0
+hotpot_0203,10,No,True,1.0
+hotpot_0204,1,No,True,1.0
+hotpot_0204,2,No,True,1.0
+hotpot_0204,3,No,True,1.0
+hotpot_0204,5,No,True,1.0
+hotpot_0204,10,No,True,1.0
+hotpot_0205,1,The Goldeneye (only one cocktail described),False,0.0
+hotpot_0205,2,Monkey Gland,True,1.0
+hotpot_0205,3,Monkey Gland,True,1.0
+hotpot_0205,5,Monkey Gland,True,1.0
+hotpot_0205,10,Monkey Gland,True,1.0
+hotpot_0206,1,2003,False,0.0
+hotpot_0206,2,1964,False,0.0
+hotpot_0206,3,1964,False,0.0
+hotpot_0206,5,2003,False,0.0
+hotpot_0206,10,2003,False,0.0
+hotpot_0207,1,German,True,1.0
+hotpot_0207,2,German,True,1.0
+hotpot_0207,3,German,True,1.0
+hotpot_0207,5,German,True,1.0
+hotpot_0207,10,German,True,1.0
+hotpot_0208,1,Formula E,False,0.5
+hotpot_0208,2,Formula E,False,0.5
+hotpot_0208,3,Formula E,False,0.5
+hotpot_0208,5,Formula E,False,0.5
+hotpot_0208,10,Formula E,False,0.5
+hotpot_0209,1,Andrew Johnson,False,0.0
+hotpot_0209,2,Dwight D. Eisenhower,False,0.0
+hotpot_0209,3,Dwight D. Eisenhower,False,0.0
+hotpot_0209,5,Dwight D. Eisenhower,False,0.0
+hotpot_0209,10,Dwight D. Eisenhower,False,0.0
+hotpot_0210,1,Nikolai Morozov,True,1.0
+hotpot_0210,2,Nikolai Morozov,True,1.0
+hotpot_0210,3,Nikolai Morozov,True,1.0
+hotpot_0210,5,Nikolai Morozov,True,1.0
+hotpot_0210,10,Nikolai Morozov,True,1.0
+hotpot_0211,1,Carbon County,False,0.6667
+hotpot_0211,2,Carbon County,False,0.6667
+hotpot_0211,3,Carbon County,False,0.6667
+hotpot_0211,5,Carbon County,False,0.6667
+hotpot_0211,10,Carbon County,False,0.6667
+hotpot_0212,1,German opera,False,0.0
+hotpot_0212,2,German opera,False,0.0
+hotpot_0212,3,German opera,False,0.0
+hotpot_0212,5,Romantic school,False,0.6667
+hotpot_0212,10,Romantic school,False,0.6667
+hotpot_0213,1,A landmark near NY 308,False,0.0
+hotpot_0213,2,A creek,False,0.0
+hotpot_0213,3,A creek (body of water),False,0.8571
+hotpot_0213,5,A creek (body of water).,False,0.8571
+hotpot_0213,10,A creek (body of water),False,0.8571
+hotpot_0214,1,Security Management,False,0.4
+hotpot_0214,2,Security Management,False,0.4
+hotpot_0214,3,Security Management,False,0.4
+hotpot_0214,5,Security Management,False,0.4
+hotpot_0214,10,Security Management,False,0.4
+hotpot_0215,1,Not specified,False,0.0
+hotpot_0215,2,"Between 7,500 and 40,000 words",False,0.8889
+hotpot_0215,3,"Between 7,500 and 40,000 words",False,0.8889
+hotpot_0215,5,"Between 7,500 and 40,000 words",False,0.8889
+hotpot_0215,10,"Between 7,500 and 40,000 words",False,0.8889
+hotpot_0216,1,"Lillehammer, Norway",False,0.0
+hotpot_0216,2,"Lillehammer, Norway",False,0.0
+hotpot_0216,3,"Sochi, Russia",True,1.0
+hotpot_0216,5,"Sochi, Russia",True,1.0
+hotpot_0216,10,"Sochi, Russia",True,1.0
+hotpot_0217,1,Passages do not provide this information.,False,0.0
+hotpot_0217,2,Angel Parrish,True,1.0
+hotpot_0217,3,Angel Parrish,True,1.0
+hotpot_0217,5,Angel Parrish,True,1.0
+hotpot_0217,10,Angel Parrish,True,1.0
+hotpot_0218,1,George II,True,1.0
+hotpot_0218,2,"Frederick, Prince of Wales",False,0.0
+hotpot_0218,3,George II,True,1.0
+hotpot_0218,5,George II,True,1.0
+hotpot_0218,10,George II,True,1.0
+hotpot_0219,1,Jamaica,False,0.0
+hotpot_0219,2,Jamaica,False,0.0
+hotpot_0219,3,Ghana,True,1.0
+hotpot_0219,5,Jamaica,False,0.0
+hotpot_0219,10,Jamaica,False,0.0
+hotpot_0220,1,Yes,False,0.0
+hotpot_0220,2,Yes,False,0.0
+hotpot_0220,3,Yes,False,0.0
+hotpot_0220,5,Yes,False,0.0
+hotpot_0220,10,Yes,False,0.0
+hotpot_0221,1,"Score 1,000 points with two different teams",True,1.0
+hotpot_0221,2,"Score 1,000 points with two different teams",True,1.0
+hotpot_0221,3,"Score 1,000 points with two different teams",True,1.0
+hotpot_0221,5,"Score 1,000 points with two different teams",True,1.0
+hotpot_0221,10,"Score 1,000 points with two different teams",True,1.0
+hotpot_0222,1,Not specified,False,0.0
+hotpot_0222,2,Not specified,False,0.0
+hotpot_0222,3,Number 1,True,1.0
+hotpot_0222,5,Number 1,True,1.0
+hotpot_0222,10,Number 1,True,1.0
+hotpot_0223,1,Giuseppe Verdi,True,1.0
+hotpot_0223,2,Giuseppe Verdi,True,1.0
+hotpot_0223,3,Giuseppe Verdi,True,1.0
+hotpot_0223,5,Giuseppe Verdi,True,1.0
+hotpot_0223,10,Giuseppe Verdi,True,1.0
+hotpot_0224,1,No,False,0.0
+hotpot_0224,2,No,False,0.0
+hotpot_0224,3,Yes,True,1.0
+hotpot_0224,5,No,False,0.0
+hotpot_0224,10,Yes,True,1.0
+hotpot_0225,1,Yorkshire,False,0.0
+hotpot_0225,2,County of York,True,1.0
+hotpot_0225,3,County of York,True,1.0
+hotpot_0225,5,County of York,True,1.0
+hotpot_0225,10,County of York,True,1.0
+hotpot_0226,1,Louisville Bats,False,0.5
+hotpot_0226,2,Louisville RiverBats,True,1.0
+hotpot_0226,3,Louisville RiverBats,True,1.0
+hotpot_0226,5,Louisville Bats,False,0.5
+hotpot_0226,10,Louisville Bats,False,0.5
+hotpot_0227,1,Jacking,False,0.0
+hotpot_0227,2,Jacking,False,0.0
+hotpot_0227,3,Jacking,False,0.0
+hotpot_0227,5,Jacking,False,0.0
+hotpot_0227,10,Jacking,False,0.0
+hotpot_0228,1,R-Point,True,1.0
+hotpot_0228,2,R-Point,True,1.0
+hotpot_0228,3,R-Point,True,1.0
+hotpot_0228,5,R-Point,True,1.0
+hotpot_0228,10,R-Point,True,1.0
+hotpot_0229,1,Lykan Hypersport,True,1.0
+hotpot_0229,2,Lykan Hypersport,True,1.0
+hotpot_0229,3,Lykan Hypersport,True,1.0
+hotpot_0229,5,Lykan HyperSport,True,1.0
+hotpot_0229,10,Lykan HyperSport,True,1.0
+hotpot_0230,1,Yes,True,1.0
+hotpot_0230,2,Yes,True,1.0
+hotpot_0230,3,Yes,True,1.0
+hotpot_0230,5,Yes,True,1.0
+hotpot_0230,10,Yes,True,1.0
+hotpot_0231,1,Texas Christian University,False,0.3333
+hotpot_0231,2,University of Washington,True,1.0
+hotpot_0231,3,University of Washington,True,1.0
+hotpot_0231,5,University of Washington,True,1.0
+hotpot_0231,10,University of Washington,True,1.0
+hotpot_0232,1,Centennial Olympic Stadium,True,1.0
+hotpot_0232,2,Centennial Olympic Stadium,True,1.0
+hotpot_0232,3,Centennial Olympic Stadium,True,1.0
+hotpot_0232,5,Centennial Olympic Stadium,True,1.0
+hotpot_0232,10,Centennial Olympic Stadium,True,1.0
+hotpot_0233,1,Columbus,True,1.0
+hotpot_0233,2,Columbus,True,1.0
+hotpot_0233,3,Columbus,True,1.0
+hotpot_0233,5,Columbus,True,1.0
+hotpot_0233,10,Columbus,True,1.0
+hotpot_0234,1,Not stated,False,0.0
+hotpot_0234,2,Three years,False,0.6667
+hotpot_0234,3,Three years,False,0.6667
+hotpot_0234,5,Three years,False,0.6667
+hotpot_0234,10,Three years,False,0.6667
+hotpot_0235,1,Not provided,False,0.0
+hotpot_0235,2,Harmony Korine,True,1.0
+hotpot_0235,3,Harmony Korine,True,1.0
+hotpot_0235,5,Harmony Korine,True,1.0
+hotpot_0235,10,Harmony Korine,True,1.0
+hotpot_0236,1,Children's National Medical Center,False,0.25
+hotpot_0236,2,MedStar Washington Hospital Center,True,1.0
+hotpot_0236,3,MedStar Washington Hospital Center,True,1.0
+hotpot_0236,5,MedStar Washington Hospital Center,True,1.0
+hotpot_0236,10,MedStar Washington Hospital Center,True,1.0
+hotpot_0237,1,Watford FC,False,0.4
+hotpot_0237,2,None,False,0.0
+hotpot_0237,3,Watford Football Club,True,1.0
+hotpot_0237,5,Watford Football Club,True,1.0
+hotpot_0237,10,Watford Football Club,True,1.0
+hotpot_0238,1,Etruscan civilization,True,1.0
+hotpot_0238,2,Etruscan civilization,True,1.0
+hotpot_0238,3,Etruscan civilization,True,1.0
+hotpot_0238,5,Etruscan civilization,True,1.0
+hotpot_0238,10,Etruscan civilization,True,1.0
+hotpot_0239,1,Chesley Sullenberger,False,0.5714
+hotpot_0239,2,Chesley Sullenberger,False,0.5714
+hotpot_0239,3,Chesley Sullenberger,False,0.5714
+hotpot_0239,5,Chesley Sullenberger,False,0.5714
+hotpot_0239,10,Chesley Sullenberger,False,0.5714
+hotpot_0240,1,Troms og Finnmark,False,0.4
+hotpot_0240,2,Hammerfest,False,0.0
+hotpot_0240,3,Hammerfest,False,0.0
+hotpot_0240,5,No county mentioned,False,0.4
+hotpot_0240,10,Finnmark county,True,1.0
+hotpot_0241,1,Ford Motor Company,True,1.0
+hotpot_0241,2,Ford Motor Company,True,1.0
+hotpot_0241,3,Ford Motor Company,True,1.0
+hotpot_0241,5,Ford Motor Company,True,1.0
+hotpot_0241,10,Ford Motor Company,True,1.0
+hotpot_0242,1,Oxford,False,0.4
+hotpot_0242,2,Oxford,False,0.4
+hotpot_0242,3,Oxford,False,0.4
+hotpot_0242,5,University of Oxford,False,0.8571
+hotpot_0242,10,Oxford,False,0.4
+hotpot_0243,1,Not provided,False,0.0
+hotpot_0243,2,Not provided,False,0.0
+hotpot_0243,3,Ann,True,1.0
+hotpot_0243,5,Ann,True,1.0
+hotpot_0243,10,Ann,True,1.0
+hotpot_0244,1,Not stated,False,0.0
+hotpot_0244,2,Ken Russell,False,0.0
+hotpot_0244,3,Franc Roddam,True,1.0
+hotpot_0244,5,Franc Roddam,True,1.0
+hotpot_0244,10,Franc Roddam,True,1.0
+hotpot_0245,1,Jackson County,False,0.6667
+hotpot_0245,2,Jackson County,False,0.6667
+hotpot_0245,3,Jackson County,False,0.6667
+hotpot_0245,5,Jackson County,False,0.6667
+hotpot_0245,10,Jackson County,False,0.6667
+hotpot_0246,1,United States,False,0.0
+hotpot_0246,2,United States,False,0.0
+hotpot_0246,3,United States,False,0.0
+hotpot_0246,5,United States,False,0.0
+hotpot_0246,10,United States,False,0.0
+hotpot_0247,1,Director,True,1.0
+hotpot_0247,2,Filmmaker/director,False,0.0
+hotpot_0247,3,Director,True,1.0
+hotpot_0247,5,Filmmaker,False,0.0
+hotpot_0247,10,Filmmaker,False,0.0
+hotpot_0248,1,"322,421",False,0.3333
+hotpot_0248,2,"322,421",False,0.3333
+hotpot_0248,3,"322,421",False,0.3333
+hotpot_0248,5,"322,421 personnel",False,0.5714
+hotpot_0248,10,"322,421 personnel",False,0.5714
+hotpot_0249,1,Not provided,False,0.0
+hotpot_0249,2,Not stated,False,0.0
+hotpot_0249,3,Not provided,False,0.0
+hotpot_0249,5,Not specified,False,0.0
+hotpot_0249,10,810,True,1.0
+hotpot_0250,1,No information provided,False,0.0
+hotpot_0250,2,Not mentioned,False,0.0
+hotpot_0250,3,Six Emmy Award nominations,False,0.0
+hotpot_0250,5,Five Emmy Award nominations,False,0.4
+hotpot_0250,10,Five,True,1.0
+hotpot_0251,1,The Strongest Man in the World,True,1.0
+hotpot_0251,2,The Strongest Man in the World,True,1.0
+hotpot_0251,3,The Strongest Man in the World,True,1.0
+hotpot_0251,5,The Strongest Man in the World,True,1.0
+hotpot_0251,10,The Strongest Man in the World,True,1.0
+hotpot_0252,1,University of Nebraska–Lincoln,False,0.5
+hotpot_0252,2,University of Texas at Austin,True,1.0
+hotpot_0252,3,University of New Mexico,False,0.4444
+hotpot_0252,5,University of New Mexico,False,0.4444
+hotpot_0252,10,University of Texas at Austin,True,1.0
+hotpot_0253,1,Not mentioned,False,0.0
+hotpot_0253,2,The Band's Visit director not mentioned,False,0.0
+hotpot_0253,3,Eran Kolirin,True,1.0
+hotpot_0253,5,Eran Kolirin,True,1.0
+hotpot_0253,10,Eran Kolirin,True,1.0
+hotpot_0254,1,3D computer-animated musical fantasy-adventure film,True,1.0
+hotpot_0254,2,3D computer-animated musical fantasy-adventure film,True,1.0
+hotpot_0254,3,3D computer-animated musical fantasy-adventure film,True,1.0
+hotpot_0254,5,3D computer-animated musical fantasy-adventure film,True,1.0
+hotpot_0254,10,3D computer-animated musical fantasy-adventure film,True,1.0
+hotpot_0255,1,No,True,1.0
+hotpot_0255,2,No,True,1.0
+hotpot_0255,3,No,True,1.0
+hotpot_0255,5,No,True,1.0
+hotpot_0255,10,No,True,1.0
+hotpot_0256,1,Animated film,False,0.0
+hotpot_0256,2,Animated film,False,0.0
+hotpot_0256,3,Animated film,False,0.0
+hotpot_0256,5,Animated film,False,0.0
+hotpot_0256,10,Adventure comedy-drama,False,0.0
+hotpot_0257,1,No,False,0.0
+hotpot_0257,2,Yes,True,1.0
+hotpot_0257,3,Yes,True,1.0
+hotpot_0257,5,Yes,True,1.0
+hotpot_0257,10,Yes,True,1.0
+hotpot_0258,1,No,False,0.0
+hotpot_0258,2,No information provided,False,0.0
+hotpot_0258,3,No information provided,False,0.0
+hotpot_0258,5,Old World fossil representatives,True,1.0
+hotpot_0258,10,No information provided,False,0.0
+hotpot_0259,1,Elton John,True,1.0
+hotpot_0259,2,Elton John,True,1.0
+hotpot_0259,3,Elton John,True,1.0
+hotpot_0259,5,Elton John,True,1.0
+hotpot_0259,10,Elton John,True,1.0
+hotpot_0260,1,Saints,False,0.0
+hotpot_0260,2,Saints,False,0.0
+hotpot_0260,3,Saints,False,0.0
+hotpot_0260,5,Saints,False,0.0
+hotpot_0260,10,Saints,False,0.0
+hotpot_0261,1,Salman Rushdie,True,1.0
+hotpot_0261,2,Salman Rushdie,True,1.0
+hotpot_0261,3,Salman Rushdie,True,1.0
+hotpot_0261,5,Salman Rushdie,True,1.0
+hotpot_0261,10,Salman Rushdie,True,1.0
+hotpot_0262,1,Hugh Dowding,True,1.0
+hotpot_0262,2,Hugh Dowding,True,1.0
+hotpot_0262,3,Hugh Dowding,True,1.0
+hotpot_0262,5,Hugh Dowding,True,1.0
+hotpot_0262,10,Hugh Dowding,True,1.0
+hotpot_0263,1,Hara Arena,True,1.0
+hotpot_0263,2,Not specified,False,0.0
+hotpot_0263,3,Not mentioned,False,0.0
+hotpot_0263,5,Not specified,False,0.0
+hotpot_0263,10,Hara Arena,True,1.0
+hotpot_0264,1,Not mentioned,False,0.0
+hotpot_0264,2,Not mentioned,False,0.0
+hotpot_0264,3,23 episodes,False,0.3333
+hotpot_0264,5,23 episodes,False,0.3333
+hotpot_0264,10,23 episodes,False,0.3333
+hotpot_0265,1,Unchained Memories,True,1.0
+hotpot_0265,2,Unchained Memories,True,1.0
+hotpot_0265,3,Unchained Memories,True,1.0
+hotpot_0265,5,Unchained Memories,True,1.0
+hotpot_0265,10,Unchained Memories,True,1.0
+hotpot_0266,1,"October 25, 1931",False,0.8571
+hotpot_0266,2,1931,False,0.4
+hotpot_0266,3,1931,False,0.4
+hotpot_0266,5,"October 25, 1931",False,0.8571
+hotpot_0266,10,"October 25, 1931",False,0.8571
+hotpot_0267,1,Yes,False,0.0
+hotpot_0267,2,Yes,False,0.0
+hotpot_0267,3,Yes,False,0.0
+hotpot_0267,5,Yes,False,0.0
+hotpot_0267,10,Yes,False,0.0
+hotpot_0268,1,2000 Summer Olympics,False,0.5714
+hotpot_0268,2,2000 Summer Olympics,False,0.5714
+hotpot_0268,3,2000 Summer Olympics,False,0.5714
+hotpot_0268,5,2000 Summer Olympics,False,0.5714
+hotpot_0268,10,2000 Summer Olympics,False,0.5714
+hotpot_0269,1,Not stated,False,0.0
+hotpot_0269,2,"247,597",True,1.0
+hotpot_0269,3,"247,597",True,1.0
+hotpot_0269,5,"247,597",True,1.0
+hotpot_0269,10,"264,152",False,0.0
+hotpot_0270,1,÷ (Divide),False,0.2857
+hotpot_0270,2,÷ (Divide),False,0.2857
+hotpot_0270,3,÷ (Divide),False,0.2857
+hotpot_0270,5,÷ (Divide),False,0.2857
+hotpot_0270,10,÷ (Divide),False,0.2857
+hotpot_0271,1,James Taylor,True,1.0
+hotpot_0271,2,James Taylor,True,1.0
+hotpot_0271,3,James Taylor,True,1.0
+hotpot_0271,5,James Taylor,True,1.0
+hotpot_0271,10,Andrew Preston,False,0.0
+hotpot_0272,1,NATO,True,1.0
+hotpot_0272,2,NATO,True,1.0
+hotpot_0272,3,Operation Gladio,False,0.0
+hotpot_0272,5,Operation Gladio,False,0.0
+hotpot_0272,10,Operation Gladio,False,0.0
+hotpot_0273,1,Adventures of Huckleberry Finn,False,0.0
+hotpot_0273,2,Adventures of Huckleberry Finn,False,0.0
+hotpot_0273,3,Shohola Falls,True,1.0
+hotpot_0273,5,Shohola Falls,True,1.0
+hotpot_0273,10,Shohola Falls,True,1.0
+hotpot_0274,1,Not mentioned,False,0.0
+hotpot_0274,2,1901,False,0.5
+hotpot_0274,3,1901,False,0.5
+hotpot_0274,5,1901,False,0.5
+hotpot_0274,10,1901,False,0.5
+hotpot_0275,1,The Orleans Hotel and Casino is owned by Boyd Gaming.,False,0.3636
+hotpot_0275,2,Not specified,False,0.0
+hotpot_0275,3,Not specified,False,0.0
+hotpot_0275,5,Not specified,False,0.0
+hotpot_0275,10,Boyd Gaming,True,1.0
+hotpot_0276,1,Korni Grupa,False,0.0
+hotpot_0276,2,Korni Grupa,False,0.0
+hotpot_0276,3,Daltoni,False,0.0
+hotpot_0276,5,Daltoni,False,0.0
+hotpot_0276,10,Dalton Gang,True,1.0
+hotpot_0277,1,Not specified,False,0.0
+hotpot_0277,2,1953,True,1.0
+hotpot_0277,3,Not specified,False,0.0
+hotpot_0277,5,Not specified,False,0.0
+hotpot_0277,10,Not specified,False,0.0
+hotpot_0278,1,Kevin Spacey,True,1.0
+hotpot_0278,2,Kevin Spacey,True,1.0
+hotpot_0278,3,Kevin Spacey,True,1.0
+hotpot_0278,5,Kevin Spacey,True,1.0
+hotpot_0278,10,Kevin Spacey,True,1.0
+hotpot_0279,1,"25,000 acres",False,0.0
+hotpot_0279,2,"250,000 acres",False,0.6667
+hotpot_0279,3,"250,000 acres",False,0.6667
+hotpot_0279,5,"250,000 acres",False,0.6667
+hotpot_0279,10,"250,000 acres",False,0.6667
+hotpot_0280,1,Broad Peak,True,1.0
+hotpot_0280,2,Broad Peak,True,1.0
+hotpot_0280,3,Broad Peak,True,1.0
+hotpot_0280,5,Broad Peak,True,1.0
+hotpot_0280,10,Broad Peak,True,1.0
+hotpot_0281,1,Julie 2,True,1.0
+hotpot_0281,2,Julie 2,True,1.0
+hotpot_0281,3,Julie 2,True,1.0
+hotpot_0281,5,Julie 2,True,1.0
+hotpot_0281,10,Julie 2,True,1.0
+hotpot_0282,1,Traditional music of the Andes,False,0.6667
+hotpot_0282,2,Traditional music of the Andes,False,0.6667
+hotpot_0282,3,Traditional music of the Andes,False,0.6667
+hotpot_0282,5,Traditional music of the Andes,False,0.6667
+hotpot_0282,10,Traditional music of the Andes,False,0.6667
+hotpot_0283,1,German,True,1.0
+hotpot_0283,2,German,True,1.0
+hotpot_0283,3,German,True,1.0
+hotpot_0283,5,German,True,1.0
+hotpot_0283,10,German,True,1.0
+hotpot_0284,1,Gold Coast,False,0.6667
+hotpot_0284,2,Helensvale,False,0.0
+hotpot_0284,3,Helensvale,False,0.0
+hotpot_0284,5,Gold Coast,False,0.6667
+hotpot_0284,10,Gold Coast,False,0.6667
+hotpot_0285,1,Pleiospilos,True,1.0
+hotpot_0285,2,Both are flowering plants.,False,0.0
+hotpot_0285,3,Both are flowering plants.,False,0.0
+hotpot_0285,5,Both are flowering plants.,False,0.0
+hotpot_0285,10,Both are flowering plants.,False,0.0
+hotpot_0286,1,Mercury-Redstone 3 (Freedom 7),False,0.0
+hotpot_0286,2,Mercury-Redstone 3 (Freedom 7) mission,False,0.0
+hotpot_0286,3,Mercury-Redstone 3 (Freedom 7) mission,False,0.0
+hotpot_0286,5,Mercury-Redstone 3 (Freedom 7),False,0.0
+hotpot_0286,10,Mercury-Redstone 3 (first American manned spaceflight),False,0.0
+hotpot_0287,1,Lise Meitner,False,0.0
+hotpot_0287,2,Otto Robert Frisch,True,1.0
+hotpot_0287,3,Otto Robert Frisch,True,1.0
+hotpot_0287,5,Otto Robert Frisch,True,1.0
+hotpot_0287,10,Otto Robert Frisch,True,1.0
+hotpot_0288,1,"Little, Brown and Company",False,0.0
+hotpot_0288,2,Delacorte Press,True,1.0
+hotpot_0288,3,Delacorte Press,True,1.0
+hotpot_0288,5,Delacorte Press,True,1.0
+hotpot_0288,10,Delacorte Press,True,1.0
+hotpot_0289,1,Yes,True,1.0
+hotpot_0289,2,Yes,True,1.0
+hotpot_0289,3,Yes,True,1.0
+hotpot_0289,5,Yes,True,1.0
+hotpot_0289,10,Yes,True,1.0
+hotpot_0290,1,A historic house museum,False,0.5
+hotpot_0290,2,Historic house museum,False,0.5
+hotpot_0290,3,Historic house museum,False,0.5
+hotpot_0290,5,Historic house museum,False,0.5
+hotpot_0290,10,A historic house museum,False,0.5
+hotpot_0291,1,Singapore,False,0.5
+hotpot_0291,2,Singapore,False,0.5
+hotpot_0291,3,Battle of Singapore,True,1.0
+hotpot_0291,5,Battle of Singapore,True,1.0
+hotpot_0291,10,Battle of Singapore,True,1.0
+hotpot_0292,1,MGM Grand Garden Arena,True,1.0
+hotpot_0292,2,MGM Grand Garden Arena,True,1.0
+hotpot_0292,3,MGM Grand Garden Arena,True,1.0
+hotpot_0292,5,MGM Grand Garden Arena,True,1.0
+hotpot_0292,10,MGM Grand Garden Arena,True,1.0
+hotpot_0293,1,Mathieu Kassovitz,True,1.0
+hotpot_0293,2,Wayne Kramer,False,0.0
+hotpot_0293,3,Mathieu Kassovitz,True,1.0
+hotpot_0293,5,Mathieu Kassovitz,True,1.0
+hotpot_0293,10,Mathieu Kassovitz,True,1.0
+hotpot_0294,1,Not mentioned,False,0.0
+hotpot_0294,2,Not mentioned,False,0.0
+hotpot_0294,3,Not mentioned,False,0.0
+hotpot_0294,5,Chris Lee,False,0.0
+hotpot_0294,10,Chris Lee,False,0.0
+hotpot_0295,1,Not specified,False,0.0
+hotpot_0295,2,Not specified,False,0.0
+hotpot_0295,3,Not specified,False,0.0
+hotpot_0295,5,13 tracks,False,0.6667
+hotpot_0295,10,13 tracks,False,0.6667
+hotpot_0296,1,"Warhammer 40,000 Roleplay",False,0.0
+hotpot_0296,2,Dark Heresy,True,1.0
+hotpot_0296,3,Dark Heresy,True,1.0
+hotpot_0296,5,Dark Heresy,True,1.0
+hotpot_0296,10,Dark Heresy,True,1.0
+hotpot_0297,1,Maine,False,0.0
+hotpot_0297,2,Maine,False,0.0
+hotpot_0297,3,Maine,False,0.0
+hotpot_0297,5,"State House in Augusta, Maine",False,0.8889
+hotpot_0297,10,"State House in Augusta, Maine",False,0.8889
+hotpot_0298,1,Dog,False,0.0
+hotpot_0298,2,Dogs,True,1.0
+hotpot_0298,3,Dog,False,0.0
+hotpot_0298,5,Dog,False,0.0
+hotpot_0298,10,Dog,False,0.0
+hotpot_0299,1,Minette Walters,True,1.0
+hotpot_0299,2,Minette Walters,True,1.0
+hotpot_0299,3,Minette Walters,True,1.0
+hotpot_0299,5,Minette Walters,True,1.0
+hotpot_0299,10,Minette Walters,True,1.0
+hotpot_0300,1,Mad Hot Ballroom,True,1.0
+hotpot_0300,2,Mad Hot Ballroom,True,1.0
+hotpot_0300,3,Mad Hot Ballroom,True,1.0
+hotpot_0300,5,Mad Hot Ballroom,True,1.0
+hotpot_0300,10,Mad Hot Ballroom,True,1.0
+hotpot_0301,1,Kwok Kin Pong,False,0.0
+hotpot_0301,2,Edison Chen,False,0.8
+hotpot_0301,3,Edison Chen,False,0.8
+hotpot_0301,5,Edison Chen,False,0.8
+hotpot_0301,10,Edison Chen,False,0.8
+hotpot_0302,1,Not provided,False,0.0
+hotpot_0302,2,1982,True,1.0
+hotpot_0302,3,1982,True,1.0
+hotpot_0302,5,1982,True,1.0
+hotpot_0302,10,1982,True,1.0
+hotpot_0303,1,No information provided,False,0.0
+hotpot_0303,2,2004,True,1.0
+hotpot_0303,3,2004,True,1.0
+hotpot_0303,5,2004,True,1.0
+hotpot_0303,10,2004,True,1.0
+hotpot_0304,1,Margery Williams,True,1.0
+hotpot_0304,2,Margery Williams,True,1.0
+hotpot_0304,3,Margery Williams,True,1.0
+hotpot_0304,5,Margery Williams,True,1.0
+hotpot_0304,10,Margery Williams,True,1.0
+hotpot_0305,1,Pinocchio,True,1.0
+hotpot_0305,2,Pinocchio,True,1.0
+hotpot_0305,3,Pinocchio,True,1.0
+hotpot_0305,5,Pinocchio,True,1.0
+hotpot_0305,10,Pinocchio,True,1.0
+hotpot_0306,1,Des O'Connor Tonight,False,0.8
+hotpot_0306,2,Des O'Connor Tonight,False,0.8
+hotpot_0306,3,John Fashanu's show (Fash FC),False,0.0
+hotpot_0306,5,John Fashanu's show (Fash FC),False,0.0
+hotpot_0306,10,John Fashanu's Fash FC,False,0.0
+hotpot_0307,1,Bellini,False,0.3333
+hotpot_0307,2,Vincenzo Bellini,False,0.5714
+hotpot_0307,3,Vincenzo Bellini,False,0.5714
+hotpot_0307,5,Vincenzo Bellini,False,0.5714
+hotpot_0307,10,Vincenzo Bellini,False,0.5714
+hotpot_0308,1,The passages do not specify Randy Shughart's rank when he died.,False,0.0
+hotpot_0308,2,Sergeant First Class,True,1.0
+hotpot_0308,3,Sergeant First Class,True,1.0
+hotpot_0308,5,Sergeant First Class,True,1.0
+hotpot_0308,10,Sergeant First Class,True,1.0
+hotpot_0309,1,comedy and novelty music,False,0.3333
+hotpot_0309,2,Comedy music,False,0.0
+hotpot_0309,3,Comedy music,False,0.0
+hotpot_0309,5,Novelty songs and comedy,False,0.6667
+hotpot_0309,10,Novelty songs and comedy,False,0.6667
+hotpot_0310,1,No information provided,False,0.0
+hotpot_0310,2,Compliance,True,1.0
+hotpot_0310,3,Compliance,True,1.0
+hotpot_0310,5,Compliance,True,1.0
+hotpot_0310,10,Compliance,True,1.0
+hotpot_0311,1,Not stated,False,0.0
+hotpot_0311,2,Not stated,False,0.0
+hotpot_0311,3,1992,True,1.0
+hotpot_0311,5,1992,True,1.0
+hotpot_0311,10,1992,True,1.0
+hotpot_0312,1,Bill Paxton,True,1.0
+hotpot_0312,2,Bill Paxton,True,1.0
+hotpot_0312,3,Bill Paxton,True,1.0
+hotpot_0312,5,Bill Paxton,True,1.0
+hotpot_0312,10,Bill Paxton,True,1.0
+hotpot_0313,1,North Berwick coastal area,False,0.0
+hotpot_0313,2,Firth of Forth,False,0.0
+hotpot_0313,3,Firth of Forth,False,0.0
+hotpot_0313,5,Firth of Forth,False,0.0
+hotpot_0313,10,Yellowcraig,True,1.0
+hotpot_0314,1,Abbey monks,False,0.0
+hotpot_0314,2,Norbertine monks,False,0.6667
+hotpot_0314,3,Norbertine monks,False,0.6667
+hotpot_0314,5,Norbertine monks,False,0.6667
+hotpot_0314,10,Norbertine monks,False,0.6667
+hotpot_0315,1,Brady Seals,True,1.0
+hotpot_0315,2,Brady Seals,True,1.0
+hotpot_0315,3,Brady Seals,True,1.0
+hotpot_0315,5,Brady Seals,True,1.0
+hotpot_0315,10,Brady Seals,True,1.0
+hotpot_0316,1,Not specified,False,0.0
+hotpot_0316,2,Not specified,False,0.0
+hotpot_0316,3,Emotionally troubled woman,False,0.6667
+hotpot_0316,5,FBI Special Agent Clarice Starling,False,0.0
+hotpot_0316,10,Laura Brown,False,0.0
+hotpot_0317,1,Not specified,False,0.0
+hotpot_0317,2,Shinjuku,True,1.0
+hotpot_0317,3,Shinjuku,True,1.0
+hotpot_0317,5,Shinjuku,True,1.0
+hotpot_0317,10,Shinjuku,True,1.0
+hotpot_0318,1,"French, English, German, Spanish, Shoshone, other western American Indian languages",False,0.3077
+hotpot_0318,2,"French, English, German, Spanish, Shoshone, other western American Indian languages",False,0.3077
+hotpot_0318,3,"Shoshone, French, English, German, Spanish, other western American Indian languages",False,0.3077
+hotpot_0318,5,"Shoshone, French, English, German, Spanish",False,0.5
+hotpot_0318,10,"Shoshone, French, English, German, Spanish",False,0.5
+hotpot_0319,1,About 140 miles north,False,0.0
+hotpot_0319,2,About 150 miles north,False,0.3333
+hotpot_0319,3,Approximately 150 miles north,False,0.3333
+hotpot_0319,5,Approximately 150 miles north,False,0.3333
+hotpot_0319,10,150 miles north,False,0.4
+hotpot_0320,1,The Offspring,True,1.0
+hotpot_0320,2,The Offspring,True,1.0
+hotpot_0320,3,The Offspring,True,1.0
+hotpot_0320,5,The Offspring,True,1.0
+hotpot_0320,10,The Offspring,True,1.0
+hotpot_0321,1,Not specified,False,0.0
+hotpot_0321,2,1937,True,1.0
+hotpot_0321,3,1937,True,1.0
+hotpot_0321,5,1937,True,1.0
+hotpot_0321,10,1937,True,1.0
+hotpot_0322,1,Chandra Taal,False,0.0
+hotpot_0322,2,"Sheridan County, Montana",False,0.8
+hotpot_0322,3,"Sheridan County, Montana",False,0.8
+hotpot_0322,5,"Sheridan County, Montana",False,0.8
+hotpot_0322,10,"Sheridan County, Montana",False,0.8
+hotpot_0323,1,No information provided,False,0.0
+hotpot_0323,2,Lifestyle Cities,False,0.8
+hotpot_0323,3,Lifestyle Cities,False,0.8
+hotpot_0323,5,Lifestyle Cities,False,0.8
+hotpot_0323,10,Integrated mixed-used developments (Lifestyle Cities),False,0.5
+hotpot_0324,1,ZZ Top,True,1.0
+hotpot_0324,2,ZZ Top,True,1.0
+hotpot_0324,3,ZZ Top,True,1.0
+hotpot_0324,5,ZZ Top,True,1.0
+hotpot_0324,10,ZZ Top,True,1.0
+hotpot_0325,1,Australia,False,0.0
+hotpot_0325,2,Australia,False,0.0
+hotpot_0325,3,Australia,False,0.0
+hotpot_0325,5,Australia,False,0.0
+hotpot_0325,10,Australia,False,0.0
+hotpot_0326,1,Virgin Atlantic,True,1.0
+hotpot_0326,2,Virgin Atlantic,True,1.0
+hotpot_0326,3,Virgin Atlantic,True,1.0
+hotpot_0326,5,Virgin Atlantic,True,1.0
+hotpot_0326,10,Virgin Atlantic,True,1.0
+hotpot_0327,1,Temari,False,0.0
+hotpot_0327,2,Naruto Uzumaki,True,1.0
+hotpot_0327,3,Naruto Uzumaki,True,1.0
+hotpot_0327,5,Naruto Uzumaki,True,1.0
+hotpot_0327,10,Naruto Uzumaki,True,1.0
+hotpot_0328,1,The Crowned Prince of the Philadelphia Mob,True,1.0
+hotpot_0328,2,The Crowned Prince of the Philadelphia Mob,True,1.0
+hotpot_0328,3,The Crowned Prince of the Philadelphia Mob,True,1.0
+hotpot_0328,5,The Crowned Prince of the Philadelphia Mob,True,1.0
+hotpot_0328,10,The Crowned Prince of the Philadelphia Mob,True,1.0
+hotpot_0329,1,Helmand River,False,0.0
+hotpot_0329,2,Helmand River,False,0.0
+hotpot_0329,3,Helmand River,False,0.0
+hotpot_0329,5,Helmand River,False,0.0
+hotpot_0329,10,Helmand River,False,0.0
+hotpot_0330,1,Loretta Lynn,True,1.0
+hotpot_0330,2,Loretta Lynn,True,1.0
+hotpot_0330,3,Loretta Lynn,True,1.0
+hotpot_0330,5,Loretta Lynn,True,1.0
+hotpot_0330,10,Loretta Lynn,True,1.0
+hotpot_0331,1,2016,False,0.0
+hotpot_0331,2,2012,True,1.0
+hotpot_0331,3,2012,True,1.0
+hotpot_0331,5,2012,True,1.0
+hotpot_0331,10,2012,True,1.0
+hotpot_0332,1,1912,True,1.0
+hotpot_0332,2,1912,True,1.0
+hotpot_0332,3,1919,False,0.0
+hotpot_0332,5,1912,True,1.0
+hotpot_0332,10,1912,True,1.0
+hotpot_0333,1,Dog,True,1.0
+hotpot_0333,2,Dog,True,1.0
+hotpot_0333,3,Dog,True,1.0
+hotpot_0333,5,Dog,True,1.0
+hotpot_0333,10,Dog,True,1.0
+hotpot_0334,1,Mark Helfrich,False,0.8
+hotpot_0334,2,Mark Helfrich,False,0.8
+hotpot_0334,3,Mark Helfrich,False,0.8
+hotpot_0334,5,Mark Helfrich,False,0.8
+hotpot_0334,10,Mark Helfrich,False,0.8
+hotpot_0335,1,Motor ships,True,1.0
+hotpot_0335,2,Motor ships,True,1.0
+hotpot_0335,3,Motor ships,True,1.0
+hotpot_0335,5,Motor ships,True,1.0
+hotpot_0335,10,Motor ships,True,1.0
+hotpot_0336,1,Not specified,False,0.0
+hotpot_0336,2,Not specified,False,0.0
+hotpot_0336,3,Not specified,False,0.0
+hotpot_0336,5,Not provided,False,0.0
+hotpot_0336,10,Chicago Bears,False,0.6667
+hotpot_0337,1,Transporter 3,True,1.0
+hotpot_0337,2,Transporter 3,True,1.0
+hotpot_0337,3,Transporter 3,True,1.0
+hotpot_0337,5,Transporter 3,True,1.0
+hotpot_0337,10,Transporter 3,True,1.0
+hotpot_0338,1,University of Chicago,False,0.5
+hotpot_0338,2,University of Toronto,False,0.5
+hotpot_0338,3,University of Toronto,False,0.5
+hotpot_0338,5,State University of New York Upstate Medical University,False,0.7692
+hotpot_0338,10,State University of New York Upstate Medical University,False,0.7692
+hotpot_0339,1,The passage does not provide this information.,False,0.0
+hotpot_0339,2,Bam Bam Bigelow,False,0.0
+hotpot_0339,3,Ivory,False,0.0
+hotpot_0339,5,Ivory,False,0.0
+hotpot_0339,10,Scott Hall,False,0.0
+hotpot_0340,1,"June 4, 1931",True,1.0
+hotpot_0340,2,"June 4, 1931",True,1.0
+hotpot_0340,3,"June 4, 1931",True,1.0
+hotpot_0340,5,"June 4, 1931",True,1.0
+hotpot_0340,10,"June 4, 1931",True,1.0
+hotpot_0341,1,Polly Draper,False,0.0
+hotpot_0341,2,Mary Collins,True,1.0
+hotpot_0341,3,Mary Collins,True,1.0
+hotpot_0341,5,Mary Collins,True,1.0
+hotpot_0341,10,Mary Collins,True,1.0
+hotpot_0342,1,Univision,True,1.0
+hotpot_0342,2,Univision,True,1.0
+hotpot_0342,3,Univision,True,1.0
+hotpot_0342,5,Univision,True,1.0
+hotpot_0342,10,Univision,True,1.0
+hotpot_0343,1,Not stated,False,0.0
+hotpot_0343,2,1872,True,1.0
+hotpot_0343,3,1872,True,1.0
+hotpot_0343,5,1872,True,1.0
+hotpot_0343,10,1872,True,1.0
+hotpot_0344,1,Not mentioned,False,0.0
+hotpot_0344,2,Tomasz Adamek,True,1.0
+hotpot_0344,3,Tomasz Adamek,True,1.0
+hotpot_0344,5,Tomasz Adamek,True,1.0
+hotpot_0344,10,Tomasz Adamek,True,1.0
+hotpot_0345,1,The passages do not provide this information.,False,0.0
+hotpot_0345,2,Chris O'Dea,False,0.0
+hotpot_0345,3,Chris O'Dea,False,0.0
+hotpot_0345,5,Chris O'Dea,False,0.0
+hotpot_0345,10,Chris O'Dea,False,0.0
+hotpot_0346,1,Kennebec County,False,0.8
+hotpot_0346,2,No county mentioned,False,0.3333
+hotpot_0346,3,No information provided,False,0.0
+hotpot_0346,5,Kennebec County,False,0.8
+hotpot_0346,10,Kennebec County,False,0.8
+hotpot_0347,1,British,True,1.0
+hotpot_0347,2,British,True,1.0
+hotpot_0347,3,British,True,1.0
+hotpot_0347,5,British,True,1.0
+hotpot_0347,10,British,True,1.0
+hotpot_0348,1,John de Mol Jr.,True,1.0
+hotpot_0348,2,John de Mol Jr.,True,1.0
+hotpot_0348,3,John de Mol Jr.,True,1.0
+hotpot_0348,5,John de Mol Jr.,True,1.0
+hotpot_0348,10,John de Mol Jr.,True,1.0
+hotpot_0349,1,Jewish heritage,False,0.0
+hotpot_0349,2,Jewish heritage,False,0.0
+hotpot_0349,3,Jewish heritage,False,0.0
+hotpot_0349,5,Dutch,True,1.0
+hotpot_0349,10,Dutch,True,1.0
+hotpot_0350,1,Not mentioned,False,0.0
+hotpot_0350,2,Not mentioned,False,0.0
+hotpot_0350,3,May 2008,False,0.3333
+hotpot_0350,5,May 2008,False,0.3333
+hotpot_0350,10,May 2008,False,0.3333
+hotpot_0351,1,No information provided,False,0.0
+hotpot_0351,2,No information provided,False,0.0
+hotpot_0351,3,Football,False,0.6667
+hotpot_0351,5,No information provided,False,0.0
+hotpot_0351,10,American football,True,1.0
+hotpot_0352,1,Pizza restaurant chain,False,0.8
+hotpot_0352,2,Restaurant chains,False,0.5
+hotpot_0352,3,Pizza restaurant chains,False,0.4
+hotpot_0352,5,Pizza restaurant chains,False,0.4
+hotpot_0352,10,pizza restaurant chains,False,0.4
+hotpot_0353,1,2015,True,1.0
+hotpot_0353,2,2015,True,1.0
+hotpot_0353,3,2015,True,1.0
+hotpot_0353,5,2015,True,1.0
+hotpot_0353,10,2015,True,1.0
+hotpot_0354,1,Not stated,False,0.0
+hotpot_0354,2,Not stated,False,0.0
+hotpot_0354,3,Not stated,False,0.0
+hotpot_0354,5,Not stated,False,0.0
+hotpot_0354,10,"4,530",True,1.0
+hotpot_0355,1,"Cheshire, England",False,0.0
+hotpot_0355,2,"Cheshire, England",False,0.0
+hotpot_0355,3,"Cheshire, England",False,0.0
+hotpot_0355,5,"Ellesmere Port, United Kingdom",False,0.6667
+hotpot_0355,10,"Ellesmere Port, United Kingdom",False,0.6667
+hotpot_0356,1,Eddie Izzard,True,1.0
+hotpot_0356,2,Eddie Izzard,True,1.0
+hotpot_0356,3,Not specified,False,0.0
+hotpot_0356,5,Eddie Izzard,True,1.0
+hotpot_0356,10,Eddie Izzard,True,1.0
+hotpot_0357,1,Not mentioned,False,0.0
+hotpot_0357,2,Gareth Jones,True,1.0
+hotpot_0357,3,Gareth Jones,True,1.0
+hotpot_0357,5,Gareth Jones,True,1.0
+hotpot_0357,10,Gareth Jones,True,1.0
+hotpot_0358,1,No information provided,False,0.0
+hotpot_0358,2,Not specified,False,0.0
+hotpot_0358,3,Not specified,False,0.0
+hotpot_0358,5,No information provided,False,0.0
+hotpot_0358,10,filibuster and scathing rhetoric,False,0.4
+hotpot_0359,1,The Captain Matchbox Whoopee Band,True,1.0
+hotpot_0359,2,The Captain Matchbox Whoopee Band,True,1.0
+hotpot_0359,3,The Captain Matchbox Whoopee Band,True,1.0
+hotpot_0359,5,The Captain Matchbox Whoopee Band,True,1.0
+hotpot_0359,10,The Captain Matchbox Whoopee Band,True,1.0
+hotpot_0360,1,Monty Stratton,False,0.6667
+hotpot_0360,2,Monty Stratton,False,0.6667
+hotpot_0360,3,Monty Stratton,False,0.6667
+hotpot_0360,5,Monty Stratton,False,0.6667
+hotpot_0360,10,Monty Stratton,False,0.6667
+hotpot_0361,1,Not specified,False,0.0
+hotpot_0361,2,Gospel music,False,0.6667
+hotpot_0361,3,Gospel music,False,0.6667
+hotpot_0361,5,Gospel music,False,0.6667
+hotpot_0361,10,Gospel music,False,0.6667
+hotpot_0362,1,Not specified,False,0.0
+hotpot_0362,2,Not specified,False,0.0
+hotpot_0362,3,Rhode Island,True,1.0
+hotpot_0362,5,Rhode Island,True,1.0
+hotpot_0362,10,Rhode Island,True,1.0
+hotpot_0363,1,Not mentioned,False,0.0
+hotpot_0363,2,"Frank Wildhorn, Leslie Bricusse, and Steve Cuden",False,0.7273
+hotpot_0363,3,"Frank Wildhorn, Leslie Bricusse, and Steve Cuden",False,0.7273
+hotpot_0363,5,"Frank Wildhorn, Leslie Bricusse, and Steve Cuden",False,0.7273
+hotpot_0363,10,"Frank Wildhorn, Leslie Bricusse, and Steve Cuden",False,0.7273
+hotpot_0364,1,Rangers,False,0.0
+hotpot_0364,2,Rangers,False,0.0
+hotpot_0364,3,Hearts,False,0.4
+hotpot_0364,5,Hearts,False,0.4
+hotpot_0364,10,Hearts,False,0.4
+hotpot_0365,1,1985,False,0.0
+hotpot_0365,2,1985,False,0.0
+hotpot_0365,3,1985,False,0.0
+hotpot_0365,5,1985,False,0.0
+hotpot_0365,10,1985,False,0.0
+hotpot_0366,1,No information provided,False,0.0
+hotpot_0366,2,Lola team,False,0.3333
+hotpot_0366,3,Lola team,False,0.3333
+hotpot_0366,5,Lola team,False,0.3333
+hotpot_0366,10,Surtees Racing Organisation,False,0.8571
+hotpot_0367,1,Not mentioned,False,0.0
+hotpot_0367,2,No,False,0.0
+hotpot_0367,3,No,False,0.0
+hotpot_0367,5,"26,000 students",False,0.6667
+hotpot_0367,10,"26,000 students",False,0.6667
+hotpot_0368,1,No,True,1.0
+hotpot_0368,2,No,True,1.0
+hotpot_0368,3,No,True,1.0
+hotpot_0368,5,No,True,1.0
+hotpot_0368,10,No,True,1.0
+hotpot_0369,1,Pasek and Paul,False,0.8
+hotpot_0369,2,Pasek and Paul,False,0.8
+hotpot_0369,3,Pasek and Paul,False,0.8
+hotpot_0369,5,Pasek and Paul,False,0.8
+hotpot_0369,10,Pasek and Paul,False,0.8
+hotpot_0370,1,Bill Curry,False,0.5
+hotpot_0370,2,George O'Leary,False,0.0
+hotpot_0370,3,Bill Lewis,True,1.0
+hotpot_0370,5,Bill Lewis,True,1.0
+hotpot_0370,10,Bill Lewis,True,1.0
+hotpot_0371,1,No answer provided in passages,False,0.0
+hotpot_0371,2,Natalie Sorokin,False,0.0
+hotpot_0371,3,A Disgraceful Affair,False,0.0
+hotpot_0371,5,Jean-Paul Sartre's journal,False,0.0
+hotpot_0371,10,Les Temps modernes,True,1.0
+hotpot_0372,1,Leonberger,False,0.3333
+hotpot_0372,2,Leonberger,False,0.3333
+hotpot_0372,3,Leonberger,False,0.3333
+hotpot_0372,5,Leonberger,False,0.3333
+hotpot_0372,10,Leonberger,False,0.3333
+hotpot_0373,1,Atomic bombing of Hiroshima,False,0.2857
+hotpot_0373,2,Hiroshima bombing,False,0.4
+hotpot_0373,3,Atomic bombing of Hiroshima,False,0.2857
+hotpot_0373,5,Atomic bombing of Hiroshima,False,0.2857
+hotpot_0373,10,Atomic bombing of Hiroshima,False,0.2857
+hotpot_0374,1,Not stated,False,0.0
+hotpot_0374,2,1887,True,1.0
+hotpot_0374,3,1887,True,1.0
+hotpot_0374,5,1887,True,1.0
+hotpot_0374,10,1887,True,1.0
+hotpot_0375,1,Northern Italy,False,0.5714
+hotpot_0375,2,Northern Italy,False,0.5714
+hotpot_0375,3,Northern Italy,False,0.5714
+hotpot_0375,5,Northern Italy,False,0.5714
+hotpot_0375,10,Northern Italy,False,0.5714
+hotpot_0376,1,Batman,False,0.0
+hotpot_0376,2,Detective Comics,False,0.0
+hotpot_0376,3,Detective Comics,False,0.0
+hotpot_0376,5,Detective Comics,False,0.0
+hotpot_0376,10,Movie Masters,False,0.0
+hotpot_0377,1,Not specified,False,0.0
+hotpot_0377,2,Not specified,False,0.0
+hotpot_0377,3,Not mentioned,False,0.0
+hotpot_0377,5,Not specified,False,0.0
+hotpot_0377,10,Hacksaw Ridge,True,1.0
+hotpot_0378,1,Insurance company,False,0.3333
+hotpot_0378,2,Life insurance group,False,0.8571
+hotpot_0378,3,Life insurance group,False,0.8571
+hotpot_0378,5,Life insurance group,False,0.8571
+hotpot_0378,10,Life insurance group,False,0.8571
+hotpot_0379,1,Yes,True,1.0
+hotpot_0379,2,Yes,True,1.0
+hotpot_0379,3,Yes,True,1.0
+hotpot_0379,5,Yes,True,1.0
+hotpot_0379,10,Yes,True,1.0
+hotpot_0380,1,1978,True,1.0
+hotpot_0380,2,1978,True,1.0
+hotpot_0380,3,1978,True,1.0
+hotpot_0380,5,1978,True,1.0
+hotpot_0380,10,1978,True,1.0
+hotpot_0381,1,Mountbatten-Windsor family,False,0.5
+hotpot_0381,2,Mountbatten family,True,1.0
+hotpot_0381,3,Mountbatten family,True,1.0
+hotpot_0381,5,Mountbatten family,True,1.0
+hotpot_0381,10,Mountbatten family,True,1.0
+hotpot_0382,1,Kristen Wiig,False,0.8
+hotpot_0382,2,Kristen Wiig,False,0.8
+hotpot_0382,3,Kristen Wiig,False,0.8
+hotpot_0382,5,Kristen Wiig,False,0.8
+hotpot_0382,10,Kristen Wiig,False,0.8
+hotpot_0383,1,Not mentioned,False,0.0
+hotpot_0383,2,Mario Kempes,False,0.0
+hotpot_0383,3,Mario Kempes,False,0.0
+hotpot_0383,5,Claudio López,False,0.8
+hotpot_0383,10,Claudio López,False,0.8
+hotpot_0384,1,decorations and wealth,False,0.0
+hotpot_0384,2,decorations and wealth,False,0.0
+hotpot_0384,3,decorations and wealth,False,0.0
+hotpot_0384,5,Hirsch index rating,True,1.0
+hotpot_0384,10,Hirsch index rating,True,1.0
+hotpot_0385,1,1944 to 1971,False,0.4444
+hotpot_0385,2,1944 to 1971,False,0.4444
+hotpot_0385,3,1944 to 1971,False,0.4444
+hotpot_0385,5,1944 to 1971,False,0.4444
+hotpot_0385,10,1944 to 1971,False,0.4444
+hotpot_0386,1,Obafemi Martins,True,1.0
+hotpot_0386,2,Obafemi Martins,True,1.0
+hotpot_0386,3,Obafemi Martins,True,1.0
+hotpot_0386,5,Obafemi Martins,True,1.0
+hotpot_0386,10,Obafemi Martins,True,1.0
+hotpot_0387,1,Colonel,True,1.0
+hotpot_0387,2,Colonel,True,1.0
+hotpot_0387,3,Colonel,True,1.0
+hotpot_0387,5,Colonel,True,1.0
+hotpot_0387,10,Colonel,True,1.0
+hotpot_0388,1,Cecily Strong,True,1.0
+hotpot_0388,2,Cecily Strong,True,1.0
+hotpot_0388,3,Cecily Strong,True,1.0
+hotpot_0388,5,Cecily Strong,True,1.0
+hotpot_0388,10,Cecily Strong,True,1.0
+hotpot_0389,1,Tarryl Lynn Clark,False,0.0
+hotpot_0389,2,Michele Marie Bachmann,True,1.0
+hotpot_0389,3,Michele Marie Bachmann,True,1.0
+hotpot_0389,5,Michele Marie Bachmann,True,1.0
+hotpot_0389,10,Michele Marie Bachmann,True,1.0
+hotpot_0390,1,Gary Ross,True,1.0
+hotpot_0390,2,No information provided,False,0.0
+hotpot_0390,3,No information provided,False,0.0
+hotpot_0390,5,Not specified,False,0.0
+hotpot_0390,10,Gary Ross,True,1.0
+hotpot_0391,1,Potomac River,True,1.0
+hotpot_0391,2,Not mentioned,False,0.0
+hotpot_0391,3,Not specified,False,0.0
+hotpot_0391,5,No river mentioned,False,0.4
+hotpot_0391,10,Potomac River,True,1.0
+hotpot_0392,1,Loch Lomond,True,1.0
+hotpot_0392,2,Loch Lomond,True,1.0
+hotpot_0392,3,Loch Lomond,True,1.0
+hotpot_0392,5,Loch Lomond,True,1.0
+hotpot_0392,10,Loch Lomond,True,1.0
+hotpot_0393,1,Not mentioned,False,0.0
+hotpot_0393,2,"Taiwanese Hokkien, Cantonese, Japanese, Indonesian, English",False,0.9231
+hotpot_0393,3,"Taiwanese Hokkien, Cantonese, Japanese, Indonesian, English",False,0.9231
+hotpot_0393,5,"Taiwanese Hokkien, Cantonese, Japanese, Indonesian, English",False,0.9231
+hotpot_0393,10,"Taiwanese Hokkien, Cantonese, Japanese, Indonesian, English",False,0.9231
+hotpot_0394,1,Maine's Canaan (no county specified),False,0.2857
+hotpot_0394,2,Merrimack County,False,0.5
+hotpot_0394,3,Merrimack County,False,0.5
+hotpot_0394,5,Merrimack County,False,0.5
+hotpot_0394,10,Somerset County,True,1.0
+hotpot_0395,1,Not mentioned,False,0.0
+hotpot_0395,2,Roger Stone,False,0.6667
+hotpot_0395,3,Roger Stone,False,0.6667
+hotpot_0395,5,Roger Ailes,False,0.3333
+hotpot_0395,10,Roger Stone,False,0.6667
+hotpot_0396,1,Skeptic,False,0.0
+hotpot_0396,2,The Chronicle of Philanthropy,True,1.0
+hotpot_0396,3,The Chronicle of Philanthropy,True,1.0
+hotpot_0396,5,The Chronicle of Philanthropy,True,1.0
+hotpot_0396,10,The Chronicle of Philanthropy,True,1.0
+hotpot_0397,1,The passage does not provide information about New Jersey's Morris Canal length.,False,0.3077
+hotpot_0397,2,New Jersey's Morris Canal,False,0.6667
+hotpot_0397,3,Morris Canal,True,1.0
+hotpot_0397,5,New Jersey's Morris Canal,False,0.6667
+hotpot_0397,10,Morris Canal,True,1.0
+hotpot_0398,1,James Weldon Johnson,True,1.0
+hotpot_0398,2,James Weldon Johnson,True,1.0
+hotpot_0398,3,James Weldon Johnson,True,1.0
+hotpot_0398,5,James Weldon Johnson,True,1.0
+hotpot_0398,10,James Weldon Johnson,True,1.0
+hotpot_0399,1,Kareena Kapoor,False,0.8
+hotpot_0399,2,Kareena Kapoor,False,0.8
+hotpot_0399,3,Kareena Kapoor,False,0.8
+hotpot_0399,5,Kareena Kapoor,False,0.8
+hotpot_0399,10,Kareena Kapoor,False,0.8
+hotpot_0400,1,Not stated,False,0.0
+hotpot_0400,2,Miller Brewing,True,1.0
+hotpot_0400,3,Miller Brewing,True,1.0
+hotpot_0400,5,Miller Brewing,True,1.0
+hotpot_0400,10,Miller Brewing,True,1.0
+hotpot_0401,1,Circus Diablo,False,0.0
+hotpot_0401,2,Magic Dirt,True,1.0
+hotpot_0401,3,Magic Dirt,True,1.0
+hotpot_0401,5,Magic Dirt,True,1.0
+hotpot_0401,10,Magic Dirt,True,1.0
+hotpot_0402,1,Babylon,True,1.0
+hotpot_0402,2,Babylon,True,1.0
+hotpot_0402,3,Babylon,True,1.0
+hotpot_0402,5,Babylon,True,1.0
+hotpot_0402,10,Babylon,True,1.0
+hotpot_0403,1,No,True,1.0
+hotpot_0403,2,No,True,1.0
+hotpot_0403,3,No,True,1.0
+hotpot_0403,5,No,True,1.0
+hotpot_0403,10,No,True,1.0
+hotpot_0404,1,No,True,1.0
+hotpot_0404,2,No,True,1.0
+hotpot_0404,3,No,True,1.0
+hotpot_0404,5,No,True,1.0
+hotpot_0404,10,No,True,1.0
+hotpot_0405,1,A Roud Folk Song Index number is not provided in the passages.,False,0.0
+hotpot_0405,2,5249,True,1.0
+hotpot_0405,3,5249,True,1.0
+hotpot_0405,5,5249,True,1.0
+hotpot_0405,10,5249,True,1.0
+hotpot_0406,1,The Emperor of Japan,True,1.0
+hotpot_0406,2,The Emperor of Japan,True,1.0
+hotpot_0406,3,The Emperor of Japan,True,1.0
+hotpot_0406,5,Emperor Hirohito,False,0.4
+hotpot_0406,10,Emperor of Japan,True,1.0
+hotpot_0407,1,Old Dogs,True,1.0
+hotpot_0407,2,Old Dogs,True,1.0
+hotpot_0407,3,Old Dogs,True,1.0
+hotpot_0407,5,Old Dogs,True,1.0
+hotpot_0407,10,Old Dogs,True,1.0
+hotpot_0408,1,Mos Def,True,1.0
+hotpot_0408,2,Mos Def,True,1.0
+hotpot_0408,3,Mos Def,True,1.0
+hotpot_0408,5,Mos Def,True,1.0
+hotpot_0408,10,Michael J. Fox and Mos Def,False,0.5
+hotpot_0409,1,2018 Unibet Premier League Darts,True,1.0
+hotpot_0409,2,2018 Premier League Darts,False,0.8889
+hotpot_0409,3,2018 Premier League Darts,False,0.8889
+hotpot_0409,5,2018 Premier League Darts,False,0.8889
+hotpot_0409,10,Premier League Darts,False,0.75
+hotpot_0410,1,St. Petersburg Imperial Ballet,False,0.3333
+hotpot_0410,2,St. Petersburg Imperial Ballet,False,0.3333
+hotpot_0410,3,St. Petersburg Imperial Ballet,False,0.3333
+hotpot_0410,5,Mariinsky Ballet,True,1.0
+hotpot_0410,10,Mariinsky Ballet,True,1.0
+hotpot_0411,1,Newbery Medal,False,0.0
+hotpot_0411,2,Rhode Island Children's Book Award,False,0.9091
+hotpot_0411,3,Rhode Island Children's Book Award,False,0.9091
+hotpot_0411,5,Rhode Island Children's Book Award,False,0.9091
+hotpot_0411,10,Rhode Island Children's Book Award,False,0.9091
+hotpot_0412,1,Manchester–Boston Regional Airport,True,1.0
+hotpot_0412,2,Manchester–Boston Regional Airport,True,1.0
+hotpot_0412,3,Manchester–Boston Regional Airport,True,1.0
+hotpot_0412,5,Manchester–Boston Regional Airport,True,1.0
+hotpot_0412,10,Manchester–Boston Regional Airport,True,1.0
+hotpot_0413,1,Parliament,True,1.0
+hotpot_0413,2,Parliament,True,1.0
+hotpot_0413,3,Parliament,True,1.0
+hotpot_0413,5,Parliament,True,1.0
+hotpot_0413,10,Parliament,True,1.0
+hotpot_0414,1,British,True,1.0
+hotpot_0414,2,British,True,1.0
+hotpot_0414,3,British,True,1.0
+hotpot_0414,5,British,True,1.0
+hotpot_0414,10,British,True,1.0
+hotpot_0415,1,University of Mississippi,False,0.3333
+hotpot_0415,2,University of Mississippi,False,0.3333
+hotpot_0415,3,University of Mississippi,False,0.3333
+hotpot_0415,5,Arizona State University,True,1.0
+hotpot_0415,10,East Carolina University,False,0.3333
+hotpot_0416,1,Apple,True,1.0
+hotpot_0416,2,NoPhone,False,0.0
+hotpot_0416,3,Apple,True,1.0
+hotpot_0416,5,Apple,True,1.0
+hotpot_0416,10,Apple,True,1.0
+hotpot_0417,1,Around four hundred,True,1.0
+hotpot_0417,2,Around four hundred,True,1.0
+hotpot_0417,3,Around four hundred,True,1.0
+hotpot_0417,5,Around four hundred,True,1.0
+hotpot_0417,10,Around four hundred,True,1.0
+hotpot_0418,1,Ant Timpson and Tim League,False,0.8333
+hotpot_0418,2,Ant Timpson and Tim League,False,0.8333
+hotpot_0418,3,Ant Timpson and Tim League,False,0.8333
+hotpot_0418,5,Ant Timpson and Tim League,False,0.8333
+hotpot_0418,10,Ant Timpson and Tim League,False,0.8333
+hotpot_0419,1,Not specified,False,0.0
+hotpot_0419,2,Up to 25 minutes,True,1.0
+hotpot_0419,3,up to 25 minutes,True,1.0
+hotpot_0419,5,Up to 25 minutes,True,1.0
+hotpot_0419,10,Up to 25 minutes,True,1.0
+hotpot_0420,1,Entente or Allied powers countries,False,0.0
+hotpot_0420,2,Entente or Allied powers,False,0.0
+hotpot_0420,3,Entente or Allied powers,False,0.0
+hotpot_0420,5,Entente or Allied powers,False,0.0
+hotpot_0420,10,Entente or Allied powers,False,0.0
+hotpot_0421,1,Guadalcanal Campaign,False,0.0
+hotpot_0421,2,Operation Watchtower,True,1.0
+hotpot_0421,3,Operation Watchtower,True,1.0
+hotpot_0421,5,Operation Watchtower,True,1.0
+hotpot_0421,10,Operation Watchtower,True,1.0
+hotpot_0422,1,No,False,0.0
+hotpot_0422,2,Yes,True,1.0
+hotpot_0422,3,Yes,True,1.0
+hotpot_0422,5,Yes,True,1.0
+hotpot_0422,10,Yes,True,1.0
+hotpot_0423,1,5 Series generation,False,0.4
+hotpot_0423,2,5 Series,False,0.0
+hotpot_0423,3,Seventh generation,True,1.0
+hotpot_0423,5,Seventh generation,True,1.0
+hotpot_0423,10,Seventh generation,True,1.0
+hotpot_0424,1,Christopher Nolan,True,1.0
+hotpot_0424,2,Christopher Nolan,True,1.0
+hotpot_0424,3,Christopher Nolan,True,1.0
+hotpot_0424,5,Christopher Nolan,True,1.0
+hotpot_0424,10,Christopher Nolan,True,1.0
+hotpot_0425,1,Not specified,False,0.0
+hotpot_0425,2,Not specified,False,0.0
+hotpot_0425,3,Not specified,False,0.0
+hotpot_0425,5,Evangelical Lutheran Church in America,False,0.75
+hotpot_0425,10,Evangelical Lutheran Church in America,False,0.75
+hotpot_0426,1,Orange County,True,1.0
+hotpot_0426,2,Orange County,True,1.0
+hotpot_0426,3,Orange County,True,1.0
+hotpot_0426,5,Orange County,True,1.0
+hotpot_0426,10,Orange County,True,1.0
+hotpot_0427,1,France,False,0.0
+hotpot_0427,2,England,True,1.0
+hotpot_0427,3,England,True,1.0
+hotpot_0427,5,England,True,1.0
+hotpot_0427,10,England,True,1.0
+hotpot_0428,1,Not provided,False,0.0
+hotpot_0428,2,Not provided,False,0.0
+hotpot_0428,3,Not provided,False,0.0
+hotpot_0428,5,"April 23, 1959",False,0.0
+hotpot_0428,10,"July 16, 1971",True,1.0
+hotpot_0429,1,John Faso,True,1.0
+hotpot_0429,2,John Faso,True,1.0
+hotpot_0429,3,John Faso,True,1.0
+hotpot_0429,5,John Faso,True,1.0
+hotpot_0429,10,John Faso,True,1.0
+hotpot_0430,1,Dancing with the Stars,True,1.0
+hotpot_0430,2,Dancing with the Stars,True,1.0
+hotpot_0430,3,Dancing with the Stars,True,1.0
+hotpot_0430,5,Dancing with the Stars,True,1.0
+hotpot_0430,10,Dancing with the Stars,True,1.0
+hotpot_0431,1,No information provided,False,0.0
+hotpot_0431,2,Discover Pure Energy,True,1.0
+hotpot_0431,3,Discover Pure Energy,True,1.0
+hotpot_0431,5,Discover Pure Energy,True,1.0
+hotpot_0431,10,Discover Pure Energy,True,1.0
+hotpot_0432,1,Alcohol,False,0.0
+hotpot_0432,2,Irish pubs,False,0.0
+hotpot_0432,3,Irish pubs,False,0.0
+hotpot_0432,5,Alcoholic drinks,True,1.0
+hotpot_0432,10,Alcoholic drinks,True,1.0
+hotpot_0433,1,Sekou Cissé,False,0.3077
+hotpot_0433,2,Sekou Cissé,False,0.3077
+hotpot_0433,3,Sekou Cissé,False,0.3077
+hotpot_0433,5,Sekou Cissé,False,0.3077
+hotpot_0433,10,Sekou Cissé,False,0.3077
+hotpot_0434,1,The Hand of Thrawn,False,0.3333
+hotpot_0434,2,The Hand of Thrawn series,False,0.2857
+hotpot_0434,3,The Hand of Thrawn series,False,0.2857
+hotpot_0434,5,The Hand of Thrawn,False,0.3333
+hotpot_0434,10,The Hand of Thrawn,False,0.3333
+hotpot_0435,1,No information provided,False,0.0
+hotpot_0435,2,The Vaudevillains,True,1.0
+hotpot_0435,3,The Vaudevillains,True,1.0
+hotpot_0435,5,WWE SmackDown brand,False,0.0
+hotpot_0435,10,WWE SmackDown brand,False,0.0
+hotpot_0436,1,Calibanus,False,0.0
+hotpot_0436,2,Greyia,True,1.0
+hotpot_0436,3,Calibanus,False,0.0
+hotpot_0436,5,Greyia,True,1.0
+hotpot_0436,10,Greyia,True,1.0
+hotpot_0437,1,Cricket fighting,True,1.0
+hotpot_0437,2,Cricket fighting,True,1.0
+hotpot_0437,3,Cricket fighting,True,1.0
+hotpot_0437,5,Cricket fighting,True,1.0
+hotpot_0437,10,Cricket fighting,True,1.0
+hotpot_0438,1,Pantherinae,True,1.0
+hotpot_0438,2,Pantherinae,True,1.0
+hotpot_0438,3,Pantherinae,True,1.0
+hotpot_0438,5,Pantherinae,True,1.0
+hotpot_0438,10,Pantherinae,True,1.0
+hotpot_0439,1,Ukraine,False,0.0
+hotpot_0439,2,Belarus,True,1.0
+hotpot_0439,3,Belarus,True,1.0
+hotpot_0439,5,Belarus,True,1.0
+hotpot_0439,10,Belarus,True,1.0
+hotpot_0440,1,Saturday Night Live,False,0.0
+hotpot_0440,2,Suddenly Susan,False,0.0
+hotpot_0440,3,The Wonder Years,True,1.0
+hotpot_0440,5,The Wonder Years,True,1.0
+hotpot_0440,10,The Wonder Years,True,1.0
+hotpot_0441,1,Luigi Pirandello,True,1.0
+hotpot_0441,2,Luigi Pirandello,True,1.0
+hotpot_0441,3,Luigi Pirandello,True,1.0
+hotpot_0441,5,Luigi Pirandello,True,1.0
+hotpot_0441,10,Luigi Pirandello,True,1.0
+hotpot_0442,1,Chester Erskine,False,0.0
+hotpot_0442,2,Sam Taylor,True,1.0
+hotpot_0442,3,Sam Taylor,True,1.0
+hotpot_0442,5,Sam Taylor,True,1.0
+hotpot_0442,10,Sam Taylor,True,1.0
+hotpot_0443,1,A Rush of Blood to the Head,True,1.0
+hotpot_0443,2,A Rush of Blood to the Head,True,1.0
+hotpot_0443,3,A Rush of Blood to the Head,True,1.0
+hotpot_0443,5,A Rush of Blood to the Head,True,1.0
+hotpot_0443,10,A Rush of Blood to the Head,True,1.0
+hotpot_0444,1,Echeveria,True,1.0
+hotpot_0444,2,Echeveria,True,1.0
+hotpot_0444,3,Echeveria,True,1.0
+hotpot_0444,5,Echeveria,True,1.0
+hotpot_0444,10,Echeveria,True,1.0
+hotpot_0445,1,Passages do not provide this information.,False,0.0
+hotpot_0445,2,Five months,True,1.0
+hotpot_0445,3,Five months,True,1.0
+hotpot_0445,5,Five months,True,1.0
+hotpot_0445,10,Five months,True,1.0
+hotpot_0446,1,Daisy Chainsaw,True,1.0
+hotpot_0446,2,Daisy Chainsaw,True,1.0
+hotpot_0446,3,Daisy Chainsaw,True,1.0
+hotpot_0446,5,Daisy Chainsaw,True,1.0
+hotpot_0446,10,Daisy Chainsaw,True,1.0
+hotpot_0447,1,Monongalia County,False,0.5
+hotpot_0447,2,Monongalia County,False,0.5
+hotpot_0447,3,Monongalia County,False,0.5
+hotpot_0447,5,Monongalia County,False,0.5
+hotpot_0447,10,Preston County,True,1.0
+hotpot_0448,1,British,False,0.0
+hotpot_0448,2,British,False,0.0
+hotpot_0448,3,British,False,0.0
+hotpot_0448,5,Irish,True,1.0
+hotpot_0448,10,Irish,True,1.0
+hotpot_0449,1,Not specified,False,0.0
+hotpot_0449,2,Not specified,False,0.0
+hotpot_0449,3,Not mentioned,False,0.0
+hotpot_0449,5,Samoa,True,1.0
+hotpot_0449,10,Samoa,True,1.0
+hotpot_0450,1,"5,124 rooms",True,1.0
+hotpot_0450,2,"5,124 rooms",True,1.0
+hotpot_0450,3,"5,124 rooms",True,1.0
+hotpot_0450,5,"5,124 rooms",True,1.0
+hotpot_0450,10,"5,124 rooms",True,1.0
+hotpot_0451,1,1972,True,1.0
+hotpot_0451,2,1972,True,1.0
+hotpot_0451,3,1974,False,0.0
+hotpot_0451,5,1972,True,1.0
+hotpot_0451,10,1972,True,1.0
+hotpot_0452,1,Lincolnshire,False,0.4
+hotpot_0452,2,North Kesteven,False,0.6667
+hotpot_0452,3,Lincolnshire,False,0.4
+hotpot_0452,5,Lincolnshire,False,0.4
+hotpot_0452,10,"Digby, Lincolnshire",False,0.3333
+hotpot_0453,1,Blue (Da Ba Dee),False,0.4
+hotpot_0453,2,Blue (Da Ba Dee),False,0.4
+hotpot_0453,3,Blue (Da Ba Dee),False,0.4
+hotpot_0453,5,Blue (Da Ba Dee),False,0.4
+hotpot_0453,10,Blue (Da Ba Dee),False,0.4
+hotpot_0454,1,Edward M. Kennedy,False,0.4
+hotpot_0454,2,Edward M. Kennedy,False,0.4
+hotpot_0454,3,Edward M. Kennedy,False,0.4
+hotpot_0454,5,Edward M. Kennedy,False,0.4
+hotpot_0454,10,Edward M. Kennedy,False,0.4
+hotpot_0455,1,Melbourne,False,0.0
+hotpot_0455,2,Melbourne,False,0.0
+hotpot_0455,3,Melbourne,False,0.0
+hotpot_0455,5,Melbourne,False,0.0
+hotpot_0455,10,Melbourne,False,0.0
+hotpot_0456,1,No,True,1.0
+hotpot_0456,2,No,True,1.0
+hotpot_0456,3,No,True,1.0
+hotpot_0456,5,No,True,1.0
+hotpot_0456,10,No,True,1.0
+hotpot_0457,1,Warrington Town,False,0.6667
+hotpot_0457,2,No information provided,False,0.0
+hotpot_0457,3,No information provided,False,0.0
+hotpot_0457,5,No information provided,False,0.0
+hotpot_0457,10,Warrington Town,False,0.6667
+hotpot_0458,1,Yes,True,1.0
+hotpot_0458,2,Yes,True,1.0
+hotpot_0458,3,Yes,True,1.0
+hotpot_0458,5,Yes,True,1.0
+hotpot_0458,10,Yes,True,1.0
+hotpot_0459,1,Kill Doctor Lucky,False,0.0
+hotpot_0459,2,Icehouse pieces,True,1.0
+hotpot_0459,3,Icehouse pieces,True,1.0
+hotpot_0459,5,Icehouse pieces,True,1.0
+hotpot_0459,10,Icehouse pieces,True,1.0
+hotpot_0460,1,Yes,True,1.0
+hotpot_0460,2,Yes,True,1.0
+hotpot_0460,3,Yes,True,1.0
+hotpot_0460,5,Yes,True,1.0
+hotpot_0460,10,Yes,True,1.0
+hotpot_0461,1,Not specified,False,0.0
+hotpot_0461,2,Blue Peter,True,1.0
+hotpot_0461,3,Blue Peter,True,1.0
+hotpot_0461,5,Blue Peter,True,1.0
+hotpot_0461,10,Blue Peter,True,1.0
+hotpot_0462,1,Dr. Martens is referenced.,False,0.0
+hotpot_0462,2,Dr. Martens,False,0.0
+hotpot_0462,3,Dr. Martens are referenced.,False,0.0
+hotpot_0462,5,"Air-cushioned sole, upper shape, welted construction, yellow stitching",False,0.7619
+hotpot_0462,10,"Air-cushioned sole, welted construction, yellow stitching",False,0.6316
+hotpot_0463,1,Rabies,True,1.0
+hotpot_0463,2,Rabies,True,1.0
+hotpot_0463,3,Rabies,True,1.0
+hotpot_0463,5,Rabies,True,1.0
+hotpot_0463,10,Rabies,True,1.0
+hotpot_0464,1,San Marco,True,1.0
+hotpot_0464,2,San Marco,True,1.0
+hotpot_0464,3,San Marco,True,1.0
+hotpot_0464,5,San Marco,True,1.0
+hotpot_0464,10,San Marco,True,1.0
+hotpot_0465,1,Not specified,False,0.0
+hotpot_0465,2,None,False,0.0
+hotpot_0465,3,None,False,0.0
+hotpot_0465,5,Odense Boldklub,True,1.0
+hotpot_0465,10,Odense Boldklub,True,1.0
+hotpot_0466,1,No information provided,False,0.0
+hotpot_0466,2,Not specified,False,0.0
+hotpot_0466,3,Borwick railway station,True,1.0
+hotpot_0466,5,Borwick railway station,True,1.0
+hotpot_0466,10,Borwick railway station,True,1.0
+hotpot_0467,1,2012,True,1.0
+hotpot_0467,2,2012,True,1.0
+hotpot_0467,3,2012,True,1.0
+hotpot_0467,5,2012,True,1.0
+hotpot_0467,10,2012,True,1.0
+hotpot_0468,1,National Socialist black metal (NSBM),False,0.0
+hotpot_0468,2,National Socialist black metal,False,0.0
+hotpot_0468,3,National Socialist black metal,False,0.0
+hotpot_0468,5,neo-völkisch movement within black metal,False,0.3333
+hotpot_0468,10,neo-völkisch movement within black metal,False,0.3333
+hotpot_0469,1,Knowsley United Women,True,1.0
+hotpot_0469,2,Knowsley United Women,True,1.0
+hotpot_0469,3,Knowsley United Women,True,1.0
+hotpot_0469,5,Knowsley United Women,True,1.0
+hotpot_0469,10,Knowsley United Women,True,1.0
+hotpot_0470,1,Coyote Ugly,True,1.0
+hotpot_0470,2,Con Air,False,0.0
+hotpot_0470,3,Coyote Ugly,True,1.0
+hotpot_0470,5,Coyote Ugly,True,1.0
+hotpot_0470,10,Coyote Ugly,True,1.0
+hotpot_0471,1,Not specified,False,0.0
+hotpot_0471,2,No information provided,False,0.0
+hotpot_0471,3,No information provided,False,0.0
+hotpot_0471,5,No information provided,False,0.0
+hotpot_0471,10,Every March,False,0.5714
+hotpot_0472,1,Shukratara,True,1.0
+hotpot_0472,2,Shukratara,True,1.0
+hotpot_0472,3,Shukratara,True,1.0
+hotpot_0472,5,Shukratara,True,1.0
+hotpot_0472,10,Shukratara,True,1.0
+hotpot_0473,1,XVideos,True,1.0
+hotpot_0473,2,XVideos,True,1.0
+hotpot_0473,3,XVideos,True,1.0
+hotpot_0473,5,XVideos,True,1.0
+hotpot_0473,10,XVideos,True,1.0
+hotpot_0474,1,Eschscholzia,True,1.0
+hotpot_0474,2,Eschscholzia,True,1.0
+hotpot_0474,3,Eschscholzia,True,1.0
+hotpot_0474,5,Eschscholzia,True,1.0
+hotpot_0474,10,Eschscholzia,True,1.0
+hotpot_0475,1,Not mentioned,False,0.0
+hotpot_0475,2,No band mentioned based in Glasgow,False,0.0
+hotpot_0475,3,"No band in the ""Art Wave"" scene is based in Glasgow.",False,0.0
+hotpot_0475,5,Life Without Buildings,False,0.0
+hotpot_0475,10,Life Without Buildings,False,0.0
+hotpot_0476,1,EP,False,0.0
+hotpot_0476,2,EP,False,0.0
+hotpot_0476,3,EP,False,0.0
+hotpot_0476,5,Extended play (EP),False,0.8
+hotpot_0476,10,EP,False,0.0
+hotpot_0477,1,Wembley Stadium,False,0.6667
+hotpot_0477,2,Wembley Stadium,False,0.6667
+hotpot_0477,3,Wembley Stadium,False,0.6667
+hotpot_0477,5,Wembley Stadium,False,0.6667
+hotpot_0477,10,Wembley Stadium,False,0.6667
+hotpot_0478,1,Shazia Manzoor,False,0.0
+hotpot_0478,2,Richa Sharma,True,1.0
+hotpot_0478,3,Richa Sharma,True,1.0
+hotpot_0478,5,Richa Sharma,True,1.0
+hotpot_0478,10,Richa Sharma,True,1.0
+hotpot_0479,1,Sparafucile in Rigoletto,False,0.5
+hotpot_0479,2,"Sparafucile in ""Rigoletto""",False,0.5
+hotpot_0479,3,Sparafucile in Rigoletto,False,0.5
+hotpot_0479,5,"Sparafucile in ""Rigoletto""",False,0.5
+hotpot_0479,10,Sparafucile in Rigoletto,False,0.5
+hotpot_0480,1,United Kingdom,False,0.0
+hotpot_0480,2,London,False,0.4
+hotpot_0480,3,London,False,0.4
+hotpot_0480,5,London,False,0.4
+hotpot_0480,10,London,False,0.4
+hotpot_0481,1,Premier League,False,0.8
+hotpot_0481,2,2013–14 Premier League,True,1.0
+hotpot_0481,3,2013–14 Premier League,True,1.0
+hotpot_0481,5,2012–13 Premier League,False,0.6667
+hotpot_0481,10,Premier League,False,0.8
+hotpot_0482,1,Not specified,False,0.0
+hotpot_0482,2,1947,True,1.0
+hotpot_0482,3,1947,True,1.0
+hotpot_0482,5,1947,True,1.0
+hotpot_0482,10,1947,True,1.0
+hotpot_0483,1,Not provided,False,0.0
+hotpot_0483,2,Not provided,False,0.0
+hotpot_0483,3,"143,007",True,1.0
+hotpot_0483,5,"143,007",True,1.0
+hotpot_0483,10,"143,007",True,1.0
+hotpot_0484,1,Top winners,False,0.6667
+hotpot_0484,2,Top winner,False,0.0
+hotpot_0484,3,Top winners,False,0.6667
+hotpot_0484,5,Top winners,False,0.6667
+hotpot_0484,10,Top winners,False,0.6667
+hotpot_0485,1,Netherlands,False,0.0
+hotpot_0485,2,France,False,0.1538
+hotpot_0485,3,France,False,0.1538
+hotpot_0485,5,France,False,0.1538
+hotpot_0485,10,France,False,0.1538
+hotpot_0486,1,Robert Preus,False,0.0
+hotpot_0486,2,Francis Schaeffer,True,1.0
+hotpot_0486,3,Francis Schaeffer,True,1.0
+hotpot_0486,5,Francis Schaeffer,True,1.0
+hotpot_0486,10,Francis Schaeffer,True,1.0
+hotpot_0487,1,Evey's mother,True,1.0
+hotpot_0487,2,Evey's mother,True,1.0
+hotpot_0487,3,Evey's mother,True,1.0
+hotpot_0487,5,Evey's mother,True,1.0
+hotpot_0487,10,Evey's mother,True,1.0
+hotpot_0488,1,Not specified,False,0.0
+hotpot_0488,2,Half a million acres,True,1.0
+hotpot_0488,3,Half a million acres,True,1.0
+hotpot_0488,5,Half a million acres,True,1.0
+hotpot_0488,10,Half a million acres,True,1.0
+hotpot_0489,1,Zixing,True,1.0
+hotpot_0489,2,Zixing,True,1.0
+hotpot_0489,3,Zixing,True,1.0
+hotpot_0489,5,Zixing,True,1.0
+hotpot_0489,10,Zixing,True,1.0
+hotpot_0490,1,Queens,True,1.0
+hotpot_0490,2,Queens,True,1.0
+hotpot_0490,3,Queens,True,1.0
+hotpot_0490,5,Queens,True,1.0
+hotpot_0490,10,Queens,True,1.0
+hotpot_0491,1,4,True,1.0
+hotpot_0491,2,4,True,1.0
+hotpot_0491,3,4,True,1.0
+hotpot_0491,5,4,True,1.0
+hotpot_0491,10,4,True,1.0
+hotpot_0492,1,Meghan Markle,False,0.8
+hotpot_0492,2,Meghan Markle,False,0.8
+hotpot_0492,3,Meghan Markle,False,0.8
+hotpot_0492,5,Meghan Markle,False,0.8
+hotpot_0492,10,Meghan Markle,False,0.8
+hotpot_0493,1,No,True,1.0
+hotpot_0493,2,No,True,1.0
+hotpot_0493,3,No,True,1.0
+hotpot_0493,5,No,True,1.0
+hotpot_0493,10,No,True,1.0
+hotpot_0494,1,Rudolf Abel,True,1.0
+hotpot_0494,2,Rudolf Abel,True,1.0
+hotpot_0494,3,Rudolf Abel,True,1.0
+hotpot_0494,5,Rudolf Abel,True,1.0
+hotpot_0494,10,Rudolf Abel,True,1.0
+hotpot_0495,1,Not mentioned,False,0.0
+hotpot_0495,2,1883,True,1.0
+hotpot_0495,3,1883,True,1.0
+hotpot_0495,5,1883,True,1.0
+hotpot_0495,10,1883,True,1.0
+hotpot_0497,1,2017,True,1.0
+hotpot_0497,2,2017,True,1.0
+hotpot_0497,3,2017,True,1.0
+hotpot_0497,5,2017,True,1.0
+hotpot_0497,10,2017,True,1.0
+hotpot_0498,1,a card (or cards),False,0.0
+hotpot_0498,2,a card (or cards),False,0.0
+hotpot_0498,3,a reward,True,1.0
+hotpot_0498,5,A reward,True,1.0
+hotpot_0498,10,a reward,True,1.0
+hotpot_0499,1,Soil,False,0.0
+hotpot_0499,2,Drowning Pool,True,1.0
+hotpot_0499,3,Drowning Pool,True,1.0
+hotpot_0499,5,Drowning Pool,True,1.0
+hotpot_0499,10,Drowning Pool,True,1.0
+hotpot_0500,1,Mean Girls,True,1.0
+hotpot_0500,2,Mean Girls,True,1.0
+hotpot_0500,3,Mean Girls,True,1.0
+hotpot_0500,5,Mean Girls,True,1.0
+hotpot_0500,10,Mean Girls,True,1.0
+hotpot_0501,1,Tom Hiddleston,True,1.0
+hotpot_0501,2,Tom Hiddleston,True,1.0
+hotpot_0501,3,Tom Hiddleston,True,1.0
+hotpot_0501,5,Tom Hiddleston,True,1.0
+hotpot_0501,10,Tom Hiddleston,True,1.0
+hotpot_0502,1,Not provided,False,0.0
+hotpot_0502,2,All Nippon Airways,False,0.8
+hotpot_0502,3,All Nippon Airways,False,0.8
+hotpot_0502,5,All Nippon Airways,False,0.8
+hotpot_0502,10,All Nippon Airways,False,0.8
+hotpot_0503,1,Steve Sekely only,False,0.0
+hotpot_0503,2,Yes,True,1.0
+hotpot_0503,3,Yes,True,1.0
+hotpot_0503,5,Yes,True,1.0
+hotpot_0503,10,Yes,True,1.0
+hotpot_0504,1,Manon,False,0.0
+hotpot_0504,2,Manon by Massenet,False,0.0
+hotpot_0504,3,Manon by Massenet,False,0.0
+hotpot_0504,5,Manon by Massenet,False,0.0
+hotpot_0504,10,Manon by Massenet,False,0.0
+hotpot_0505,1,Book of Judges,True,1.0
+hotpot_0505,2,Book of Judges,True,1.0
+hotpot_0505,3,Book of Judges,True,1.0
+hotpot_0505,5,Book of Judges,True,1.0
+hotpot_0505,10,Book of Judges,True,1.0
+hotpot_0506,1,Ice Princess,True,1.0
+hotpot_0506,2,Ice Princess,True,1.0
+hotpot_0506,3,Ice Princess,True,1.0
+hotpot_0506,5,Ice Princess,True,1.0
+hotpot_0506,10,Ice Princess,True,1.0
+hotpot_0507,1,Pokémon: Arceus and the Jewel of Life,True,1.0
+hotpot_0507,2,The Watercolor,False,0.0
+hotpot_0507,3,The Watercolor,False,0.0
+hotpot_0507,5,Pokémon: Arceus and the Jewel of Life,True,1.0
+hotpot_0507,10,The Watercolor,False,0.0
+hotpot_0508,1,They are future AC/DC founders.,False,0.0
+hotpot_0508,2,Brothers,True,1.0
+hotpot_0508,3,Brothers (Angus Young and Malcolm Young),False,0.2857
+hotpot_0508,5,Brothers,True,1.0
+hotpot_0508,10,Brothers,True,1.0
+hotpot_0509,1,"October 22, 2012",True,1.0
+hotpot_0509,2,"October 22, 2012",True,1.0
+hotpot_0509,3,"October 22, 2012",True,1.0
+hotpot_0509,5,"October 22, 2012",True,1.0
+hotpot_0509,10,"October 22, 2012",True,1.0
+hotpot_0510,1,John Safran,True,1.0
+hotpot_0510,2,John Safran,True,1.0
+hotpot_0510,3,John Safran,True,1.0
+hotpot_0510,5,John Safran,True,1.0
+hotpot_0510,10,John Safran,True,1.0
+hotpot_0511,1,The Beatles,True,1.0
+hotpot_0511,2,The Beatles,True,1.0
+hotpot_0511,3,The Beatles,True,1.0
+hotpot_0511,5,The Beatles,True,1.0
+hotpot_0511,10,The Beatles,True,1.0
+hotpot_0512,1,Films,False,0.0
+hotpot_0512,2,American comedy films,False,0.5
+hotpot_0512,3,American comedy films,False,0.5
+hotpot_0512,5,American comedy films,False,0.5
+hotpot_0512,10,American comedy films,False,0.5
+hotpot_0513,1,Point-coloration pattern,False,0.0
+hotpot_0513,2,Point coloration,True,1.0
+hotpot_0513,3,Point coloration,True,1.0
+hotpot_0513,5,Point coloration,True,1.0
+hotpot_0513,10,Point coloration,True,1.0
+hotpot_0514,1,Chanda Rubin,False,0.5
+hotpot_0514,2,Chanda Rubin,False,0.5
+hotpot_0514,3,Chanda Rubin,False,0.5
+hotpot_0514,5,Chanda Rubin,False,0.5
+hotpot_0514,10,Chanda Rubin,False,0.5
+hotpot_0515,1,Since 2015,True,1.0
+hotpot_0515,2,Since 2015,True,1.0
+hotpot_0515,3,Since 2015,True,1.0
+hotpot_0515,5,Since 2015,True,1.0
+hotpot_0515,10,Since 2015,True,1.0
+hotpot_0516,1,No,False,0.0
+hotpot_0516,2,No,False,0.0
+hotpot_0516,3,No,False,0.0
+hotpot_0516,5,No,False,0.0
+hotpot_0516,10,No,False,0.0
+hotpot_0517,1,Clitheroe,False,0.0
+hotpot_0517,2,Clitheroe,False,0.0
+hotpot_0517,3,Clitheroe,False,0.0
+hotpot_0517,5,Burnley,True,1.0
+hotpot_0517,10,Burnley,True,1.0
+hotpot_0518,1,Nassau County,True,1.0
+hotpot_0518,2,Not stated,False,0.0
+hotpot_0518,3,"Freeport, New York",False,0.0
+hotpot_0518,5,"Freeport, New York",False,0.0
+hotpot_0518,10,Nassau County,True,1.0
+hotpot_0519,1,No,True,1.0
+hotpot_0519,2,No,True,1.0
+hotpot_0519,3,No,True,1.0
+hotpot_0519,5,No,True,1.0
+hotpot_0519,10,No,True,1.0
+hotpot_0520,1,Jack Elam,True,1.0
+hotpot_0520,2,Jack Elam,True,1.0
+hotpot_0520,3,Jack Elam,True,1.0
+hotpot_0520,5,Jack Elam,True,1.0
+hotpot_0520,10,Jack Elam,True,1.0
+hotpot_0521,1,Barbara Lee Alexander,False,0.4
+hotpot_0521,2,Michael Burger,False,0.0
+hotpot_0521,3,Barbara Lee Alexander,False,0.4
+hotpot_0521,5,Michael Burger,False,0.0
+hotpot_0521,10,Barbara Lee Alexander,False,0.4
+hotpot_0522,1,Not specified,False,0.0
+hotpot_0522,2,Over 600 stores,True,1.0
+hotpot_0522,3,Over 600 stores,True,1.0
+hotpot_0522,5,Over 600 stores,True,1.0
+hotpot_0522,10,Over 600 stores,True,1.0
+hotpot_0523,1,Discovery Zone,True,1.0
+hotpot_0523,2,Discovery Zone,True,1.0
+hotpot_0523,3,Discovery Zone,True,1.0
+hotpot_0523,5,Discovery Zone,True,1.0
+hotpot_0523,10,Discovery Zone,True,1.0
+hotpot_0524,1,United States and United Kingdom,False,0.7692
+hotpot_0524,2,United States and United Kingdom,False,0.7692
+hotpot_0524,3,United States and United Kingdom,False,0.7692
+hotpot_0524,5,United States and United Kingdom,False,0.7692
+hotpot_0524,10,United States and United Kingdom,False,0.7692
+hotpot_0525,1,No,True,1.0
+hotpot_0525,2,No,True,1.0
+hotpot_0525,3,No,True,1.0
+hotpot_0525,5,No,True,1.0
+hotpot_0525,10,No,True,1.0
+hotpot_0526,1,Earth,True,1.0
+hotpot_0526,2,Earth,True,1.0
+hotpot_0526,3,Earth,True,1.0
+hotpot_0526,5,Earth,True,1.0
+hotpot_0526,10,Earth,True,1.0
+hotpot_0527,1,Vilnius Old Town,True,1.0
+hotpot_0527,2,Vilnius Old Town,True,1.0
+hotpot_0527,3,Vilnius Old Town,True,1.0
+hotpot_0527,5,Vilnius Old Town,True,1.0
+hotpot_0527,10,Vilnius Old Town,True,1.0
+hotpot_0528,1,Ryan Babel,True,1.0
+hotpot_0528,2,Ryan Babel,True,1.0
+hotpot_0528,3,Ryan Babel,True,1.0
+hotpot_0528,5,Ryan Babel,True,1.0
+hotpot_0528,10,Ryan Babel,True,1.0
+hotpot_0529,1,1903,True,1.0
+hotpot_0529,2,1903,True,1.0
+hotpot_0529,3,1903,True,1.0
+hotpot_0529,5,1903,True,1.0
+hotpot_0529,10,1903,True,1.0
+hotpot_0530,1,FC Barcelona,False,0.4
+hotpot_0530,2,FC Barcelona,False,0.4
+hotpot_0530,3,FC Barcelona,False,0.4
+hotpot_0530,5,FC Barcelona,False,0.4
+hotpot_0530,10,FC Barcelona,False,0.4
+hotpot_0531,1,Israeli and Palestinian,False,0.5
+hotpot_0531,2,Israeli and Palestinian,False,0.5
+hotpot_0531,3,Israeli and Palestinian,False,0.5
+hotpot_0531,5,Israeli and Palestinian,False,0.5
+hotpot_0531,10,Palestinian,True,1.0
+hotpot_0532,1,Lisa Raymond,False,0.0
+hotpot_0532,2,Lisa Raymond,False,0.0
+hotpot_0532,3,Lisa Raymond,False,0.0
+hotpot_0532,5,Lisa Raymond,False,0.0
+hotpot_0532,10,Lisa Raymond,False,0.0
+hotpot_0533,1,Owsley Stanley,True,1.0
+hotpot_0533,2,Owsley Stanley,True,1.0
+hotpot_0533,3,Owsley Stanley,True,1.0
+hotpot_0533,5,Owsley Stanley,True,1.0
+hotpot_0533,10,Owsley Stanley,True,1.0
+hotpot_0534,1,Victoria Peak,True,1.0
+hotpot_0534,2,Victoria Peak,True,1.0
+hotpot_0534,3,Victoria Peak,True,1.0
+hotpot_0534,5,Victoria Peak,True,1.0
+hotpot_0534,10,Victoria Peak,True,1.0
+hotpot_0535,1,Battle of Matewan,True,1.0
+hotpot_0535,2,Battle of Matewan,True,1.0
+hotpot_0535,3,Battle of Matewan,True,1.0
+hotpot_0535,5,Battle of Matewan,True,1.0
+hotpot_0535,10,Battle of Matewan,True,1.0
+hotpot_0536,1,Not specified,False,0.0
+hotpot_0536,2,110 miles,True,1.0
+hotpot_0536,3,110 miles,True,1.0
+hotpot_0536,5,110 miles,True,1.0
+hotpot_0536,10,110 miles,True,1.0
+hotpot_0537,1,Christopher Tin,True,1.0
+hotpot_0537,2,Christopher Tin,True,1.0
+hotpot_0537,3,Christopher Tin,True,1.0
+hotpot_0537,5,Christopher Tin,True,1.0
+hotpot_0537,10,Christopher Tin,True,1.0
+hotpot_0538,1,Not provided,False,0.0
+hotpot_0538,2,Not provided,False,0.0
+hotpot_0538,3,"8,211",False,0.4
+hotpot_0538,5,"8,211",False,0.4
+hotpot_0538,10,"8,211",False,0.4
+hotpot_0539,1,Not specified,False,0.0
+hotpot_0539,2,Greg Gorman and Helmut Newton,True,1.0
+hotpot_0539,3,Greg Gorman and Helmut Newton,True,1.0
+hotpot_0539,5,Greg Gorman and Helmut Newton,True,1.0
+hotpot_0539,10,Greg Gorman and Helmut Newton,True,1.0
+hotpot_0540,1,Not applicable (WWI only),False,0.0
+hotpot_0540,2,Not applicable,False,0.0
+hotpot_0540,3,Not applicable,False,0.0
+hotpot_0540,5,Not applicable (World War I).,False,0.0
+hotpot_0540,10,Battle of Britain and Battle of Malta,True,1.0
+hotpot_0541,1,The Institute,False,0.0
+hotpot_0541,2,Mossad,True,1.0
+hotpot_0541,3,Mossad,True,1.0
+hotpot_0541,5,Mossad,True,1.0
+hotpot_0541,10,Mossad,True,1.0
+hotpot_0542,1,No,True,1.0
+hotpot_0542,2,No,True,1.0
+hotpot_0542,3,No,True,1.0
+hotpot_0542,5,No,True,1.0
+hotpot_0542,10,No,True,1.0
+hotpot_0543,1,1939,False,0.0
+hotpot_0543,2,1974,True,1.0
+hotpot_0543,3,1974,True,1.0
+hotpot_0543,5,1974,True,1.0
+hotpot_0543,10,1974,True,1.0
+hotpot_0544,1,18.7 miles,True,1.0
+hotpot_0544,2,18.7 miles,True,1.0
+hotpot_0544,3,18.7 miles,True,1.0
+hotpot_0544,5,18.7 miles,True,1.0
+hotpot_0544,10,18.7 miles,True,1.0
+hotpot_0545,1,Not specified,False,0.0
+hotpot_0545,2,New Zealand national team,True,1.0
+hotpot_0545,3,New Zealand national team,True,1.0
+hotpot_0545,5,New Zealand national team,True,1.0
+hotpot_0545,10,New Zealand national team,True,1.0
+hotpot_0546,1,Not provided,False,0.0
+hotpot_0546,2,"3,384,569",True,1.0
+hotpot_0546,3,"3,384,569",True,1.0
+hotpot_0546,5,"3,384,569",True,1.0
+hotpot_0546,10,"3,384,569",True,1.0
+hotpot_0547,1,Manchester Arena,False,0.4
+hotpot_0547,2,No information provided,False,0.0
+hotpot_0547,3,Manchester Victoria station,True,1.0
+hotpot_0547,5,Manchester Victoria station,True,1.0
+hotpot_0547,10,Manchester Victoria station,True,1.0
+hotpot_0548,1,Paul Di'Anno,False,0.0
+hotpot_0548,2,Paul Di'Anno,False,0.0
+hotpot_0548,3,Paul Di'Anno,False,0.0
+hotpot_0548,5,Mike Muir,False,0.6667
+hotpot_0548,10,Mike Muir,False,0.6667
+hotpot_0549,1,Retina Display,False,0.6667
+hotpot_0549,2,Retina Display,False,0.6667
+hotpot_0549,3,Retina Display,False,0.6667
+hotpot_0549,5,Retina Display,False,0.6667
+hotpot_0549,10,Retina Display,False,0.6667
+hotpot_0550,1,Godiva Chocolatier,False,0.6667
+hotpot_0550,2,Godiva Chocolatier,False,0.6667
+hotpot_0550,3,Godiva,True,1.0
+hotpot_0550,5,Godiva,True,1.0
+hotpot_0550,10,Godiva,True,1.0
+hotpot_0551,1,2017,True,1.0
+hotpot_0551,2,2017,True,1.0
+hotpot_0551,3,2017,True,1.0
+hotpot_0551,5,2017,True,1.0
+hotpot_0551,10,2017,True,1.0
+hotpot_0552,1,SEAL Team Six,True,1.0
+hotpot_0552,2,SEAL Team Six,True,1.0
+hotpot_0552,3,SEAL Team Six,True,1.0
+hotpot_0552,5,SEAL Team Six (DEVGRU),False,0.8571
+hotpot_0552,10,SEAL Team Six (DEVGRU),False,0.8571
+hotpot_0553,1,The Weeknd,True,1.0
+hotpot_0553,2,The Weeknd,True,1.0
+hotpot_0553,3,The Weeknd,True,1.0
+hotpot_0553,5,The Weeknd,True,1.0
+hotpot_0553,10,The Weeknd,True,1.0
+hotpot_0554,1,Sord M5,True,1.0
+hotpot_0554,2,Sord M5,True,1.0
+hotpot_0554,3,Sord M5,True,1.0
+hotpot_0554,5,Sord M5,True,1.0
+hotpot_0554,10,Interact Home Computer,False,0.0
+hotpot_0555,1,Ulli Lommel,False,0.0
+hotpot_0555,2,Ulli Lommel,False,0.0
+hotpot_0555,3,Ulli Lommel,False,0.0
+hotpot_0555,5,Ulli Lommel,False,0.0
+hotpot_0555,10,Ulli Lommel,False,0.0
+hotpot_0556,1,Big 12 Conference,False,0.8
+hotpot_0556,2,Big 12 Conference,False,0.8
+hotpot_0556,3,Big 12 Conference,False,0.8
+hotpot_0556,5,Big 12 Conference,False,0.8
+hotpot_0556,10,Big 12 Conference,False,0.8
+hotpot_0557,1,Overland Park,False,0.0
+hotpot_0557,2,"Overland Park, Kansas",False,0.5
+hotpot_0557,3,Kansas City,False,0.6667
+hotpot_0557,5,Kansas City,False,0.6667
+hotpot_0557,10,Kansas City,False,0.6667
+hotpot_0558,1,247 Cherry,True,1.0
+hotpot_0558,2,247 Cherry,True,1.0
+hotpot_0558,3,247 Cherry,True,1.0
+hotpot_0558,5,247 Cherry,True,1.0
+hotpot_0558,10,247 Cherry,True,1.0
+hotpot_0559,1,Mexico,True,1.0
+hotpot_0559,2,Mexico,True,1.0
+hotpot_0559,3,Mexico,True,1.0
+hotpot_0559,5,Mexico,True,1.0
+hotpot_0559,10,Mexico,True,1.0
+hotpot_0560,1,Orange,True,1.0
+hotpot_0560,2,Orange,True,1.0
+hotpot_0560,3,Orange,True,1.0
+hotpot_0560,5,Orange,True,1.0
+hotpot_0560,10,Orange,True,1.0
+hotpot_0561,1,Harrods,True,1.0
+hotpot_0561,2,Harrods,True,1.0
+hotpot_0561,3,Harrods,True,1.0
+hotpot_0561,5,Harrods,True,1.0
+hotpot_0561,10,Harrods,True,1.0
+hotpot_0562,1,Loud,True,1.0
+hotpot_0562,2,Loud,True,1.0
+hotpot_0562,3,Loud,True,1.0
+hotpot_0562,5,Loud,True,1.0
+hotpot_0562,10,Loud,True,1.0
+hotpot_0563,1,Atlético Madrid,False,0.0
+hotpot_0563,2,Wanda Metropolitano,True,1.0
+hotpot_0563,3,Wanda Metropolitano,True,1.0
+hotpot_0563,5,Wanda Metropolitano,True,1.0
+hotpot_0563,10,Wanda Metropolitano,True,1.0
+hotpot_0564,1,Not provided,False,0.0
+hotpot_0564,2,Not stated,False,0.0
+hotpot_0564,3,"Newspapers, television, radio, cable television",True,1.0
+hotpot_0564,5,"Newspapers, television, radio, cable television",True,1.0
+hotpot_0564,10,"newspapers, television, radio, cable television",True,1.0
+hotpot_0565,1,Gracie Mansion,True,1.0
+hotpot_0565,2,Gracie Mansion,True,1.0
+hotpot_0565,3,Gracie Mansion,True,1.0
+hotpot_0565,5,Gracie Mansion,True,1.0
+hotpot_0565,10,Gracie Mansion,True,1.0
+hotpot_0566,1,Not specified,False,0.0
+hotpot_0566,2,Los Angeles,True,1.0
+hotpot_0566,3,Los Angeles,True,1.0
+hotpot_0566,5,Los Angeles,True,1.0
+hotpot_0566,10,Los Angeles,True,1.0
+hotpot_0567,1,"Lowe's Companies, Inc.",False,0.5
+hotpot_0567,2,Lowe's,True,1.0
+hotpot_0567,3,Lowe's,True,1.0
+hotpot_0567,5,Lowe's,True,1.0
+hotpot_0567,10,Lowe's,True,1.0
+hotpot_0568,1,Saul og David,True,1.0
+hotpot_0568,2,Saul og David,True,1.0
+hotpot_0568,3,Saul og David,True,1.0
+hotpot_0568,5,Saul og David,True,1.0
+hotpot_0568,10,Saul og David,True,1.0
+hotpot_0569,1,1974 through 1983,False,0.0
+hotpot_0569,2,1974 through 1983,False,0.0
+hotpot_0569,3,1963 through 1983,False,0.3333
+hotpot_0569,5,1974 through 1983,False,0.0
+hotpot_0569,10,1963 to 1991,True,1.0
+hotpot_0570,1,Motorised quadricycle,False,0.0
+hotpot_0570,2,Motorised quadricycle,False,0.0
+hotpot_0570,3,Light quadricycles (L6e) and heavy quadricycles (L7e),True,1.0
+hotpot_0570,5,Light quadricycles (L6e) and heavy quadricycles (L7e),True,1.0
+hotpot_0570,10,Light quadricycles (L6e) and heavy quadricycles (L7e),True,1.0
+hotpot_0571,1,Wuthering Heights,False,0.0
+hotpot_0571,2,Thrushcross Grange,True,1.0
+hotpot_0571,3,Thrushcross Grange,True,1.0
+hotpot_0571,5,Thrushcross Grange,True,1.0
+hotpot_0571,10,Thrushcross Grange,True,1.0
+hotpot_0572,1,Talk That Talk,True,1.0
+hotpot_0572,2,Talk That Talk,True,1.0
+hotpot_0572,3,Talk That Talk,True,1.0
+hotpot_0572,5,Talk That Talk,True,1.0
+hotpot_0572,10,Talk That Talk,True,1.0
+hotpot_0573,1,Thriller,True,1.0
+hotpot_0573,2,Thriller film,False,0.6667
+hotpot_0573,3,Thriller,True,1.0
+hotpot_0573,5,Thriller,True,1.0
+hotpot_0573,10,Thriller film,False,0.6667
+hotpot_0574,1,M2M,True,1.0
+hotpot_0574,2,M2M,True,1.0
+hotpot_0574,3,M2M,True,1.0
+hotpot_0574,5,M2M,True,1.0
+hotpot_0574,10,M2M,True,1.0
+hotpot_0575,1,No,True,1.0
+hotpot_0575,2,No,True,1.0
+hotpot_0575,3,No,True,1.0
+hotpot_0575,5,No,True,1.0
+hotpot_0575,10,No,True,1.0
+hotpot_0576,1,The Wind in the Willows,True,1.0
+hotpot_0576,2,The Wind in the Willows,True,1.0
+hotpot_0576,3,The Wind in the Willows,True,1.0
+hotpot_0576,5,The Wind in the Willows,True,1.0
+hotpot_0576,10,The Wind in the Willows,True,1.0
+hotpot_0577,1,Not stated,False,0.0
+hotpot_0577,2,"Ford Field, Detroit, Michigan",False,0.75
+hotpot_0577,3,"Ford Field, Detroit, Michigan",False,0.75
+hotpot_0577,5,"Ford Field, Detroit, Michigan",False,0.75
+hotpot_0577,10,"Ford Field, Detroit, Michigan",False,0.75
+hotpot_0578,1,Insurance business,False,0.5
+hotpot_0578,2,Life insurance business,False,0.8
+hotpot_0578,3,Life insurance business,False,0.8
+hotpot_0578,5,Life insurance business,False,0.8
+hotpot_0578,10,Life insurance business,False,0.8
+hotpot_0579,1,Actor,True,1.0
+hotpot_0579,2,Actor,True,1.0
+hotpot_0579,3,Actor,True,1.0
+hotpot_0579,5,Film director,False,0.0
+hotpot_0579,10,Actor and director,False,0.5
+hotpot_0580,1,Not specified,False,0.0
+hotpot_0580,2,No specific date provided,False,0.0
+hotpot_0580,3,No date provided,False,0.0
+hotpot_0580,5,"January 14, 2010",True,1.0
+hotpot_0580,10,"January 14, 2010",True,1.0
+hotpot_0581,1,Not specified,False,0.0
+hotpot_0581,2,Surrey,True,1.0
+hotpot_0581,3,Surrey,True,1.0
+hotpot_0581,5,Surrey,True,1.0
+hotpot_0581,10,Surrey,True,1.0
+hotpot_0582,1,Fantasy role-playing game,False,0.8
+hotpot_0582,2,Fantasy role-playing game,False,0.8
+hotpot_0582,3,Fantasy role-playing game,False,0.8
+hotpot_0582,5,Role-playing game (RPG),False,0.8
+hotpot_0582,10,Role-playing game (RPG),False,0.8
+hotpot_0583,1,Not stated,False,0.0
+hotpot_0583,2,1909,True,1.0
+hotpot_0583,3,1909,True,1.0
+hotpot_0583,5,1909,True,1.0
+hotpot_0583,10,1909,True,1.0
+hotpot_0584,1,Space Shuttle Challenger,False,0.0
+hotpot_0584,2,STS-51-L,True,1.0
+hotpot_0584,3,STS-51-L,True,1.0
+hotpot_0584,5,STS-51-L,True,1.0
+hotpot_0584,10,"Space Shuttle ""Challenger"" STS-51-L",False,0.4
+hotpot_0585,1,Dirk Frimout,False,0.0
+hotpot_0585,2,Hans Schlegel,False,0.8
+hotpot_0585,3,Hans Schlegel,False,0.8
+hotpot_0585,5,Hans Schlegel,False,0.8
+hotpot_0585,10,Hans Schlegel,False,0.8
+hotpot_0586,1,Yes,True,1.0
+hotpot_0586,2,Yes,True,1.0
+hotpot_0586,3,Yes,True,1.0
+hotpot_0586,5,Yes,True,1.0
+hotpot_0586,10,Yes,True,1.0
+hotpot_0587,1,Chegutu,False,0.0
+hotpot_0587,2,Chegutu,False,0.0
+hotpot_0587,3,Chegutu,False,0.0
+hotpot_0587,5,Chegutu,False,0.0
+hotpot_0587,10,Chegutu,False,0.0
+hotpot_0588,1,Dead by Sunrise: yes; Sound Team: not mentioned,False,0.2222
+hotpot_0588,2,Yes,True,1.0
+hotpot_0588,3,Yes,True,1.0
+hotpot_0588,5,Yes,True,1.0
+hotpot_0588,10,Yes,True,1.0
+hotpot_0589,1,The Vanishing,True,1.0
+hotpot_0589,2,The Vanishing,True,1.0
+hotpot_0589,3,The Vanishing,True,1.0
+hotpot_0589,5,The Vanishing,True,1.0
+hotpot_0589,10,The Vanishing,True,1.0
+hotpot_0590,1,1970-1974,False,0.0
+hotpot_0590,2,1964 to 1974,True,1.0
+hotpot_0590,3,1964 to 1974,True,1.0
+hotpot_0590,5,1964 to 1974,True,1.0
+hotpot_0590,10,1964 to 1974,True,1.0
+hotpot_0591,1,Tennis,False,0.5
+hotpot_0591,2,Tennis,False,0.5
+hotpot_0591,3,Tennis,False,0.5
+hotpot_0591,5,Tennis,False,0.5
+hotpot_0591,10,Tennis,False,0.5
+hotpot_0592,1,Marlborough,True,1.0
+hotpot_0592,2,Marlborough,True,1.0
+hotpot_0592,3,Marlborough,True,1.0
+hotpot_0592,5,Marlborough,True,1.0
+hotpot_0592,10,Marlborough,True,1.0
+hotpot_0593,1,Yes,True,1.0
+hotpot_0593,2,Yes,True,1.0
+hotpot_0593,3,Yes,True,1.0
+hotpot_0593,5,Yes,True,1.0
+hotpot_0593,10,Yes,True,1.0
+hotpot_0594,1,Not stated,False,0.0
+hotpot_0594,2,"2,615",False,0.5
+hotpot_0594,3,"2,615",False,0.5
+hotpot_0594,5,"2,615",False,0.5
+hotpot_0594,10,"2,615",False,0.5
+hotpot_0595,1,Battle of Tarawa,True,1.0
+hotpot_0595,2,Battle of Tarawa,True,1.0
+hotpot_0595,3,Battle of Tarawa,True,1.0
+hotpot_0595,5,Battle of Tarawa,True,1.0
+hotpot_0595,10,Battle of Tarawa,True,1.0
+hotpot_0596,1,Not mentioned,False,0.0
+hotpot_0596,2,Not mentioned,False,0.0
+hotpot_0596,3,Deb Lacusta,False,0.8
+hotpot_0596,5,Deb Lacusta,False,0.8
+hotpot_0596,10,Deb Lacusta,False,0.8
+hotpot_0597,1,Lead guitarist,False,0.6667
+hotpot_0597,2,Lead guitarist,False,0.6667
+hotpot_0597,3,Lead guitarist,False,0.6667
+hotpot_0597,5,Lead guitarist,False,0.6667
+hotpot_0597,10,Lead guitarist,False,0.6667
+hotpot_0598,1,TRS-80 Color Computer,True,1.0
+hotpot_0598,2,TRS-80 Color Computer,True,1.0
+hotpot_0598,3,TRS-80 Color Computer,True,1.0
+hotpot_0598,5,TRS-80 Color Computer,True,1.0
+hotpot_0598,10,TRS-80 Color Computer,True,1.0
+hotpot_0599,1,Monica Lewinsky,True,1.0
+hotpot_0599,2,Monica Lewinsky,True,1.0
+hotpot_0599,3,Monica Lewinsky,True,1.0
+hotpot_0599,5,Monica Lewinsky,True,1.0
+hotpot_0599,10,Monica Lewinsky,True,1.0
+hotpot_0600,1,AVN Adult Entertainment Expo,True,1.0
+hotpot_0600,2,AVN Adult Entertainment Expo,True,1.0
+hotpot_0600,3,AVN Adult Entertainment Expo,True,1.0
+hotpot_0600,5,AVN Adult Entertainment Expo,True,1.0
+hotpot_0600,10,AVN Adult Entertainment Expo,True,1.0
+hotpot_0601,1,Not specified,False,0.0
+hotpot_0601,2,Marko Ramius,False,0.0
+hotpot_0601,3,Marko Ramius,False,0.0
+hotpot_0601,5,Jeffrey Jones,False,0.0
+hotpot_0601,10,Skip Tyler,True,1.0
+hotpot_0602,1,stereaceous basidiomycete,False,0.0
+hotpot_0602,2,stereaceous basidiomycete,False,0.0
+hotpot_0602,3,No,False,0.0
+hotpot_0602,5,No,False,0.0
+hotpot_0602,10,Mushroom,False,0.0
+hotpot_0603,1,North Queensland,False,0.0
+hotpot_0603,2,North Queensland,False,0.0
+hotpot_0603,3,North Queensland,False,0.0
+hotpot_0603,5,Queensland and Victoria,False,0.5
+hotpot_0603,10,Queensland and Victoria,False,0.5
+hotpot_0604,1,Shirley Temple,False,0.8
+hotpot_0604,2,Shirley Temple,False,0.8
+hotpot_0604,3,Shirley Temple,False,0.8
+hotpot_0604,5,Shirley Temple,False,0.8
+hotpot_0604,10,Shirley Temple,False,0.8
+hotpot_0605,1,Mark Hollis,False,0.8
+hotpot_0605,2,Mark Hollis,False,0.8
+hotpot_0605,3,Mark Hollis,False,0.8
+hotpot_0605,5,Mark Hollis,False,0.8
+hotpot_0605,10,Mark Hollis,False,0.8
+hotpot_0606,1,Rhodotypos,True,1.0
+hotpot_0606,2,Rhodotypos,True,1.0
+hotpot_0606,3,Rhodotypos,True,1.0
+hotpot_0606,5,Rhodotypos,True,1.0
+hotpot_0606,10,Rhodotypos,True,1.0
+hotpot_0607,1,The passages do not provide this information.,False,0.0
+hotpot_0607,2,Not stated,False,0.0
+hotpot_0607,3,Not stated,False,0.0
+hotpot_0607,5,"Hill Air Force Base is named after Major Ployer Peter Hill, who test-flew the B",False,0.0
+hotpot_0607,10,B-17 Flying Fortress,False,0.8571
+hotpot_0608,1,Milo Yiannopoulos,True,1.0
+hotpot_0608,2,Milo Yiannopoulos,True,1.0
+hotpot_0608,3,Milo Yiannopoulos,True,1.0
+hotpot_0608,5,Milo Yiannopoulos,True,1.0
+hotpot_0608,10,Milo Yiannopoulos,True,1.0
+hotpot_0609,1,People! and The Carnabeats,True,1.0
+hotpot_0609,2,People! and The Carnabeats,True,1.0
+hotpot_0609,3,People! and The Carnabeats,True,1.0
+hotpot_0609,5,People! and The Carnabeats,True,1.0
+hotpot_0609,10,People! and The Carnabeats,True,1.0
+hotpot_0610,1,Disappearances of people,False,0.0
+hotpot_0610,2,Disappearances and paranormal phenomena,False,0.5714
+hotpot_0610,3,Disappearances and paranormal phenomena,False,0.5714
+hotpot_0610,5,Paranormal phenomena,False,0.8
+hotpot_0610,10,Paranormal phenomena and disappearances,False,0.5714
+hotpot_0611,1,Lithuania,True,1.0
+hotpot_0611,2,Lithuania,True,1.0
+hotpot_0611,3,Lithuania,True,1.0
+hotpot_0611,5,Lithuania,True,1.0
+hotpot_0611,10,Lithuania,True,1.0
+hotpot_0612,1,No,True,1.0
+hotpot_0612,2,No,True,1.0
+hotpot_0612,3,No,True,1.0
+hotpot_0612,5,No,True,1.0
+hotpot_0612,10,No,True,1.0
+hotpot_0613,1,Easy,True,1.0
+hotpot_0613,2,Easy,True,1.0
+hotpot_0613,3,Easy,True,1.0
+hotpot_0613,5,Easy,True,1.0
+hotpot_0613,10,Easy,True,1.0
+hotpot_0614,1,Oklahoma State University,False,0.0
+hotpot_0614,2,Oklahoma State University,False,0.0
+hotpot_0614,3,Oklahoma State University,False,0.0
+hotpot_0614,5,Oklahoma State Cowboys baseball team,False,0.0
+hotpot_0614,10,"Boulder High School in Boulder, Colorado",False,0.6667
+hotpot_0615,1,Daniel Craig,True,1.0
+hotpot_0615,2,Daniel Craig,True,1.0
+hotpot_0615,3,Daniel Craig,True,1.0
+hotpot_0615,5,Daniel Craig,True,1.0
+hotpot_0615,10,Daniel Craig,True,1.0
+hotpot_0616,1,Space,True,1.0
+hotpot_0616,2,Space,True,1.0
+hotpot_0616,3,Space,True,1.0
+hotpot_0616,5,Space,True,1.0
+hotpot_0616,10,Space,True,1.0
+hotpot_0617,1,Antrim,True,1.0
+hotpot_0617,2,Antrim,True,1.0
+hotpot_0617,3,Antrim,True,1.0
+hotpot_0617,5,County Antrim,False,0.6667
+hotpot_0617,10,County Antrim,False,0.6667
+hotpot_0618,1,Leinster,False,0.0
+hotpot_0618,2,Leinster,False,0.0
+hotpot_0618,3,Leinster,False,0.0
+hotpot_0618,5,Leinster,False,0.0
+hotpot_0618,10,East,False,0.5
+hotpot_0619,1,Lincoln Memorial University,True,1.0
+hotpot_0619,2,Lincoln Memorial University,True,1.0
+hotpot_0619,3,Lincoln Memorial University,True,1.0
+hotpot_0619,5,Lincoln Memorial University,True,1.0
+hotpot_0619,10,Lincoln Memorial University,True,1.0
+hotpot_0620,1,Yes,True,1.0
+hotpot_0620,2,Yes,True,1.0
+hotpot_0620,3,Yes,True,1.0
+hotpot_0620,5,Yes,True,1.0
+hotpot_0620,10,Yes,True,1.0
+hotpot_0621,1,Holy Roman Empire,False,0.5714
+hotpot_0621,2,Army of the Holy Roman Empire,False,0.8889
+hotpot_0621,3,Army of the Holy Roman Empire,False,0.8889
+hotpot_0621,5,Army of the Holy Roman Empire,False,0.8889
+hotpot_0621,10,Army of the Holy Roman Empire,False,0.8889
+hotpot_0622,1,Brunswick Golden Isles Airport,True,1.0
+hotpot_0622,2,Brunswick Golden Isles Airport,True,1.0
+hotpot_0622,3,Brunswick Golden Isles Airport,True,1.0
+hotpot_0622,5,Brunswick Golden Isles Airport,True,1.0
+hotpot_0622,10,Brunswick Golden Isles Airport,True,1.0
+hotpot_0623,1,Special economic zone (SEZ),False,0.25
+hotpot_0623,2,Madras Export Processing Zone,True,1.0
+hotpot_0623,3,Madras Export Processing Zone,True,1.0
+hotpot_0623,5,Madras Export Processing Zone,True,1.0
+hotpot_0623,10,Madras Export Processing Zone,True,1.0
+hotpot_0624,1,Ashanti Region,False,0.6667
+hotpot_0624,2,Ashanti Region,False,0.6667
+hotpot_0624,3,Ashanti Region,False,0.6667
+hotpot_0624,5,Ashanti Region,False,0.6667
+hotpot_0624,10,Ashanti Region,False,0.6667
+hotpot_0625,1,The Today Show fourth hour,False,0.8889
+hotpot_0625,2,The Today Show's fourth hour,False,0.6667
+hotpot_0625,3,The Today Show's fourth hour,False,0.6667
+hotpot_0625,5,The Today Show's fourth hour,False,0.6667
+hotpot_0625,10,The View,False,0.0
+hotpot_0626,1,Type 212A,False,0.3333
+hotpot_0626,2,Type 212A,False,0.3333
+hotpot_0626,3,Type 212A submarine,False,0.2857
+hotpot_0626,5,Type 212A submarine,False,0.2857
+hotpot_0626,10,Type 212A submarine,False,0.2857
+hotpot_0627,1,2010,True,1.0
+hotpot_0627,2,2010,True,1.0
+hotpot_0627,3,2010,True,1.0
+hotpot_0627,5,2010,True,1.0
+hotpot_0627,10,2010,True,1.0
+hotpot_0628,1,The Four,False,0.5
+hotpot_0628,2,The Four Great Constables,True,1.0
+hotpot_0628,3,The Four Great Constables,True,1.0
+hotpot_0628,5,The Four Great Constables,True,1.0
+hotpot_0628,10,The Four Great Constables,True,1.0
+hotpot_0629,1,No information provided,False,0.0
+hotpot_0629,2,The Marshall Mathers LP 2,True,1.0
+hotpot_0629,3,"Unapologetic singer Rihanna featured on Eminem's album ""The Marshall Mathers LP 2",False,0.5333
+hotpot_0629,5,The Marshall Mathers LP 2,True,1.0
+hotpot_0629,10,"Unapologetic is Rihanna's album; ""Numb"" featuring Eminem is on Rihanna's",False,0.0
+hotpot_0630,1,Herman's Hermits,True,1.0
+hotpot_0630,2,Herman's Hermits,True,1.0
+hotpot_0630,3,Herman's Hermits,True,1.0
+hotpot_0630,5,Herman's Hermits,True,1.0
+hotpot_0630,10,Herman's Hermits,True,1.0
+hotpot_0631,1,Passages do not provide this information.,False,0.0
+hotpot_0631,2,Not mentioned,False,0.0
+hotpot_0631,3,Not mentioned,False,0.0
+hotpot_0631,5,Desreta Jackson,False,0.0
+hotpot_0631,10,Diamond White,True,1.0
+hotpot_0632,1,Goldfinger,True,1.0
+hotpot_0632,2,Goldfinger,True,1.0
+hotpot_0632,3,Goldfinger,True,1.0
+hotpot_0632,5,Goldfinger,True,1.0
+hotpot_0632,10,Goldfinger,True,1.0
+hotpot_0633,1,1997,True,1.0
+hotpot_0633,2,1997,True,1.0
+hotpot_0633,3,1997,True,1.0
+hotpot_0633,5,1997,True,1.0
+hotpot_0633,10,1997,True,1.0
+hotpot_0634,1,Middlesbrough,True,1.0
+hotpot_0634,2,Middlesbrough Football Club,False,0.5
+hotpot_0634,3,Middlesbrough Football Club,False,0.5
+hotpot_0634,5,Middlesbrough Football Club,False,0.5
+hotpot_0634,10,Middlesbrough Football Club,False,0.5
+hotpot_0635,1,Tool,True,1.0
+hotpot_0635,2,Tool,True,1.0
+hotpot_0635,3,Tool,True,1.0
+hotpot_0635,5,Tool,True,1.0
+hotpot_0635,10,Tool,True,1.0
+hotpot_0636,1,Not specified,False,0.0
+hotpot_0636,2,1976,False,0.0
+hotpot_0636,3,1976,False,0.0
+hotpot_0636,5,1976,False,0.0
+hotpot_0636,10,1976,False,0.0
+hotpot_0637,1,Nebo Zovyot,True,1.0
+hotpot_0637,2,Nebo Zovyot,True,1.0
+hotpot_0637,3,Nebo Zovyot,True,1.0
+hotpot_0637,5,Nebo Zovyot,True,1.0
+hotpot_0637,10,Nebo Zovyot,True,1.0
+hotpot_0638,1,Cartoon Cartoons,False,0.4
+hotpot_0638,2,Cartoon Cartoon Fridays,True,1.0
+hotpot_0638,3,Cartoon Cartoon Fridays,True,1.0
+hotpot_0638,5,Cartoon Cartoon Fridays,True,1.0
+hotpot_0638,10,Cartoon Cartoon Fridays,True,1.0
+hotpot_0639,1,Yes,True,1.0
+hotpot_0639,2,Yes,True,1.0
+hotpot_0639,3,Yes,True,1.0
+hotpot_0639,5,Yes,True,1.0
+hotpot_0639,10,Yes,True,1.0
+hotpot_0640,1,No,True,1.0
+hotpot_0640,2,No,True,1.0
+hotpot_0640,3,No,True,1.0
+hotpot_0640,5,No,True,1.0
+hotpot_0640,10,No,True,1.0
+hotpot_0641,1,Norwegian,False,0.0
+hotpot_0641,2,Norwegian,False,0.0
+hotpot_0641,3,Norwegian,False,0.0
+hotpot_0641,5,Punjabi/Pashtun descent,False,0.6667
+hotpot_0641,10,Punjabi/Pashtun descent,False,0.6667
+hotpot_0642,1,foil,False,0.6667
+hotpot_0642,2,Lightweight aluminum foil,False,0.8
+hotpot_0642,3,lightweight aluminum foil,False,0.8
+hotpot_0642,5,aluminum foil,True,1.0
+hotpot_0642,10,Aluminum foil,True,1.0
+hotpot_0643,1,Singapore,True,1.0
+hotpot_0643,2,Singapore,True,1.0
+hotpot_0643,3,Singapore,True,1.0
+hotpot_0643,5,Singapore,True,1.0
+hotpot_0643,10,Singapore,True,1.0
+hotpot_0644,1,Not stated,False,0.0
+hotpot_0644,2,1 January 1788,False,0.8
+hotpot_0644,3,1 January 1788,False,0.8
+hotpot_0644,5,1 January 1788,False,0.8
+hotpot_0644,10,1 January 1788,False,0.8
+hotpot_0645,1,Pru Goward,False,0.5
+hotpot_0645,2,Pru Goward,False,0.5
+hotpot_0645,3,Pru Goward,False,0.5
+hotpot_0645,5,Pru Goward,False,0.5
+hotpot_0645,10,Pru Goward,False,0.5
+hotpot_0646,1,Film,True,1.0
+hotpot_0646,2,Films,False,0.0
+hotpot_0646,3,Films,False,0.0
+hotpot_0646,5,Films,False,0.0
+hotpot_0646,10,Films,False,0.0
+hotpot_0647,1,Not stated,False,0.0
+hotpot_0647,2,Curzon Ashton was founded in 1963.,False,0.2857
+hotpot_0647,3,1963,True,1.0
+hotpot_0647,5,1963,True,1.0
+hotpot_0647,10,1963,True,1.0
+hotpot_0648,1,Dutch,True,1.0
+hotpot_0648,2,Dutch,True,1.0
+hotpot_0648,3,Dutch,True,1.0
+hotpot_0648,5,Dutch,True,1.0
+hotpot_0648,10,Dutch,True,1.0
+hotpot_0649,1,Gary Johnson,False,0.8
+hotpot_0649,2,Gary Johnson,False,0.8
+hotpot_0649,3,Gary Johnson,False,0.8
+hotpot_0649,5,Gary Johnson,False,0.8
+hotpot_0649,10,Gary Johnson,False,0.8
+hotpot_0650,1,Thomas De Quincey,False,0.8571
+hotpot_0650,2,Thomas De Quincey,False,0.8571
+hotpot_0650,3,Thomas De Quincey,False,0.8571
+hotpot_0650,5,Thomas De Quincey,False,0.8571
+hotpot_0650,10,Thomas De Quincey,False,0.8571
+hotpot_0651,1,Dave Bautista,False,0.3333
+hotpot_0651,2,Dave Bautista,False,0.3333
+hotpot_0651,3,Dave Bautista,False,0.3333
+hotpot_0651,5,Dave Bautista,False,0.3333
+hotpot_0651,10,Dave Bautista,False,0.3333
+hotpot_0652,1,Band-e Amir National Park,True,1.0
+hotpot_0652,2,Band-e Amir National Park,True,1.0
+hotpot_0652,3,Band-e Amir National Park,True,1.0
+hotpot_0652,5,Band-e Amir National Park,True,1.0
+hotpot_0652,10,Band-e Amir National Park,True,1.0
+hotpot_0653,1,England,True,1.0
+hotpot_0653,2,England,True,1.0
+hotpot_0653,3,England,True,1.0
+hotpot_0653,5,England,True,1.0
+hotpot_0653,10,England,True,1.0
+hotpot_0654,1,United Kingdom,False,0.0
+hotpot_0654,2,United Kingdom,False,0.0
+hotpot_0654,3,United Kingdom,False,0.0
+hotpot_0654,5,"Newcastle upon Tyne, England",True,1.0
+hotpot_0654,10,"Newcastle upon Tyne, England",True,1.0
+hotpot_0655,1,Not stated,False,0.0
+hotpot_0655,2,"Nashville, Tennessee",False,0.6667
+hotpot_0655,3,"Nashville, Tennessee",False,0.6667
+hotpot_0655,5,"Nashville, Tennessee",False,0.6667
+hotpot_0655,10,"Nashville, Tennessee",False,0.6667
+hotpot_0656,1,Clinton Administration,False,0.4
+hotpot_0656,2,President Bill Clinton,True,1.0
+hotpot_0656,3,President Bill Clinton,True,1.0
+hotpot_0656,5,President Bill Clinton,True,1.0
+hotpot_0656,10,President Bill Clinton,True,1.0
+hotpot_0657,1,"Early 20th century, Modernist movement",False,0.3636
+hotpot_0657,2,Late 19th and early 20th centuries,True,1.0
+hotpot_0657,3,"Early 20th century, Progressive era",False,0.3636
+hotpot_0657,5,Late 19th and early 20th centuries,True,1.0
+hotpot_0657,10,"Early 20th century, Progressive era",False,0.3636
+hotpot_0658,1,Great Northern Railway,True,1.0
+hotpot_0658,2,Great Northern Railway,True,1.0
+hotpot_0658,3,Great Northern Railway,True,1.0
+hotpot_0658,5,Great Northern Railway,True,1.0
+hotpot_0658,10,Great Northern Railway,True,1.0
+hotpot_0659,1,Not specified,False,0.0
+hotpot_0659,2,Not specified,False,0.0
+hotpot_0659,3,Not specified,False,0.0
+hotpot_0659,5,No court position mentioned,False,0.2857
+hotpot_0659,10,Supreme Court Judge,True,1.0
+hotpot_0660,1,Booker Prize,False,0.5714
+hotpot_0660,2,Man Booker Prize,False,0.75
+hotpot_0660,3,Man Booker Prize,False,0.75
+hotpot_0660,5,Man Booker Prize,False,0.75
+hotpot_0660,10,Man Booker Prize,False,0.75
+hotpot_0661,1,Wilmslow High School,False,0.0
+hotpot_0661,2,Centre of Excellence,True,1.0
+hotpot_0661,3,Centre of Excellence,True,1.0
+hotpot_0661,5,Centre of Excellence,True,1.0
+hotpot_0661,10,Centre of Excellence,True,1.0
+hotpot_0662,1,Dragons: Riders of Berk,True,1.0
+hotpot_0662,2,The Maze Runner,False,0.0
+hotpot_0662,3,Dragons: Riders of Berk,True,1.0
+hotpot_0662,5,Dragons: Riders of Berk,True,1.0
+hotpot_0662,10,Dragons: Riders of Berk,True,1.0
+hotpot_0663,1,Rural Electrification Act,True,1.0
+hotpot_0663,2,Federal Power Act,False,0.3333
+hotpot_0663,3,No passage mentions federal legislation in 1936 related to Bowie.,False,0.0
+hotpot_0663,5,Rural Electrification Act,True,1.0
+hotpot_0663,10,Rural Electrification Act,True,1.0
+hotpot_0664,1,A super-regional shopping mall,True,1.0
+hotpot_0664,2,A super-regional shopping mall,True,1.0
+hotpot_0664,3,A super-regional shopping mall,True,1.0
+hotpot_0664,5,A super-regional shopping mall,True,1.0
+hotpot_0664,10,A super-regional shopping mall,True,1.0
+hotpot_0665,1,Pelle Almqvist,True,1.0
+hotpot_0665,2,Pelle Almqvist,True,1.0
+hotpot_0665,3,Pelle Almqvist,True,1.0
+hotpot_0665,5,Pelle Almqvist,True,1.0
+hotpot_0665,10,Pelle Almqvist,True,1.0
+hotpot_0666,1,a sailor coming home,False,0.5
+hotpot_0666,2,a sailor coming home from a round trip,False,0.2857
+hotpot_0666,3,a sailor coming home,False,0.5
+hotpot_0666,5,a sailor,True,1.0
+hotpot_0666,10,a sailor,True,1.0
+hotpot_0667,1,Wayne Wang,False,0.0
+hotpot_0667,2,W. D. Richter,True,1.0
+hotpot_0667,3,W. D. Richter,True,1.0
+hotpot_0667,5,W. D. Richter,True,1.0
+hotpot_0667,10,W. D. Richter,True,1.0
+hotpot_0668,1,Not specified,False,0.0
+hotpot_0668,2,Not specified,False,0.0
+hotpot_0668,3,Not specified,False,0.0
+hotpot_0668,5,Not specified,False,0.0
+hotpot_0668,10,Not specified,False,0.0
+hotpot_0669,1,Adolfo Rodríguez Saá,True,1.0
+hotpot_0669,2,Adolfo Rodríguez Saá (great-nephew),False,0.8571
+hotpot_0669,3,Adolfo Rodríguez Saá,True,1.0
+hotpot_0669,5,Adolfo Rodríguez Saá,True,1.0
+hotpot_0669,10,Adolfo Rodríguez Saá,True,1.0
+hotpot_0670,1,Los Angeles,True,1.0
+hotpot_0670,2,Los Angeles,True,1.0
+hotpot_0670,3,Los Angeles,True,1.0
+hotpot_0670,5,Los Angeles,True,1.0
+hotpot_0670,10,Los Angeles,True,1.0
+hotpot_0671,1,Dutch,True,1.0
+hotpot_0671,2,Dutch,True,1.0
+hotpot_0671,3,Dutch,True,1.0
+hotpot_0671,5,Dutch,True,1.0
+hotpot_0671,10,Dutch,True,1.0
+hotpot_0672,1,Elizabeth Fraser,False,0.0
+hotpot_0672,2,Steven Tyler,True,1.0
+hotpot_0672,3,Elizabeth Fraser,False,0.0
+hotpot_0672,5,Steven Tyler,True,1.0
+hotpot_0672,10,Steven Tyler,True,1.0
+hotpot_0673,1,Hillsborough County,False,0.6667
+hotpot_0673,2,Hillsborough County,False,0.6667
+hotpot_0673,3,Hillsborough County,False,0.6667
+hotpot_0673,5,Hillsborough County,False,0.6667
+hotpot_0673,10,Hillsborough County,False,0.6667
+hotpot_0674,1,1865,True,1.0
+hotpot_0674,2,King George V was born in 1865.,False,0.25
+hotpot_0674,3,King George V was born in 1865.,False,0.25
+hotpot_0674,5,King George V was born in 1865.,False,0.25
+hotpot_0674,10,1865,True,1.0
+hotpot_0675,1,Banjo,False,0.6667
+hotpot_0675,2,Not specified,False,0.0
+hotpot_0675,3,Banjo,False,0.6667
+hotpot_0675,5,Banjo,False,0.6667
+hotpot_0675,10,Banjo,False,0.6667
+hotpot_0676,1,Arendelle,True,1.0
+hotpot_0676,2,Arendelle,True,1.0
+hotpot_0676,3,Beverly Hills and North Hollywood,False,0.0
+hotpot_0676,5,Arendelle,True,1.0
+hotpot_0676,10,Arendelle,True,1.0
+hotpot_0677,1,Kansas Jayhawks,False,0.8
+hotpot_0677,2,University of Kansas Jayhawks,False,0.5714
+hotpot_0677,3,Kansas Jayhawks,False,0.8
+hotpot_0677,5,Kansas Jayhawks,False,0.8
+hotpot_0677,10,University of Kansas Jayhawks,False,0.5714
+hotpot_0678,1,Wildfire,False,0.0
+hotpot_0678,2,Wildfire,False,0.0
+hotpot_0678,3,Wildfire,False,0.0
+hotpot_0678,5,Wildfire,False,0.0
+hotpot_0678,10,The Land of Enchantment,True,1.0
+hotpot_0679,1,"Kalamazoo, Michigan",False,0.0
+hotpot_0679,2,"Kalamazoo, Michigan at Bell's Brewery",False,0.5
+hotpot_0679,3,"Kalamazoo, Michigan; Bell's Brewery",False,0.5714
+hotpot_0679,5,"Kalamazoo, Michigan; Bell's Brewery",False,0.5714
+hotpot_0679,10,"Kalamazoo, Michigan at Bell's Brewery",False,0.5
+hotpot_0680,1,FBI,False,0.3333
+hotpot_0680,2,Federal Bureau of Investigation (FBI),True,1.0
+hotpot_0680,3,FBI,False,0.3333
+hotpot_0680,5,FBI,False,0.3333
+hotpot_0680,10,FBI,False,0.3333
+hotpot_0681,1,Not specified,False,0.0
+hotpot_0681,2,No information provided,False,0.0
+hotpot_0681,3,Championnat National 3,True,1.0
+hotpot_0681,5,Championnat National 3 (fifth level),False,0.75
+hotpot_0681,10,Championnat National 3,True,1.0
+hotpot_0682,1,Bangkok,True,1.0
+hotpot_0682,2,Bangkok,True,1.0
+hotpot_0682,3,Bangkok,True,1.0
+hotpot_0682,5,"Bangkok, Thailand",False,0.6667
+hotpot_0682,10,"Bangkok, Thailand",False,0.6667
+hotpot_0683,1,Not mentioned,False,0.0
+hotpot_0683,2,Not specified,False,0.0
+hotpot_0683,3,Not specified,False,0.0
+hotpot_0683,5,2011 AFC Asian Cup final,False,0.9091
+hotpot_0683,10,2011 AFC Asian Cup final,False,0.9091
+hotpot_0684,1,New York,False,0.0
+hotpot_0684,2,New York City,False,0.0
+hotpot_0684,3,New York City,False,0.0
+hotpot_0684,5,New York City,False,0.0
+hotpot_0684,10,New York City,False,0.0
+hotpot_0685,1,1 time,False,0.0
+hotpot_0685,2,18 times,False,0.0
+hotpot_0685,3,14 times,False,0.6667
+hotpot_0685,5,14 times,False,0.6667
+hotpot_0685,10,14 times,False,0.6667
+hotpot_0686,1,Park Seo-joon,False,0.5
+hotpot_0686,2,Park Seo-joon,False,0.5
+hotpot_0686,3,Park Yong-gyu,True,1.0
+hotpot_0686,5,Park Yong-gyu,True,1.0
+hotpot_0686,10,Park Yong-gyu,True,1.0
+hotpot_0687,1,Not stated,False,0.0
+hotpot_0687,2,Not provided,False,0.0
+hotpot_0687,3,Not specified,False,0.0
+hotpot_0687,5,"September 8, 2017",True,1.0
+hotpot_0687,10,"September 8, 2017",True,1.0
+hotpot_0688,1,Umaro Sissoco Embaló,False,0.8571
+hotpot_0688,2,Umaro Sissoco Embaló,False,0.8571
+hotpot_0688,3,Umaro Sissoco Embaló,False,0.8571
+hotpot_0688,5,Umaro Sissoco Embaló,False,0.8571
+hotpot_0688,10,Umaro Sissoco Embaló,False,0.8571
+hotpot_0689,1,United States Merchant Marine Academy,False,0.0
+hotpot_0689,2,United States Merchant Marine Academy,False,0.0
+hotpot_0689,3,United States Merchant Marine Academy,False,0.0
+hotpot_0689,5,"Kings Point, New York",True,1.0
+hotpot_0689,10,"Kings Point, New York",True,1.0
+hotpot_0690,1,June 1800,False,0.6667
+hotpot_0690,2,June 1800,False,0.6667
+hotpot_0690,3,June 1800,False,0.6667
+hotpot_0690,5,June 1800,False,0.6667
+hotpot_0690,10,June,True,1.0
+hotpot_0691,1,Chelmsford City,False,0.6667
+hotpot_0691,2,Chelmsford City,False,0.6667
+hotpot_0691,3,Chelmsford City,False,0.6667
+hotpot_0691,5,Chelmsford City,False,0.6667
+hotpot_0691,10,Chelmsford City,False,0.6667
+hotpot_0692,1,Africa,True,1.0
+hotpot_0692,2,Australia,False,0.0
+hotpot_0692,3,Africa,True,1.0
+hotpot_0692,5,Africa,True,1.0
+hotpot_0692,10,Africa,True,1.0
+hotpot_0693,1,No,True,1.0
+hotpot_0693,2,No,True,1.0
+hotpot_0693,3,No,True,1.0
+hotpot_0693,5,No,True,1.0
+hotpot_0693,10,No,True,1.0
+hotpot_0694,1,Papa Murphy's,False,0.0
+hotpot_0694,2,Gino's Pizza and Spaghetti,True,1.0
+hotpot_0694,3,Gino's Pizza and Spaghetti,True,1.0
+hotpot_0694,5,Gino's Pizza and Spaghetti,True,1.0
+hotpot_0694,10,Gino's Pizza and Spaghetti,True,1.0
+hotpot_0695,1,Not mentioned,False,0.0
+hotpot_0695,2,Columbia Records,False,0.5
+hotpot_0695,3,Not mentioned,False,0.0
+hotpot_0695,5,Columbia Records,False,0.5
+hotpot_0695,10,Dolly Records,True,1.0
+hotpot_0696,1,Yes,True,1.0
+hotpot_0696,2,Yes,True,1.0
+hotpot_0696,3,Yes,True,1.0
+hotpot_0696,5,Yes,True,1.0
+hotpot_0696,10,Yes,True,1.0
+hotpot_0697,1,California Polytechnic State University,True,1.0
+hotpot_0697,2,California Polytechnic State University,True,1.0
+hotpot_0697,3,California Polytechnic State University,True,1.0
+hotpot_0697,5,California Polytechnic State University,True,1.0
+hotpot_0697,10,California Polytechnic State University,True,1.0
+hotpot_0698,1,Not stated,False,0.0
+hotpot_0698,2,1968,False,0.5
+hotpot_0698,3,1968,False,0.5
+hotpot_0698,5,1968,False,0.5
+hotpot_0698,10,1968,False,0.5
+hotpot_0699,1,Not specified,False,0.0
+hotpot_0699,2,Not specified,False,0.0
+hotpot_0699,3,Not specified,False,0.0
+hotpot_0699,5,1472 km,False,0.5
+hotpot_0699,10,1472 km,False,0.5
+hotpot_0700,1,Emilia-Romagna,False,0.6667
+hotpot_0700,2,Emilia-Romagna,False,0.6667
+hotpot_0700,3,Emilia-Romagna,False,0.6667
+hotpot_0700,5,Emilia-Romagna,False,0.6667
+hotpot_0700,10,Emilia-Romagna,False,0.6667
+hotpot_0701,1,Yes,True,1.0
+hotpot_0701,2,Yes,True,1.0
+hotpot_0701,3,Yes,True,1.0
+hotpot_0701,5,Yes,True,1.0
+hotpot_0701,10,Yes,True,1.0
+hotpot_0702,1,Not mentioned,False,0.0
+hotpot_0702,2,No contest mentioned,False,0.0
+hotpot_0702,3,American Idol,True,1.0
+hotpot_0702,5,American Idol,True,1.0
+hotpot_0702,10,American Idol,True,1.0
+hotpot_0703,1,Oxford University,False,0.6667
+hotpot_0703,2,Oxford University,False,0.6667
+hotpot_0703,3,Oxford University,False,0.6667
+hotpot_0703,5,Oxford University,False,0.6667
+hotpot_0703,10,Oxford University,False,0.6667
+hotpot_0704,1,Dr. Seuss's The Lorax,False,0.5
+hotpot_0704,2,The Lorax,True,1.0
+hotpot_0704,3,The Lorax,True,1.0
+hotpot_0704,5,The Lorax,True,1.0
+hotpot_0704,10,The Lorax,True,1.0
+hotpot_0705,1,Mirabella,False,0.0
+hotpot_0705,2,Home Monthly,True,1.0
+hotpot_0705,3,Home Monthly,True,1.0
+hotpot_0705,5,Home Monthly,True,1.0
+hotpot_0705,10,Home Monthly,True,1.0
+hotpot_0706,1,Kapolei,False,0.0
+hotpot_0706,2,Kapolei,False,0.0
+hotpot_0706,3,second city,False,0.6667
+hotpot_0706,5,second city,False,0.6667
+hotpot_0706,10,second city,False,0.6667
+hotpot_0707,1,The Beast,False,0.0
+hotpot_0707,2,Quasimodo,True,1.0
+hotpot_0707,3,Quasimodo,True,1.0
+hotpot_0707,5,Quasimodo,True,1.0
+hotpot_0707,10,Quasimodo,True,1.0
+hotpot_0708,1,No,True,1.0
+hotpot_0708,2,No,True,1.0
+hotpot_0708,3,No,True,1.0
+hotpot_0708,5,No,True,1.0
+hotpot_0708,10,No,True,1.0
+hotpot_0709,1,No,True,1.0
+hotpot_0709,2,No,True,1.0
+hotpot_0709,3,No,True,1.0
+hotpot_0709,5,No,True,1.0
+hotpot_0709,10,No,True,1.0
+hotpot_0710,1,Not specified,False,0.0
+hotpot_0710,2,"April 20, 1946",True,1.0
+hotpot_0710,3,"April 20, 1946",True,1.0
+hotpot_0710,5,"April 20, 1946",True,1.0
+hotpot_0710,10,"April 20, 1946",True,1.0
+hotpot_0711,1,Not mentioned,False,0.0
+hotpot_0711,2,Purdue University,True,1.0
+hotpot_0711,3,Purdue University,True,1.0
+hotpot_0711,5,Purdue University,True,1.0
+hotpot_0711,10,Purdue University,True,1.0
+hotpot_0712,1,Edward Dmytryk,False,0.0
+hotpot_0712,2,Otto Preminger,False,0.8
+hotpot_0712,3,Otto Preminger,False,0.8
+hotpot_0712,5,Otto Preminger,False,0.8
+hotpot_0712,10,Otto Preminger,False,0.8
+hotpot_0713,1,British,False,0.0
+hotpot_0713,2,British,False,0.0
+hotpot_0713,3,British,False,0.0
+hotpot_0713,5,British,False,0.0
+hotpot_0713,10,English,True,1.0
+hotpot_0714,1,Democritus,False,0.0
+hotpot_0714,2,Leucippus,True,1.0
+hotpot_0714,3,Leucippus,True,1.0
+hotpot_0714,5,Leucippus,True,1.0
+hotpot_0714,10,Leucippus,True,1.0
+hotpot_0715,1,Guardians of the Galaxy Vol. 2,True,1.0
+hotpot_0715,2,Guardians of the Galaxy Vol. 2,True,1.0
+hotpot_0715,3,Guardians of the Galaxy Vol. 2,True,1.0
+hotpot_0715,5,Guardians of the Galaxy Vol. 2,True,1.0
+hotpot_0715,10,Guardians of the Galaxy Vol. 2,True,1.0
+hotpot_0716,1,"2014, Pac-12 Conference",False,0.2857
+hotpot_0716,2,No information provided,False,0.0
+hotpot_0716,3,No information provided,False,0.0
+hotpot_0716,5,"2014, Pac-12 Conference",False,0.2857
+hotpot_0716,10,"2009, Big 12 Conference",True,1.0
+hotpot_0717,1,Smoothie King Center,True,1.0
+hotpot_0717,2,Smoothie King Center,True,1.0
+hotpot_0717,3,Smoothie King Center,True,1.0
+hotpot_0717,5,Smoothie King Center,True,1.0
+hotpot_0717,10,Smoothie King Center,True,1.0
+hotpot_0718,1,Not mentioned,False,0.0
+hotpot_0718,2,Norman Lindsay,False,0.6667
+hotpot_0718,3,Norman Lindsay,False,0.6667
+hotpot_0718,5,Norman Lindsay,False,0.6667
+hotpot_0718,10,Norman Lindsay,False,0.6667
+hotpot_0719,1,Greek alphabet,False,0.5
+hotpot_0719,2,Phoenician alphabet,True,1.0
+hotpot_0719,3,Greek alphabet,False,0.5
+hotpot_0719,5,Greek alphabet,False,0.5
+hotpot_0719,10,Greek alphabet,False,0.5
+hotpot_0720,1,U.S. Department of Energy,True,1.0
+hotpot_0720,2,U.S. Department of Energy,True,1.0
+hotpot_0720,3,U.S. Department of Energy,True,1.0
+hotpot_0720,5,U.S. Department of Energy,True,1.0
+hotpot_0720,10,U.S. Department of Energy,True,1.0
+hotpot_0721,1,Moscow Kremlin,True,1.0
+hotpot_0721,2,Moscow Kremlin,True,1.0
+hotpot_0721,3,Kremlin Arsenal,False,0.5
+hotpot_0721,5,Kremlin Arsenal,False,0.5
+hotpot_0721,10,Kremlin Arsenal,False,0.5
+hotpot_0722,1,381.6 days,True,1.0
+hotpot_0722,2,381.6 days,True,1.0
+hotpot_0722,3,381.6 days,True,1.0
+hotpot_0722,5,381.6 days,True,1.0
+hotpot_0722,10,381.6 days,True,1.0
+hotpot_0723,1,Alan Dean Foster,False,0.0
+hotpot_0723,2,Samuel R. Delany,False,0.5714
+hotpot_0723,3,Samuel R. Delany,False,0.5714
+hotpot_0723,5,Samuel R. Delany,False,0.5714
+hotpot_0723,10,Samuel R. Delany,False,0.5714
+hotpot_0724,1,Genesee River,True,1.0
+hotpot_0724,2,Genesee River,True,1.0
+hotpot_0724,3,Genesee River,True,1.0
+hotpot_0724,5,Genesee River,True,1.0
+hotpot_0724,10,Genesee River,True,1.0
+hotpot_0725,1,Not specified,False,0.0
+hotpot_0725,2,Nearly 70 years,False,0.8
+hotpot_0725,3,Nearly 70 years,False,0.8
+hotpot_0725,5,Nearly 70 years,False,0.8
+hotpot_0725,10,Nearly 70 years,False,0.8
+hotpot_0726,1,Brazil,False,0.0
+hotpot_0726,2,South America,True,1.0
+hotpot_0726,3,Brazil,False,0.0
+hotpot_0726,5,Brazil,False,0.0
+hotpot_0726,10,Brazil,False,0.0
+hotpot_0727,1,Only Colocasia is mentioned as a flowering plant.,False,0.0
+hotpot_0727,2,Yes,True,1.0
+hotpot_0727,3,Yes,True,1.0
+hotpot_0727,5,Yes,True,1.0
+hotpot_0727,10,Yes,True,1.0
+hotpot_0728,1,2002,False,0.0
+hotpot_0728,2,1991,True,1.0
+hotpot_0728,3,1991,True,1.0
+hotpot_0728,5,1991,True,1.0
+hotpot_0728,10,1991,True,1.0
+hotpot_0729,1,Desmond Tutu,False,0.8
+hotpot_0729,2,Desmond Tutu,False,0.8
+hotpot_0729,3,Desmond Tutu,False,0.8
+hotpot_0729,5,Desmond Tutu,False,0.8
+hotpot_0729,10,Desmond Tutu,False,0.8
+hotpot_0730,1,The Beauty Inside,False,0.0
+hotpot_0730,2,illnesses,True,1.0
+hotpot_0730,3,illnesses,True,1.0
+hotpot_0730,5,illnesses,True,1.0
+hotpot_0730,10,illnesses,True,1.0
+hotpot_0731,1,Dirty Three,True,1.0
+hotpot_0731,2,Dirty Three,True,1.0
+hotpot_0731,3,Dirty Three,True,1.0
+hotpot_0731,5,Dirty Three,True,1.0
+hotpot_0731,10,Dirty Three,True,1.0
+hotpot_0732,1,No information provided,False,0.0
+hotpot_0732,2,John Meston,True,1.0
+hotpot_0732,3,John Meston,True,1.0
+hotpot_0732,5,John Meston,True,1.0
+hotpot_0732,10,John Meston,True,1.0
+hotpot_0733,1,Paola Suárez,True,1.0
+hotpot_0733,2,Paola Suárez,True,1.0
+hotpot_0733,3,Paola Suárez,True,1.0
+hotpot_0733,5,Paola Suárez,True,1.0
+hotpot_0733,10,Paola Suárez,True,1.0
+hotpot_0734,1,G. Stanley Hall,True,1.0
+hotpot_0734,2,G. Stanley Hall,True,1.0
+hotpot_0734,3,G. Stanley Hall,True,1.0
+hotpot_0734,5,G. Stanley Hall,True,1.0
+hotpot_0734,10,G. Stanley Hall,True,1.0
+hotpot_0735,1,Lundbeck,False,0.0
+hotpot_0735,2,Lundbeck,False,0.0
+hotpot_0735,3,Lundbeck,False,0.0
+hotpot_0735,5,Lundbeck,False,0.0
+hotpot_0735,10,Lundbeck,False,0.0
+hotpot_0736,1,Albanian,False,0.6667
+hotpot_0736,2,Albanian origin,True,1.0
+hotpot_0736,3,Albanian origin,True,1.0
+hotpot_0736,5,Albanian,False,0.6667
+hotpot_0736,10,Albanian origin,True,1.0
+hotpot_0737,1,Secretary of Labor,True,1.0
+hotpot_0737,2,United States Secretary of Labor,False,0.75
+hotpot_0737,3,United States Secretary of Labor,False,0.75
+hotpot_0737,5,United States Secretary of Labor,False,0.75
+hotpot_0737,10,United States Secretary of Labor,False,0.75
+hotpot_0738,1,LBK,False,0.0
+hotpot_0738,2,LBK,False,0.0
+hotpot_0738,3,"Landing Barge, Kitchen (LBK)",False,0.0
+hotpot_0738,5,"Landing Barge, Kitchen (LBK)",False,0.0
+hotpot_0738,10,"Landing Barge, Kitchen (LBK)",False,0.0
+hotpot_0739,1,Kevin Spacey was born in 1959.,False,0.2222
+hotpot_0739,2,"June 11, 1973",False,0.0
+hotpot_0739,3,"June 11, 1973",False,0.0
+hotpot_0739,5,"July 26, 1959",True,1.0
+hotpot_0739,10,"July 26, 1959",True,1.0
+hotpot_0740,1,Allied and German forces,False,0.5714
+hotpot_0740,2,American and German forces,False,0.8571
+hotpot_0740,3,American and German forces,False,0.8571
+hotpot_0740,5,American and German forces,False,0.8571
+hotpot_0740,10,American and German forces,False,0.8571
+hotpot_0741,1,17th century,False,0.0
+hotpot_0741,2,19th century,False,0.0
+hotpot_0741,3,19th century,False,0.0
+hotpot_0741,5,19th century,False,0.0
+hotpot_0741,10,19th century,False,0.0
+hotpot_0742,1,Shellback,True,1.0
+hotpot_0742,2,Shellback,True,1.0
+hotpot_0742,3,Shellback,True,1.0
+hotpot_0742,5,Shellback,True,1.0
+hotpot_0742,10,Shellback,True,1.0
+hotpot_0743,1,Rafael Dos Anjos,False,0.8571
+hotpot_0743,2,No one,False,0.0
+hotpot_0743,3,Rafael dos Anjos,False,0.8571
+hotpot_0743,5,Rafael dos Anjos,False,0.8571
+hotpot_0743,10,Rafael dos Anjos,False,0.8571
+hotpot_0744,1,United States,False,0.0
+hotpot_0744,2,Midtown Manhattan,False,0.6667
+hotpot_0744,3,Midtown Manhattan,False,0.6667
+hotpot_0744,5,"Midtown Manhattan, New York",False,0.4
+hotpot_0744,10,Midtown Manhattan,False,0.6667
+hotpot_0745,1,Tribe,False,0.0
+hotpot_0745,2,Grand Council/Assembly,False,0.5
+hotpot_0745,3,Grand Council/Assembly,False,0.5
+hotpot_0745,5,Grand assembly,True,1.0
+hotpot_0745,10,Marmakhel Tribe,False,0.0
+hotpot_0746,1,1935,True,1.0
+hotpot_0746,2,1935,True,1.0
+hotpot_0746,3,1935,True,1.0
+hotpot_0746,5,1935,True,1.0
+hotpot_0746,10,1935,True,1.0
+hotpot_0747,1,Bigg Boss 10,False,0.0
+hotpot_0747,2,Bigg Boss 10,False,0.0
+hotpot_0747,3,Bigg Boss 10,False,0.0
+hotpot_0747,5,Bigg Boss 10,False,0.0
+hotpot_0747,10,Bigg Boss 10,False,0.0
+hotpot_0748,1,No,True,1.0
+hotpot_0748,2,No,True,1.0
+hotpot_0748,3,No,True,1.0
+hotpot_0748,5,No,True,1.0
+hotpot_0748,10,No,True,1.0
+hotpot_0749,1,Not specified,False,0.0
+hotpot_0749,2,Nanette Burstein,True,1.0
+hotpot_0749,3,Nanette Burstein,True,1.0
+hotpot_0749,5,Nanette Burstein,True,1.0
+hotpot_0749,10,Nanette Burstein,True,1.0
+hotpot_0750,1,Shooter Jennings,True,1.0
+hotpot_0750,2,Shooter Jennings,True,1.0
+hotpot_0750,3,Shooter Jennings,True,1.0
+hotpot_0750,5,Shooter Jennings,True,1.0
+hotpot_0750,10,Shooter Jennings,True,1.0
+hotpot_0751,1,Beaulieu Mine,False,0.5
+hotpot_0751,2,Con Mine,True,1.0
+hotpot_0751,3,Con Mine,True,1.0
+hotpot_0751,5,Con Mine,True,1.0
+hotpot_0751,10,Con Mine,True,1.0
+hotpot_0752,1,Gutzon Borglum,False,0.8
+hotpot_0752,2,Gutzon Borglum,False,0.8
+hotpot_0752,3,Gutzon Borglum,False,0.8
+hotpot_0752,5,Gutzon Borglum,False,0.8
+hotpot_0752,10,Gutzon Borglum,False,0.8
+hotpot_0753,1,"By translating and commenting on Newton's ""Principia"" and postulating an additional conservation law for total",False,0.3
+hotpot_0753,2,Translation and commentary on Newton's Principia,False,0.6667
+hotpot_0753,3,Translation and commentary on Newton's Principia,False,0.6667
+hotpot_0753,5,"By translating and commenting on Newton's ""Principia,"" adding a conservation law for total energy.",False,0.3158
+hotpot_0753,10,By translating and commenting on Newton's Principia,False,0.4615
+hotpot_0754,1,Physics,False,0.0
+hotpot_0754,2,Theoretical particle physics and quantum field theory,False,0.2222
+hotpot_0754,3,Quantum field theory,False,0.4
+hotpot_0754,5,quantum field theory,False,0.4
+hotpot_0754,10,Quantum mechanics,True,1.0
+hotpot_0755,1,Brown stein mug,False,0.0
+hotpot_0755,2,earthenware,False,0.0
+hotpot_0755,3,Stoneware,True,1.0
+hotpot_0755,5,Stoneware,True,1.0
+hotpot_0755,10,Stoneware,True,1.0
+hotpot_0756,1,The Government of Ireland,False,0.0
+hotpot_0756,2,Government of Ireland,False,0.0
+hotpot_0756,3,Government of Ireland,False,0.0
+hotpot_0756,5,The Government of Ireland,False,0.0
+hotpot_0756,10,Government of Ireland,False,0.0
+hotpot_0757,1,American,True,1.0
+hotpot_0757,2,American,True,1.0
+hotpot_0757,3,American,True,1.0
+hotpot_0757,5,American,True,1.0
+hotpot_0757,10,American,True,1.0
+hotpot_0758,1,Ant-Man,True,1.0
+hotpot_0758,2,Ant-Man,True,1.0
+hotpot_0758,3,Ant-Man,True,1.0
+hotpot_0758,5,Ant-Man,True,1.0
+hotpot_0758,10,Ant-Man,True,1.0
+hotpot_0759,1,First,True,1.0
+hotpot_0759,2,First,True,1.0
+hotpot_0759,3,First,True,1.0
+hotpot_0759,5,First,True,1.0
+hotpot_0759,10,First,True,1.0
+hotpot_0760,1,No,False,0.0
+hotpot_0760,2,No information provided,False,0.0
+hotpot_0760,3,John Steinbeck,False,0.0
+hotpot_0760,5,Ernest Hemingway,False,0.0
+hotpot_0760,10,Charles L. Clifford,True,1.0
+hotpot_0761,1,Toyota Hilux,True,1.0
+hotpot_0761,2,Toyota Hilux,True,1.0
+hotpot_0761,3,Toyota Hilux,True,1.0
+hotpot_0761,5,Toyota Hilux,True,1.0
+hotpot_0761,10,Toyota Hilux,True,1.0
+hotpot_0762,1,Friends,True,1.0
+hotpot_0762,2,Friends,True,1.0
+hotpot_0762,3,Friends,True,1.0
+hotpot_0762,5,Friends,True,1.0
+hotpot_0762,10,Friends,True,1.0
+hotpot_0763,1,Wonder Stories,False,0.5
+hotpot_0763,2,Not mentioned,False,0.0
+hotpot_0763,3,No information provided,False,0.0
+hotpot_0763,5,Wonder Stories,False,0.5
+hotpot_0763,10,Wonder Stories,False,0.5
+hotpot_0764,1,Leonarda Cianciulli,True,1.0
+hotpot_0764,2,Leonarda Cianciulli,True,1.0
+hotpot_0764,3,Leonarda Cianciulli,True,1.0
+hotpot_0764,5,Leonarda Cianciulli,True,1.0
+hotpot_0764,10,Leonarda Cianciulli,True,1.0
+hotpot_0765,1,Květa Peschke,True,1.0
+hotpot_0765,2,Květa Peschke,True,1.0
+hotpot_0765,3,Květa Peschke,True,1.0
+hotpot_0765,5,Květa Peschke,True,1.0
+hotpot_0765,10,Květa Peschke,True,1.0
+hotpot_0766,1,Not mentioned,False,0.0
+hotpot_0766,2,Not mentioned,False,0.0
+hotpot_0766,3,Tufts University,True,1.0
+hotpot_0766,5,Tufts University,True,1.0
+hotpot_0766,10,Tufts University,True,1.0
+hotpot_0767,1,Sir Nicholas Winterton,False,0.8571
+hotpot_0767,2,Sir Nicholas Winterton,False,0.8571
+hotpot_0767,3,Sir Nicholas Winterton,False,0.8571
+hotpot_0767,5,Sir Nicholas Winterton,False,0.8571
+hotpot_0767,10,Sir Nicholas Winterton,False,0.8571
+hotpot_0768,1,Bulgaria,True,1.0
+hotpot_0768,2,Bulgaria,True,1.0
+hotpot_0768,3,Bulgaria,True,1.0
+hotpot_0768,5,Bulgaria,True,1.0
+hotpot_0768,10,Bulgaria,True,1.0
+hotpot_0769,1,No,True,1.0
+hotpot_0769,2,Only Maxillaria is a genus of orchids.,False,0.0
+hotpot_0769,3,Only Maxillaria,False,0.0
+hotpot_0769,5,Only Maxillaria,False,0.0
+hotpot_0769,10,Only Maxillaria,False,0.0
+hotpot_0770,1,Not specified,False,0.0
+hotpot_0770,2,Yes,True,1.0
+hotpot_0770,3,Yes,True,1.0
+hotpot_0770,5,Yes,True,1.0
+hotpot_0770,10,Yes,True,1.0
+hotpot_0771,1,1861,False,0.0
+hotpot_0771,2,10 July 1873,False,0.0
+hotpot_0771,3,10 July 1873,False,0.0
+hotpot_0771,5,10 July 1873,False,0.0
+hotpot_0771,10,10 July 1873,False,0.0
+hotpot_0772,1,79 AD,True,1.0
+hotpot_0772,2,79 AD,True,1.0
+hotpot_0772,3,79 AD,True,1.0
+hotpot_0772,5,79 AD,True,1.0
+hotpot_0772,10,79 AD,True,1.0
+hotpot_0773,1,Russell T Davies,True,1.0
+hotpot_0773,2,Russell T Davies,True,1.0
+hotpot_0773,3,Russell T Davies,True,1.0
+hotpot_0773,5,Russell T Davies,True,1.0
+hotpot_0773,10,Russell T Davies,True,1.0
+hotpot_0774,1,Not mentioned,False,0.0
+hotpot_0774,2,In Another's Eyes,False,0.0
+hotpot_0774,3,In Another's Eyes,False,0.0
+hotpot_0774,5,In Another's Eyes,False,0.0
+hotpot_0774,10,Two Piña Coladas,True,1.0
+hotpot_0775,1,Not mentioned,False,0.0
+hotpot_0775,2,Dan Crow,True,1.0
+hotpot_0775,3,Dan Crow,True,1.0
+hotpot_0775,5,Dan Crow,True,1.0
+hotpot_0775,10,Dan Crow,True,1.0
+hotpot_0776,1,Ferdinand Magellan,True,1.0
+hotpot_0776,2,Ferdinand Magellan,True,1.0
+hotpot_0776,3,Ferdinand Magellan,True,1.0
+hotpot_0776,5,Ferdinand Magellan,True,1.0
+hotpot_0776,10,Ferdinand Magellan,True,1.0
+hotpot_0777,1,Not specified,False,0.0
+hotpot_0777,2,Not specified,False,0.0
+hotpot_0777,3,"December 19, 1998",True,1.0
+hotpot_0777,5,"February 12, 1999",False,0.0
+hotpot_0777,10,"February 12, 1999",False,0.0
+hotpot_0778,1,Tennis,True,1.0
+hotpot_0778,2,Tennis,True,1.0
+hotpot_0778,3,Tennis,True,1.0
+hotpot_0778,5,Tennis,True,1.0
+hotpot_0778,10,Tennis,True,1.0
+hotpot_0779,1,Latin American culture,True,1.0
+hotpot_0779,2,Latin American culture,True,1.0
+hotpot_0779,3,Latin American culture,True,1.0
+hotpot_0779,5,Latin American culture,True,1.0
+hotpot_0779,10,Latin American culture,True,1.0
+hotpot_0780,1,Chris Weidman,False,0.0
+hotpot_0780,2,Anderson Silva,True,1.0
+hotpot_0780,3,Anderson Silva,True,1.0
+hotpot_0780,5,Anderson Silva,True,1.0
+hotpot_0780,10,Anderson Silva,True,1.0
+hotpot_0781,1,Not mentioned,False,0.0
+hotpot_0781,2,"Wein, Weib und Gesang",False,0.0
+hotpot_0781,3,"Wein, Weib und Gesang",False,0.0
+hotpot_0781,5,Sinngedichte,True,1.0
+hotpot_0781,10,Sinngedichte,True,1.0
+hotpot_0782,1,Realty Bites,False,0.0
+hotpot_0782,2,Realty Bites,False,0.0
+hotpot_0782,3,Realty Bites,False,0.0
+hotpot_0782,5,Realty Bites,False,0.0
+hotpot_0782,10,Realty Bites,False,0.0
+hotpot_0783,1,Frank Borzage,True,1.0
+hotpot_0783,2,Frank Borzage,True,1.0
+hotpot_0783,3,Frank Borzage,True,1.0
+hotpot_0783,5,Frank Borzage,True,1.0
+hotpot_0783,10,Frank Borzage,True,1.0
+hotpot_0784,1,Wealthy businessman,True,1.0
+hotpot_0784,2,Wealthy businessman,True,1.0
+hotpot_0784,3,Wealthy businessman,True,1.0
+hotpot_0784,5,Wealthy businessman,True,1.0
+hotpot_0784,10,Wealthy businessman,True,1.0
+hotpot_0785,1,Andy Roddick,False,0.4
+hotpot_0785,2,Andy Roddick,False,0.4
+hotpot_0785,3,Andy Roddick,False,0.4
+hotpot_0785,5,Andy Roddick,False,0.4
+hotpot_0785,10,Andy Roddick,False,0.4
+hotpot_0786,1,European route E22,False,0.5714
+hotpot_0786,2,European route E22,False,0.5714
+hotpot_0786,3,European route E22,False,0.5714
+hotpot_0786,5,European route E22,False,0.5714
+hotpot_0786,10,European route E22,False,0.5714
+hotpot_0787,1,No translation provided,False,0.0
+hotpot_0787,2,boundary river,True,1.0
+hotpot_0787,3,boundary river,True,1.0
+hotpot_0787,5,boundary river,True,1.0
+hotpot_0787,10,Boundary river,True,1.0
+hotpot_0788,1,Dan Bilzerian,True,1.0
+hotpot_0788,2,Dan Bilzerian,True,1.0
+hotpot_0788,3,Dan Bilzerian,True,1.0
+hotpot_0788,5,Dan Bilzerian,True,1.0
+hotpot_0788,10,Dan Bilzerian,True,1.0
+hotpot_0789,1,Crystal Palace Football Club Player of the Year,False,0.6
+hotpot_0789,2,Crystal Palace Football Club Player of the Year,False,0.6
+hotpot_0789,3,Crystal Palace Football Club Player of the Year,False,0.6
+hotpot_0789,5,Crystal Palace Football Club Player of the Year,False,0.6
+hotpot_0789,10,Crystal Palace Football Club Player of the Year,False,0.6
+hotpot_0790,1,Not specified,False,0.0
+hotpot_0790,2,England,False,0.0
+hotpot_0790,3,England,False,0.0
+hotpot_0790,5,England,False,0.0
+hotpot_0790,10,"East Knoyle, Wiltshire, England",False,0.6667
+hotpot_0791,1,Apalachee language,False,0.6667
+hotpot_0791,2,Apalachee,True,1.0
+hotpot_0791,3,Apalachee,True,1.0
+hotpot_0791,5,Apalachee,True,1.0
+hotpot_0791,10,Apalachee,True,1.0
+hotpot_0792,1,Mockingbird,False,0.6667
+hotpot_0792,2,Mockingbird (state bird of Tennessee),False,0.2857
+hotpot_0792,3,Northern mockingbird,True,1.0
+hotpot_0792,5,Northern mockingbird,True,1.0
+hotpot_0792,10,Northern mockingbird,True,1.0
+hotpot_0793,1,Rwandan genocide,True,1.0
+hotpot_0793,2,Rwandan genocide,True,1.0
+hotpot_0793,3,Rwandan genocide,True,1.0
+hotpot_0793,5,Rwandan genocide,True,1.0
+hotpot_0793,10,Rwandan genocide,True,1.0
+hotpot_0794,1,Rosie O'Donnell,True,1.0
+hotpot_0794,2,Rosie O'Donnell,True,1.0
+hotpot_0794,3,Rosie O'Donnell,True,1.0
+hotpot_0794,5,Rosie O'Donnell,True,1.0
+hotpot_0794,10,Rosie O'Donnell,True,1.0
+hotpot_0795,1,Kevin Smith and Scott Mosier,False,0.5714
+hotpot_0795,2,Kevin Smith and Scott Mosier,False,0.5714
+hotpot_0795,3,Kevin Smith and Scott Mosier,False,0.5714
+hotpot_0795,5,Kevin Smith and Scott Mosier,False,0.5714
+hotpot_0795,10,Kevin Smith and Scott Mosier,False,0.5714
+hotpot_0796,1,Four,False,0.3333
+hotpot_0796,2,Four,False,0.3333
+hotpot_0796,3,Four,False,0.3333
+hotpot_0796,5,Four,False,0.3333
+hotpot_0796,10,Four,False,0.3333
+hotpot_0797,1,Loren Bouchard,True,1.0
+hotpot_0797,2,Loren Bouchard,True,1.0
+hotpot_0797,3,Loren Bouchard,True,1.0
+hotpot_0797,5,Loren Bouchard,True,1.0
+hotpot_0797,10,Loren Bouchard,True,1.0
+hotpot_0798,1,Patsy Kensit,False,0.3333
+hotpot_0798,2,Patsy Kensit,False,0.3333
+hotpot_0798,3,Patsy Kensit,False,0.3333
+hotpot_0798,5,Patsy Kensit,False,0.3333
+hotpot_0798,10,Patsy Kensit,False,0.3333
+hotpot_0799,1,Max West,False,0.3333
+hotpot_0799,2,Max West,False,0.3333
+hotpot_0799,3,Max West,False,0.3333
+hotpot_0799,5,Max West,False,0.3333
+hotpot_0799,10,Max West,False,0.3333

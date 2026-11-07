@@ -1,0 +1,800 @@
+qid,question,answer,type,level
+hotpot_0000,Maximilian Büsser was the CEO of a company that produced timepieces from which country?,Swiss,bridge,hard
+hotpot_0001,Which How to Steal a Million actor attended the Royal Academy of Dramatic Art?,Peter O'Toole,bridge,hard
+hotpot_0002,Monroe Regional Airport and Deadhorse Airport are both in this country?,United States,comparison,hard
+hotpot_0003,"Which dog breed, the Schapendoes or the Bull Terrier, has its origins in a greater number of other dog breeds?",Bull Terrier,comparison,hard
+hotpot_0004,What machine has the same name as another machine created by Ludwig Boltzmann?,Boltzmann machine,bridge,hard
+hotpot_0005,Who has been making music long Eric Gaffney or Pearl Jam?,Eric Gaffney,comparison,hard
+hotpot_0006,For which team does Mads Bødker player that is controlled by Danmarks Ishockey Union?,Denmark men's national ice hockey,bridge,hard
+hotpot_0007,"Which Avalanche happened first, Rigopiano avalanche or 1999 Galtür avalanche ?",The Galtür avalanche,bridge,hard
+hotpot_0008,Ronald Reagan and George H. W. Bush both held which position in office?,President of the United States,bridge,hard
+hotpot_0009,What production company was co-created by the lead singer of the band Poison?,Sheen Michaels Entertainment,bridge,hard
+hotpot_0010,Does Kurt Cobain and Glenn Frey work in the music industry?,yes,comparison,hard
+hotpot_0011,SR connector is based on the connector that is often used for what type of cable?,coaxial,bridge,hard
+hotpot_0012,Who was the creator of the American political satire comedy television series in which Sufe Bradshaw plays an acerbic secretary named Sue?,Armando Iannucci,bridge,hard
+hotpot_0013,What was the creator of the Moshulu Parkway known as?,"""master builder"" of mid-20th century New York City",bridge,hard
+hotpot_0014,"In what year did the actor who starred in the TV Land original series ""The Soul Man"" host the Black Movie Awards?",2005,bridge,hard
+hotpot_0015,John Hatzistergos was a Member of a council that has how many members ?,42 members,bridge,hard
+hotpot_0016,Which town near the county border with North Yorkshire was this Lancashire mill (closed in 1979 and demolished) located?,Barnoldswick,bridge,hard
+hotpot_0017,"Works by Hanna Leena Kristiina Varis are part of a collection in a museum that houses approximately 65,000 what?",drawings,bridge,hard
+hotpot_0018,Thunderbirds was a film featuring the exploits of what part of the Oklahoma Army National Guard?,45th Infantry Division,bridge,hard
+hotpot_0019,"In the 1973 NFL season, the Pro Bowl took place at what football stadium that is part of the Truman Sports Complex, along with what other stadium?",Kauffman Stadium,bridge,hard
+hotpot_0020,What is the ratio of flow velocity past a boundary to the local speed of sound for a Saab JAS 39 Gripen?,2,bridge,hard
+hotpot_0021,"Which is in the pop genre, Capital Cities or Tweaker?",Capital Cities,comparison,hard
+hotpot_0022,What is the rule that makes a major difference between the National League and the American League that allows another player to bat for the pitcher?,the designated hitter rule,bridge,hard
+hotpot_0023,Which was secretary to President Richard Nixon: Rose Mary Woods or H. R. Haldeman?,Rose Mary Woods,bridge,hard
+hotpot_0024,Who wrote the 1996 American historical drama film in which William Preston appeared?,Arthur Miller,bridge,hard
+hotpot_0025,"What Pakistani actor and writer from Islamabad helped write for the 2012 Pakistani comedy drama sitcom, ""Coke Kahani""?",Yasir Hussain,bridge,hard
+hotpot_0026,Which song by Last One Picked appeared in a 2004 American teen musical comedy film directed by Sara Sugarman?,Na Na,bridge,hard
+hotpot_0027,"Louis, Count of Armagnac has a descendant that includes which final king of Italy?",Umberto II,bridge,hard
+hotpot_0028,"Which is bigger, Griffon Bruxellois or English Mastiff?",English Mastiff,comparison,hard
+hotpot_0029,"Which canal is located further North, Beaver and Erie Canal or the Dismal Swamp Canal?",The Beaver and Erie Canal,comparison,hard
+hotpot_0030,When was one of the science fiction survival horror video game released for who's title Frictional Games AB was famous for?,22 September 2015,bridge,hard
+hotpot_0031,"Which founder of Alcatraz East was born on March 31, 1956?",John Morgan,bridge,hard
+hotpot_0032,What is the genre of music shared by vocalists Barney Greenway and Jens Kidman?,extreme metal,comparison,hard
+hotpot_0033,"Which airport is used for both public and military, Shenandoah Valley Regional Airport or Louisville International Airport?",Louisville International Airport,comparison,hard
+hotpot_0034,What past honoree from the New Dramatists Organization is a powerful baritone who won the Tony Award for Best Actor in 2000?,Brian Stokes Mitchell,bridge,hard
+hotpot_0035,What town's geographic feature is the battle James Swan was twice wounded at named for?,"Charlestown, Massachusetts",bridge,hard
+hotpot_0036,Bartlett's Bridge was built by the engineer who worked for the county seat of which Massachusetts county?,Worcester County,bridge,hard
+hotpot_0037,What is the name of the movie that stars Katrina Bowden and was directed by Sean Anders?,Sex Drive,bridge,hard
+hotpot_0038,Where did Otto von Bismarck and Ludwig Friedrich Leopold von Gerlach originate? ,Prussia,bridge,hard
+hotpot_0039,The German software corporation who has established Remote Function Call (RFC) has its headquarters in what city?,Walldorf,bridge,hard
+hotpot_0040,Who played a lead role in Dhool and has been awarded an Honorary Doctorate by the People's University of Milan?,Vikram,bridge,hard
+hotpot_0041,"What song by the American rapper Coolio is on his greatest hits album ""Fantiastic Voyage"" and samples from a Stevie Wonder song?",Gangsta's Paradise,bridge,hard
+hotpot_0042,"Which genus of plant is named after a person, Amesiella or Cucurbita?",Amesiella,comparison,hard
+hotpot_0043,Who was a supporting cast member of King Rat and was knighted in February 2001?,Sir Thomas Daniel Courtenay,bridge,hard
+hotpot_0044,When did the Cartoon Network series that starred Jessie Usher as Lyle premiere?,"January 24, 2012",bridge,hard
+hotpot_0045,The Bellagio resort owned by MGM Resorts international is located in which US city?,Las Vegas,bridge,hard
+hotpot_0046,"St. John's College, Belize offers an education in a tradition in which what three subjects were the core?","Grammar, logic, and rhetoric",bridge,hard
+hotpot_0047,What career led Brandon James Routh to move to the city where Brian Ralston lives?,an acting career,bridge,hard
+hotpot_0048,Are both Coldplay and Pierre Bouvier from the same country?,no,comparison,hard
+hotpot_0049,"Which genus of flowering plant is found in an environment further south, Crocosmia or Cimicifuga?",Crocosmia,comparison,hard
+hotpot_0050,Which component of shellite has the formula (ON)CHOH?,picric acid,bridge,hard
+hotpot_0051,Were both Eugene Dynkin and Vladimir Voevodsky mathematicians from Russia?,yes,comparison,hard
+hotpot_0052,Were Max Jacob and Connie May Fowler both memoirists?,no,comparison,hard
+hotpot_0053,What is the population of the city in which the first edition of the South American Youth Olympic Games were held?,more than 10 million,bridge,hard
+hotpot_0054,"In 2008, who were the two actors stared along with a South Korean actor, singer, and model who won best actor in five prestigious award ceremonies.",Best Actor prize,bridge,hard
+hotpot_0055,Name three best sellers from Arthur Hailey that were released before Donna Tartt was born.,"Hotel"" (1965), ""Airport"" (1968), ""Wheels"" (1971)",comparison,hard
+hotpot_0056,"What two shows is the director of the first ""Clone Wars"" series known for creating?","""Dexter's Laboratory"", ""Samurai Jack""",bridge,hard
+hotpot_0057,Who was the base where the 413th Flight Test Group is stationed named after?,Brig Gen Augustine Warner Robins,bridge,hard
+hotpot_0058,What is name of one of the primary holders of Schottenstein Stores Corp which was born in 1954?,Jay Schottenstein,bridge,hard
+hotpot_0059,"The University in Pullman, Washington is named after whom?",Edward R. Murrow,bridge,hard
+hotpot_0060,"Are Wilco Melissant and Todd Field both involved in the film industry (e.g. director, filmmaker, actor)?",yes,comparison,hard
+hotpot_0061,What African country is bordered by Libya and the Sudan and is known for the Dar Sila region?,Chad,bridge,hard
+hotpot_0062,"Which tennis player was born first, Kimberly Po or Leoš Friedl?",Leoš Friedl,comparison,hard
+hotpot_0063,"Which writer of French descent actually lived in France, Maurice Level or John Dufresne?",Maurice Level,comparison,hard
+hotpot_0064,Ernest Foot was the best friend of the fighter pilot who had how many victories?,44,bridge,hard
+hotpot_0065,The show featuring a young boy named Gerald Bald Z premiered on what TV channel? ,Cartoon Network,bridge,hard
+hotpot_0066,In what part of England is John Folwes' country house located?,"West Dorset, South West England.",bridge,hard
+hotpot_0067,A private university that beat Georgetown during a basketball tournament is from what U.S. city?,Marietta,bridge,hard
+hotpot_0068,"What profession does Alex Beard and Tony Hall, Baron Hall of Birkenhead have in common?",director,bridge,hard
+hotpot_0069,Finna Get Loose is a song by Puff Daddy and what American rapper who is also a record and film producer?,Pharrell Lanscilo Williams,bridge,hard
+hotpot_0070,which  Indian businessman and politician owns Mabula Game Reserve ,Vijay Vittal Mallya,bridge,hard
+hotpot_0071,"What German philosopher, economist and political theorist was Jakob Lukas Schabelitz a friend and associate of?",Karl Marx,bridge,hard
+hotpot_0072,What is the nickname of the regional dialect from the city from which the English Footballer Tomi Ameobi was born in?,Geordie,bridge,hard
+hotpot_0073,"George Reed was, along with which Drake University player, one of the greatest running backs in CFL history?",Johnny D. Bright,bridge,hard
+hotpot_0074,Who wrote the 1995 American action film starring a two-time consensus All-American?,Steven Selling,bridge,hard
+hotpot_0075,Which star of Here Come the Munsters was born in Philadelphia ?,Veronica Hamel,bridge,hard
+hotpot_0076,What island in the center of Pearl Harbor is connected to the O'ahu by a floating bridge?,Ford Island,bridge,hard
+hotpot_0077,Psychopsis and Aubrieta are both genuses of which type of plants?,flowering plants,comparison,hard
+hotpot_0078,David Burns is best known working for a radio service that covered what former English county?,former English county of Humberside,bridge,hard
+hotpot_0079,Which Native American activist was known for his involvement in the American Indian Movement which addresses incidents of police harassment and racism against Native Americans? ,Arlo Looking Cloud,bridge,hard
+hotpot_0080,"Which canal was built between 1836 and 1847, Washington City Canal or Whitewater Canal?",The Whitewater Canal,comparison,hard
+hotpot_0081,"Who were the lead members of the group of actors who were in the film which was remade as the first film of ""Ocean's Trilogy""?","Frank Sinatra, Dean Martin, Sammy Davis Jr.",bridge,hard
+hotpot_0082,"Who was born first, Teru or Mike Shinoda?",Teruhiko,comparison,hard
+hotpot_0083,What country of origin does Shawnee Trail and Great Indian Warpath have in common?,American,bridge,hard
+hotpot_0084,Ricky Martin's concert tour in 1999 featured an American heavy metal band formed in what year?,1991,bridge,hard
+hotpot_0085,Frank Blake's longtime protégé was also the chairman and CEO of what company in addition to The Home Depot?,Chrysler,bridge,hard
+hotpot_0086,Cherie Currie and Steve Augeri were both what?,American musician,comparison,hard
+hotpot_0087,"Where was the 2015 MSA Formula Championship, a multi-event, Formula 4 open-wheel single seater motor racing championship held?",England and Scotland,bridge,hard
+hotpot_0088,"Which Austrian and later American chess master who was also a highly influential writer and chess theoretician competed for the first contest  that was defined ""in advance"" as being for the world championship?",Steinitz,bridge,hard
+hotpot_0089,"What type of word play does ""What Are Little Girls Made Of?"" and ""What Are Little Boys Made Of?"" have in common?",rhyme,bridge,hard
+hotpot_0090,Which actress does this Netflix's project by Nick Bernardone and Tina Fey star in the title role?,Ellie Kemper,bridge,hard
+hotpot_0091,"What king took away John Erskine, Earl of Mar's office?",George I,bridge,hard
+hotpot_0092,Fort Snelling spurred growth of Saint Paul was located in this county?,Hennepin County,bridge,hard
+hotpot_0093,"Which German project recorded a song that featured vocals by a duo from Silverdale, England?",Enigma,bridge,hard
+hotpot_0094,What award did the actor in Tales from the Crypt win?,BAFTA TV Award Best Actor,bridge,hard
+hotpot_0095,How many animals does the wall running between the West Gate Lodge and Cardiff Castle depict?,15,bridge,hard
+hotpot_0096,"Handi-Snacks are a snack food product line sold by what American multinational confectionery, food, and beverage company that is based in Illinois?","Mondelez International, Inc.",bridge,hard
+hotpot_0097,What kind of group does Takahiro Moriuchi and Doug Pinnick have in common?,band,comparison,hard
+hotpot_0098,Raiffeisen Zentralbank is the central institution of one a group of co-operative banks in Austria. What is the name of the other group?,Austrian Volksbanks,bridge,hard
+hotpot_0099,Of the two men who ousted Mussolini which one was born in 1871?,Marshal Pietro Badoglio,bridge,hard
+hotpot_0100,Shannon Purser played the role of June Acosta in a 2017 horror film directed by who?,John R. Leonetti,bridge,hard
+hotpot_0101,"Which writer of the song ""Money, Money, Money"" by pop group ABBA was born on 16 December 1946 ?",Benny Andersson,bridge,hard
+hotpot_0102,Les Patterson Saves the World was a comedy film starring the author of which autobiography?,My Gorgeous Life,bridge,hard
+hotpot_0103, Who was the founder of a chain of supermarkets that is now headquartered on Nott Street in Schenectady?,Joseph E. Grosberg,bridge,hard
+hotpot_0104,"Who did Muhummad Ali fight next, in Houston, after the so-called Fight of the Century with Joe Frazier?",Jimmy Ellis,bridge,hard
+hotpot_0105,"Piers Bizony has written articles for which magazine based in Bristol, UK?",BBC Focus,bridge,hard
+hotpot_0106,When was Erik Watts' father born?,"May 5, 1939",bridge,hard
+hotpot_0107,What was the most famous post of the man who commanded American and French troops against German positions during the Battle of Saint-Mihiel?,commander of the American Expeditionary Force (AEF) on the Western Front,bridge,hard
+hotpot_0108,What type of engine powered both the Saab 36 and the Avro Vulcan?,British Bristol Olympus turbojet,bridge,hard
+hotpot_0109,Who starred in Smurfs: The Lost Village and was also in The Office?,Ellie Kemper,bridge,hard
+hotpot_0110,"Over how many centuries were the ""dwelling place of the dead"" built?",three centuries,bridge,hard
+hotpot_0111,What program responsible for the Health Insurance Portability and Accountability Act works with AHCCS?,Centers for Medicare and Medicaid Services,bridge,hard
+hotpot_0112,"Between Joe Orton and Henry James, which author is the adjective ""Ortonesque"" used to refer to his work?","John Kingsley ""Joe"" Orton",comparison,hard
+hotpot_0113,Which Canadian heavy metal band is Safe  the second EP by ,Kittie,bridge,hard
+hotpot_0114,The Battle of Cambrai took place during a series of offensives that ended on what date?,11 November 1918,bridge,hard
+hotpot_0115,What league did was the team that played home games at Holman Stadium belong to?,Canadian-American Association of Professional Baseball,bridge,hard
+hotpot_0116,Who directed the movie for which Jason O'Bryan was nominated for a grammy for best soundtrack?,Alfonso Cuarón,bridge,hard
+hotpot_0117,What was the manager for the 1891 Cincinnati Kelly's Killers also commonly known as?,"$10,000 Kelly",bridge,hard
+hotpot_0118,What was the name of the treaty that made Hungary a landlocked state which contained the Kolozsvar Ghetto?,Treaty of Trianon,bridge,hard
+hotpot_0119,"Who was born first, George Kuchar or Arthur Penn?",Arthur Hiller Penn,comparison,hard
+hotpot_0120,What was both John Cheever and Laura Ingalls Wilder occupations?,American writer,comparison,hard
+hotpot_0121,Where is the investment firm that acquired TI Automotive in 2015 headquartered?,"Boston, Massachusetts",bridge,hard
+hotpot_0122,James Spedding was chiefly known as the editor of the works of an author who served both as Attorney General and as what?,Lord Chancellor of England,bridge,hard
+hotpot_0123,Nicholas Medforth-Mills is a grandson to a king who was born on what day and year?,25 October 1921,bridge,hard
+hotpot_0124,When did British politician Damian Green state that said that e-Borders would be collecting information an all passengers on 100% of non-EEA flights to the UK?,April,bridge,hard
+hotpot_0125,What company was Luca Cordero di Montezemolo the chairman of that merged into a new Netherlands-based holding company Fiat Chrysler Automobiles NV?,Fabbrica Italiana Automobili Torino,bridge,hard
+hotpot_0126,Dru Decaro is the lead guitarist for the RnB artist who began creating music at what age?,thirteen,bridge,hard
+hotpot_0127,"22 years earlier, the predecessor to The Magic Mouse and Mighty Mouse was what?",Apple Lisa,bridge,hard
+hotpot_0128,What Albanian department is reasonbile for an international integration effort first started in 2014?,Ministry of European Integration,bridge,hard
+hotpot_0129,Did the the Battle of Stones River occur before the Battle of Saipan?,yes,comparison,hard
+hotpot_0130,What is the name of the executive producer of the film that has a score composed by Jerry Goldsmith?,Ronald Shusett,bridge,hard
+hotpot_0131,"Rosemary Willis was seen in the grass in what Texas town, where John F. Kennedy was assassinated?",Dallas,bridge,hard
+hotpot_0132,"Danglemah, New South Wales is between which town and the town on the south-eastern edge of the Northern Tablelands, New South Wales Australia?",Tamworth,bridge,hard
+hotpot_0133,"Which airport is busier, Palm Springs International Airport or Trenton–Mercer Airport?",Trenton–Mercer Airport,comparison,hard
+hotpot_0134,What type of sport does Sergio Casal and Manuel Orantes have in common?,tennis,comparison,hard
+hotpot_0135,"Who was born first, Anaïs Lameche or Darren Hayes?",Darren Stanley Hayes,comparison,hard
+hotpot_0136,How many degrees and minutes south of the equator are the bone fragments of the extinct Ascension night heron found?,7°56',bridge,hard
+hotpot_0137,Where is the headquarter of the American multinational chemical corporation who's part is Dow AgroSciences?,"Midland, Michigan, United States",bridge,hard
+hotpot_0138,What Russian ballet choreographer restaged a play based on a Spanish novel by Miguel de Cervantes Saavedra? ,Alexander Gorsky,bridge,hard
+hotpot_0139,Which KaBoom! Entertainment Inc. film is based on a story by Rudyard Kipling?,The Jungle Book (1894),bridge,hard
+hotpot_0140,Were Thomas H. Ince and Joseph McGrath of the same nationality?,no,comparison,hard
+hotpot_0141,A 2013 Smurfs moving is based on what short story that was originally published in 1820?,The Legend of Sleepy Hollow,bridge,hard
+hotpot_0142,Who was born first Dame Zara Kate Bate or Harold Edward Holt?,Harold Edward Holt,bridge,hard
+hotpot_0143,Where are the offices of the weather service that serves the Kansas city which was named after an agreement between European Americans and the Osage Nation?,near Philip Billard Municipal Airport,bridge,hard
+hotpot_0144,"Which Argentine telenovela broadcast by Telefe from March 12 to December 19, 2012 starred Isabel Macedo as Jimena Benitez?",Graduados,bridge,hard
+hotpot_0145,What is the shared country of ancestry between Art Laboe and Scout Tufankjian?,Armenian,comparison,hard
+hotpot_0146,"What Dutch painter specialized in domestic interior scenes of middle class life and has a painting of a young woman dressed in a yellow shawl in the Louvre, Paris?",Johannes Vermeer,bridge,hard
+hotpot_0147,"In which language is the notable song by Suresh Peters from ""Gentleman ""?",Tamil,bridge,hard
+hotpot_0148,"What, in 2011, was the estimated population of the city from which Numidia TV broadcasts","around 3,500,000.",bridge,hard
+hotpot_0149,Under Which Stanmore born prime minister was John Gorton a serving minister? ,Harold Holt,bridge,hard
+hotpot_0150,What American actress stars in Tainted?,Shari Shattuck,bridge,hard
+hotpot_0151,"Cave-In-Rock, Illinois was a stronghold for serial killer/bandit brothers who operated in which century?","who operated in Tennessee, Kentucky, Illinois, and Mississippi, in the late eighteenth century.",bridge,hard
+hotpot_0152,"What instrument of war was only used by the President of the United States who was born in Lamar, Missouri?",nuclear weapons,bridge,hard
+hotpot_0153,This annual event held in several major cities in Finland is one of many all-night arts festival whose name is given to areas of high latitude in the weeks around what?,the summer solstice,bridge,hard
+hotpot_0154,which plant has the highest specie  Panicum or Populus ,Panicum,comparison,hard
+hotpot_0155,Which team featured in both the 2012 and 2011 Cops del Rey Finals ?,Barcelona,bridge,hard
+hotpot_0156,The director of Panic 5 Bravo was born in what year?,1978,bridge,hard
+hotpot_0157,Who coached the Indians and was the first Native American to win a gold metal his home country?,Jim Thorpe,bridge,hard
+hotpot_0158,Sean Frazier served as deputy athletic director at the University of Wisconsin–Madison under an athletic director that stepped down after what season? ,2005 season,bridge,hard
+hotpot_0159,Barranca de Yaco is a geographical feature along an ancient road that is approximately how many miles long?,24800 mi,bridge,hard
+hotpot_0160,"Which professional ice hockey position does the Captain of the National Hockey League All-Star Game ""Away Team"" play?",Canadian professional ice hockey centre,bridge,hard
+hotpot_0161,Who founded the Canadian manufacturer of winter clothing which is a major sponsor of Polar Bears International?,Sam Tick,bridge,hard
+hotpot_0162,The company that created the Data Universal Numbering System has a database that contains how many business records?,265 million,bridge,hard
+hotpot_0163,Which actor/actress from Overnight Delivery was born in New Orleans?,Reese Witherspoon,bridge,hard
+hotpot_0164,"How many small-box format stores are there for one of Newell Brands' brand that sells scented candles, candleholders, accessories, and dinnerware?",560,bridge,hard
+hotpot_0165,Immanuel Lutheran School is affiliated with the denomination that has how many members?,2.1 million,bridge,hard
+hotpot_0166,What is the name of the band that had a song featured in the second installment of a 2005 horror film starring Donnie Wahlberg?,Mudvayne,bridge,hard
+hotpot_0167,University of Wisconsin–Madison and University of Notre Dame are both what?,research university,comparison,hard
+hotpot_0168,"Who is older, Simon Neil or Michael McKean?",Michael John McKean,comparison,hard
+hotpot_0169,Broadbent Arena and Freedom Hall are landmarks of which U.S. city?,Louisville,bridge,hard
+hotpot_0170,"Before composing music for the game which contains Chocobos and Moogles, what cover band was he involved in?",Bothtec,bridge,hard
+hotpot_0171,When did Peter Capaldi play the role of Mr. Curry in Paddington 2?,2017,bridge,hard
+hotpot_0172,What did the screewriter for a 2013 psychological thriller film directed by Denis Villeneuve get a Goya Award nomination for Best Adapted Screenplay at the 27th Goya Awards for? ,"""Invader (Invasor)""",bridge,hard
+hotpot_0173,Leo A. Harris was also known for his handshake deal with Walt Disney that permitted the University of Oregon to use the likeness of what cartoon character created in 1934 at Walt Disney Productions?,Donald Duck,bridge,hard
+hotpot_0174,Which number in the Final Fantasy series was created by Hiroyuki Ito and allows the player control of the artificial intelligence of the characters in battle?,Final Fantasy XII,bridge,hard
+hotpot_0175,"The Order of th elithuanian Grand Duke Gediminas features one of the earliest symbols of Lithuania, that was used by the Lithuanian Republic as a minor state symbol during what period?",between World War I and World War II,bridge,hard
+hotpot_0176,What East of Piccadilly star apperared in dozens of stage performances?,Sebastian Lewis Shaw,bridge,hard
+hotpot_0177,"What is the name of the region that includes the cities Dover and Portsmouth, New Hampshire?",Seacoast Region,bridge,hard
+hotpot_0178,"In what century did this Native warrior and chief, whose brother Tenskwatawa led the Tippecanoe order of battle, become the primary leader of a large, multi tribal confederacy?",nineteenth,bridge,hard
+hotpot_0179,"What role did Thomas Doherty play in sitcom based on the Israeli series ""North Star""?",Sean,bridge,hard
+hotpot_0180,Both Dusty Drake and Joe Diffie sing which genre of music?,country,bridge,hard
+hotpot_0181,The transnational lottery Les Scadding won in 2009 held it's first draw on what date?,13 February 2004,bridge,hard
+hotpot_0182,Bytham Castle is a castle in the civil parish of how many houses?,300,bridge,hard
+hotpot_0183,What type of media do Peter Filkins and The New Criterion have in common?,journal,bridge,hard
+hotpot_0184,During which months of the year does the goalkeeper for Bengaluru FC play? ,November to March,bridge,hard
+hotpot_0185,What title did the actor who worked with Sivaji Ganesan in a 1970 drama film other than actor?,politician,bridge,hard
+hotpot_0186,Who was soldier Archie A. Peck's commanding officer during the Meuse-Argonne Offensive?,Major Charles White Whittlesey,bridge,hard
+hotpot_0187,What channels was the cartoon that Nicholas Boshier developed with Anthony MacFarlane and Jarod Green broadcast on?,ABC1 and ABC2,bridge,hard
+hotpot_0188,Are Columbia University and University of Colorado both private universities? ,no,comparison,hard
+hotpot_0189,What 2017 Christopher B. Landon directed American slasher film is Jessica Rothe starring in?,Happy Death Day,bridge,hard
+hotpot_0190,What year did the largest convention center in the U.S. state of Georgia open?,1976,bridge,hard
+hotpot_0191,SS Ionic was built by the industrial company based in what city?,"Belfast, Northern Ireland",bridge,hard
+hotpot_0192,Are Denzel Washington and David Hewlett both actors?,yes,comparison,hard
+hotpot_0193,"What abbey, founded in 598, was Clarembald a monk at?",St Augustine's Abbey,bridge,hard
+hotpot_0194,Which company owned by a Pakistani media mogul produced the Pakistani romantic drama film Dobara Phir Se?,ARY Films,bridge,hard
+hotpot_0195,Which singer of the Bee Gees sung a middle part of a song in which the majority was sung by Barry Gibb?,Robin Gibb,bridge,hard
+hotpot_0196,"Although a dependent territory remains politically outside of the controlling state's integral area, what else can it contain?",the flags,bridge,hard
+hotpot_0197,"What year was the man, who is credited for developing a Crescograph, born?",1858,bridge,hard
+hotpot_0198,"What country does Eric A. Sykes and Eccles, Greater Manchester have ion common?",England,bridge,hard
+hotpot_0199,"After he was contracted by the team that is headquartered in Affalterbach, Baden-Württemberg, Germany, Dario Franchitti competed in what series?",DTM,bridge,hard
+hotpot_0200,Where was the Danger Mouse produced U2 album exclusively released? ,iTunes,bridge,hard
+hotpot_0201,What position did Christian Albrecht Bluhme during the second military conflict as a result of the Schleswig-Holstein Question?,Prime Minister of Denmark,bridge,hard
+hotpot_0202, Danny Jones and Aleksi Sihvonen are both what?,vocalist,comparison,hard
+hotpot_0203,Are Parents and Madame Figaro published in the same country?,no,comparison,hard
+hotpot_0204,Were the documentaries  One Big Hapa Family and A Film Unfinished directed by the same person?,no,comparison,hard
+hotpot_0205,"Between The Goldeneye and Monkey Gland, which cocktail requires more ingredients?",Monkey Gland,comparison,hard
+hotpot_0206,When did the game which held three times in  in East Asia first held ,in 1896,bridge,hard
+hotpot_0207,What was the nationality of Bernhard Heiden's teacher?,German,bridge,hard
+hotpot_0208,What is the electric racing series British race car driver Alex Lynn drives for and is owned by Virgin Group?,DS Virgin Racing Formula E Team,bridge,hard
+hotpot_0209, Kenneth Anderson served under the General who was which President of the United States?,34th,bridge,hard
+hotpot_0210,Which Russian figure skating coach was a former competitive ice dancer who competed with Olga Pershankova in 1993?,Nikolai Morozov,bridge,hard
+hotpot_0211,Kent Dairy Round Barn is near the city in what Montana county?,Carbon,bridge,hard
+hotpot_0212,Heinrich Marschner was a composer who performed in the time frame after one of the first significant composers in what school of work?,Romantic,bridge,hard
+hotpot_0213,What is the Landsman Kill near New York State Route 308?,a body of water,bridge,hard
+hotpot_0214,"What monthly magazine, published by ASIS International, includes articles on topics of computer security?",Security Management is the monthly magazine of ASIS International,bridge,hard
+hotpot_0215,"""The Parasite"" is a kind of text that has how many words?","between 7,500 and 40,000",bridge,hard
+hotpot_0216,Where were the Olympics held when the 1993 World Champion figure skater's home country won it's second Winter Games gold medal?,"Sochi, Russia",bridge,hard
+hotpot_0217,"Which character did this Australian-American actress who appeared in the movie ""Felony"" play in the Australian soap opera ""Home and Away?""",Angel Parrish,bridge,hard
+hotpot_0218,Thomas Major was the engraver to the estranged son of which monarch?,George II,bridge,hard
+hotpot_0219,In what country was Cudjoe's leader born?,Ghana,bridge,hard
+hotpot_0220,Are Random House Tower and 888 7th Avenue both used for real estate?,no,comparison,hard
+hotpot_0221,"As the oldest player in the NFL, this football player is the only player ever to have accomplished what?","score 1,000 points with two different teams",bridge,hard
+hotpot_0222,"The song ""Metal"" by Gary Numan was the B-side of a single that reached what ranking inthe UK charts?",number 1,bridge,hard
+hotpot_0223,Repertoire of Plácido Domingo appeared in an opera written by whom which was based on a play by William Shakespeare?,Giuseppe Verdi,bridge,hard
+hotpot_0224,Are Pago Pago International Airport and Hoonah Airport both on American territory?,yes,comparison,hard
+hotpot_0225,"George E. Blake was born in Yorkshire, England, formerly known as what?",County of York,bridge,hard
+hotpot_0226,What is the former name of the team that Tom Shearn was supposed to start for?,Louisville RiverBats,bridge,hard
+hotpot_0227,What is one element of House dance where the dancer ripples his or her torso back and forth?,the jack,bridge,hard
+hotpot_0228,What horror movie set in 1972 Vietnam was filmed in part in Bokor Hill Station?,R-Point,bridge,hard
+hotpot_0229,Which Arab World's car was  used in a  American action film directed by F. Gary Gray and written by Chris Morgan?,Lykan Hypersport,bridge,hard
+hotpot_0230,Do both Korematsu v. United States and Chaplinsky v. New Hampshire cases regard the rights of U. S. citizens?,yes,comparison,hard
+hotpot_0231,"Which university was established first, University of Washington or Texas Christian University?",University of Washington,comparison,hard
+hotpot_0232,"Turner Field was originally built as what 85,000 seat main stadium of the 1996 Summer Olympic Games and the 1996 Summer Paralympic Games in Atlanta?",Centennial Olympic Stadium,bridge,hard
+hotpot_0233,The La Senza brand is currently owned by a fashion retailer based in what Ohio city?,Columbus,bridge,hard
+hotpot_0234,How many years in prison did the Norfolk farmer defended by Anthony Scrivener serve?,three,bridge,hard
+hotpot_0235,Ashley Benson portrayed the role of Brit in the 2012 crime film directed by whom?,Harmony Korine,bridge,hard
+hotpot_0236,Does MedStar Washington Hospital Center or Children's National Medical Center have more beds?,MedStar Washington Hospital Center,comparison,hard
+hotpot_0237,"What football club was owned by the singer of ""Grow Some Funk of Your Own""?",Watford Football Club,bridge,hard
+hotpot_0238,Which civilization instigated a war with Rome and significantly influenced the Latin language?,the Etruscan civilization,bridge,hard
+hotpot_0239,What US Airways pilot famously made an emergency landing on the Hudson River and went on to become an Aviation and Safety Expert for CBS News?,"Chesley Burnett ""Sully"" Sullenberger III",bridge,hard
+hotpot_0240,In which county is the town in which Raymond Robertsen was born ?,"Finnmark county,",bridge,hard
+hotpot_0241,Kentucky Truck Assembly and Louisville Assembly Plant are two auto factories in the city of Louisville operated by which car maker?,Ford Motor Company,bridge,hard
+hotpot_0242,Adam Fox was one of the first members of an informal literary discussion group associated with what University?,"University of Oxford, England",bridge,hard
+hotpot_0243,What is the middle name of the actress who plays Bobbi Bacha in Suburban Madness?,Ann,bridge,hard
+hotpot_0244,Who directed the film based on the rock opera 5:15 appeared in?,Franc Roddam,bridge,hard
+hotpot_0245,Ocean Springs School District is located in the city in what Mississippi county?,Jackson,bridge,hard
+hotpot_0246,Where is the first major improved highway located?,"Wheeling, West Virginia",bridge,hard
+hotpot_0247,What occupation was shared by David Yates and Pietro Germi?,director,comparison,hard
+hotpot_0248,How many personnel does the Navy that had Gilliam-class atttack transports have on active duty?,"322,421 personnel on active duty",bridge,hard
+hotpot_0249,What was the population in 2010 of the town where The Stelljes House is located ?,810,bridge,hard
+hotpot_0250,"The 1994 ""The Shadow"" co-stars Lone, Penelope Ann Miller, Peter Boyle, Jonathan Winters, Tim Curry and an actor that has received how many Emmy Award nominations?",five,bridge,hard
+hotpot_0251,Which film came first The Strongest Man in the World or Candleshoe?,The Strongest Man in the World,comparison,hard
+hotpot_0252,At which public research university founded in 1881 Ralph Fielding served as the head football coach?,University of Texas at Austin,bridge,hard
+hotpot_0253,Who directed the 2007 film which  Sasson Gabai won an Ophir Award for?,Eran Kolirin,bridge,hard
+hotpot_0254,What kind of film was the film who featured Auli'i Cravalho?,3D computer-animated musical fantasy-adventure film,bridge,hard
+hotpot_0255,Are Harry Kizirian and Howard Kazanjian known for the same industry?,no,comparison,hard
+hotpot_0256,What type of film is Jordan Roberts 2017 film release?,3D computer-animated comedy,bridge,hard
+hotpot_0257,"Are Ruggero Deodato from Italy, and Mexican Alejandro Springall, both film directors?",yes,comparison,hard
+hotpot_0258,The genus containing lions also contains several poorly known what?,Old World fossil representatives,bridge,hard
+hotpot_0259,"""It's Me That You Need"" is a song with lyrics written by Bernie Taupin and which artist whose career spans five decades?",Elton John,bridge,hard
+hotpot_0260,Ælfgifu of Exeter and Ælfgifu of Shaftesbury are both known for being what?,saint,bridge,hard
+hotpot_0261,Which British Indian novelist and essayist did Anthony Burgess address in a lengthy letter?,Salman Rushdie,bridge,hard
+hotpot_0262,What character played by Laurence Olivier in 1969 was an officer in the Royal Air Force,Hugh Dowding,bridge,hard
+hotpot_0263,"At which arena does the team, for which Adam McKenzi is currently a member, play their home games?",Hara Arena,bridge,hard
+hotpot_0264,How many episodes did the season of The Simpsons which featured the voice of Lisa Kudrow contain?,It contains twenty-three episodes,bridge,hard
+hotpot_0265,"Which documentary was made first, The Shame of a City or Unchained Memories?",Unchained Memories,comparison,hard
+hotpot_0266,"When was the designer of the Disneyland attraction with variants in California, France, Hong Kong, Tokyo, and the Tomorrowland Speedway born?","born October 25, 1931",bridge,hard
+hotpot_0267,Kaiser Ventures corporation was founded by an American industrialist who became known as the father of modern American shipbuilding?,Henry J. Kaiser,bridge,hard
+hotpot_0268,"Professional cyclist Sara Symington competed in which Olympic Games held in Sydeney, Australia?",2000 Summer Olympic Games,bridge,hard
+hotpot_0269,"According to the 2010 census, what was the population of the city in which Boyle's Thirty Acres was located?","247,597",bridge,hard
+hotpot_0270,What album starring Ed Sheeran was released on 3 March 2017?,"÷ (pronounced ""divide"") is the third studio album by English singer-songwriter Ed Sheeran.",bridge,hard
+hotpot_0271,"Who was older, Andrew Preston or James Taylor?",James Taylor,bridge,hard
+hotpot_0272,"Many right wing WNP were  connected to a clandestine operation ran by a ""stay-behind""  operation ran by what organization?",NATO,bridge,hard
+hotpot_0273,What novel imagines the true story of a character based on a novel by Mark Twain first published in 1884?,Shohola Falls,bridge,hard
+hotpot_0274,When was the producer of the film Betrayal born?,"November 11, 1901",bridge,hard
+hotpot_0275,Who owns the hotel where the 13th Anniversary Show took place?,Boyd Gaming,bridge,hard
+hotpot_0276,Which group of outlaws from the 1890s shares a name with a Yugoslav rock band?,Dalton Gang,bridge,hard
+hotpot_0277,The character Jack from While You Were Sleeping was born in what year?,1953,bridge,hard
+hotpot_0278,"Which actor, who also appeared in ""The Usual Suspects"" (1995), does the 2017 action crime comedy Baby Driver star?",Kevin Spacey,bridge,hard
+hotpot_0279,The Combs–Hehl Bridge is a twin span single pier cantilever bridge carrying an intersate loop that encloses and area of over how many acres? ,"250,000",bridge,hard
+hotpot_0280,"Which mountain is higher, Nanda Devi or Broad Peak?",Broad Peak,comparison,hard
+hotpot_0281,What Hindi thriller directed by Deepak SHivdasani features choreography by Phulwa Khamkar?,Julie 2,bridge,hard
+hotpot_0282,"What performing traditionally from the longest continental mountain range in the world, are Grupo Aymara famous for?",traditional music,bridge,hard
+hotpot_0283,The trophy given to the winner of the college football game between University of Idaho Vandals and University of Montana Grizzlies is derived from which European culture?,German,bridge,hard
+hotpot_0284,"What is the largest non-capital city in Queensland, Australia that includes a suburb named after Helena White? ",Gold Coast in Queensland,bridge,hard
+hotpot_0285,"Which is a flowering plant, Pueraria or Pleiospilos?",Pleiospilos,comparison,hard
+hotpot_0286,What space mission is the Rear Admiral astronuat born 1923 known for?,Mercury Seven,bridge,hard
+hotpot_0287,whodesigned the first theoretical mechanism for the detonation of an atomic bomb and was part of the group of scientists who first discovered nuclear fission?,Otto Robert Frisch,bridge,hard
+hotpot_0288,Fallen In Love was based on the paranormal romance series published under what press company?,Delacorte Press,bridge,hard
+hotpot_0289,Has Lasse Hallström gotten more Academy Award nominations than Dionciel Armstrong?,yes,comparison,hard
+hotpot_0290,What did Mustafa Kemal Atatürk's residence become once it became Atatürk Museum Mansion?  ,museum,bridge,hard
+hotpot_0291,Ivan Simson was under the command of the officer who was most noted for a defeat at what WWII battle?,Battle of Singapore,bridge,hard
+hotpot_0292,What is the name of the former MGM Grand Garden Special Events Center where the Mayweather-Ortiz fight took place?,MGM Grand Garden Arena,bridge,hard
+hotpot_0293,Sebastian Gutierrez is known for writing the screenplay for the 2003 film directed by whom?,Mathieu Kassovitz,bridge,hard
+hotpot_0294,Who did the Star and Dagger bass player marry?,Sean Yseult.,bridge,hard
+hotpot_0295,"Consider the band formed in 2015 by JYP Entertainment through the reality show ""Sixteen"". How many tracks are on the reissue of their third album?",13,bridge,hard
+hotpot_0296,The design team for role playing game Black Crusade featured the work of this designer who was the lead developer for what game?,Dark Heresy,bridge,hard
+hotpot_0297,Where does the state legislature in which John Coffin Talbot served convene?,the State House in Augusta,bridge,hard
+hotpot_0298,The Havanese and the Black Mouth Cur are both which kind of animal?,Dogs,comparison,hard
+hotpot_0299,"Which English crime writer wrote the 2005 psychological thriller ""The Devil's Feather""?",Minette Walters,bridge,hard
+hotpot_0300,"Which film was created more recently, Koyaanisqatsi or Mad Hot Ballroom?",Mad Hot Ballroom,comparison,hard
+hotpot_0301,"Who was born first, Kwok Kin Pong or Edison Chen?",Edison Koon-hei Chen,bridge,hard
+hotpot_0302,What is the birth year of the rapper who made The Cold Corner 2?,1982,bridge,hard
+hotpot_0303,The project that Jeder Rappen zählt is inspired by began in what year?,2004,bridge,hard
+hotpot_0304,"Which author influenced the animated Easter television special ""The First Easter Rabbit""? ",Margery Williams,bridge,hard
+hotpot_0305,"Which was Disney's 2nd animated production, Pinocchio or Home on the Range?",Pinocchio,comparison,hard
+hotpot_0306,Johnnie Casson appeared on which ex-professional footballer's British television show?,Des O'Connor,bridge,hard
+hotpot_0307,Which Italian composer was known for his long-flowing melodic lines and was included in the repertoire of Maria Callas?,Vincenzo Salvatore Carmelo Francesco Bellini,bridge,hard
+hotpot_0308,What was Randy Shughart's rank when he died?,Sergeant First Class,bridge,hard
+hotpot_0309,I Like 'em Big and Stupid was a single whose B-side was played on the show of the record collector specializing in what type of music?,novelty songs,bridge,hard
+hotpot_0310,A scam involving a male calling small town fast-food restaurants and pretending to be a police officer to have them strip search employees was turned into a movie of what name?,Compliance,bridge,hard
+hotpot_0311,"When was the duo formed who's English language song is the ""Freaky Like Me""?",1992,bridge,hard
+hotpot_0312,What actor had his final performance in the film based on a dytopian novel by David Eggers called The Circle?,Bill Paxton,bridge,hard
+hotpot_0313,"A medieval fortress in Dirleton, East Lothian, Scotland borders on the south side of what coastal area?",Yellowcraig,bridge,hard
+hotpot_0314,The Carlsberg Group brews a Belgian beer originally made by monks of what order?,Norbertine,bridge,hard
+hotpot_0315,"Who has released more solo albums, Nick Carter or Brady Seals?",Brady Seals,comparison,hard
+hotpot_0316,What role did Julianne Moore play in the 2002 Oscar winning movie?,emotionally troubled women,bridge,hard
+hotpot_0317,Kingdom Hearts 358/2 Days was made by the company based in what part of Tokyo?,Shinjuku,bridge,hard
+hotpot_0318,What languages did the son of Sacagawea speak?,French and English,bridge,hard
+hotpot_0319,Owney was a stray terrier adopted as the first unofficial postal mascot by a post office that is roughly how many miles north of New York City?,150 mi,bridge,hard
+hotpot_0320,"A guitar player called Noodles is a longtime member of which band, The Smashing Pumpkins or The Offspring?",The Offspring,comparison,hard
+hotpot_0321,In what year was the soft drink that the Coca-Cola Company designed Red Flash to compete against created?,1937,bridge,hard
+hotpot_0322,"Which is farther west, Sheridan County, Montana or Chandra Taal?",Sheridan County,comparison,hard
+hotpot_0323,"What type of development, currently existing in Pasay, is currently being considered for malls such as one in M.A. Roxas Avenue in Clark Freeport, Angeles City in Pampanga Philippines?",SM Lifestyle Cities,bridge,hard
+hotpot_0324,American Blues included the drummer from which American rock band?,ZZ Top,bridge,hard
+hotpot_0325,"Geoffrey Rush, one of the stars in Intolerable Cruelty, is a known actor and film producer in what country?",Australian actor and film producer,bridge,hard
+hotpot_0326,Which airline partners with Gogo Inflight Internet and opened in 1984?,Virgin Atlantic,bridge,hard
+hotpot_0327,"Kung Fu Magoo is a Mexican-American animated action comedy film with an English voice cast star best known for her roll as what in ""Naruto""? ",Naruto Uzumaki,bridge,hard
+hotpot_0328,What was the nickname of the hitman hired by an Italian American Criminal Organization?,The Crowned Prince of the Philadelphia Mob,bridge,hard
+hotpot_0329,What is the river that Sangin is found in the valley of the primary watershed for?,Sistan Basin,bridge,hard
+hotpot_0330, Here I Am Again is an album by what American country singer who had a career of almost 60 years,Loretta Lynn,bridge,hard
+hotpot_0331,In which year did the artist who wrote Hyperreal release his debut studio album?,2012,bridge,hard
+hotpot_0332,The first of the Simon Bloom books was optioned by a company founded in what year?,1912,bridge,hard
+hotpot_0333,What animal does Mahratta Greyhound and Tibetan Spaniel have in common?,dog,comparison,hard
+hotpot_0334,The 2013 Oregon Ducks football team was led by which former American football coach who is currently a college football analyst for Fox Sports?,Mark August Helfrich,bridge,hard
+hotpot_0335,What kind of ships have been named after the King of Norway who ascended the throne in 1991?,motor ships,bridge,hard
+hotpot_0336,What NFL team did the 2017 ESPN College Football Friday Primetime host who played at Oklahoma in college play for?,the Bears,bridge,hard
+hotpot_0337,What third film in a franchise did Camile Delamarre edit?,Transporter 3,bridge,hard
+hotpot_0338,At which university did the notable psychoanalyst associated with the University of Chicago serve most of his career as a professor of psychiatry?,University of New York Upstate,bridge,hard
+hotpot_0339,"Under which ring name does the wrestler who participated in a taser match with Bam Bam Bigelow, associate himself with in the World Wrestling Federation?",Razor Ramon,bridge,hard
+hotpot_0340,"When was the judge born who made notable contributions to the trial of the man who tortured, raped, and murdered eight student nurses from South Chicago Community Hospital on the night of July 13-14, 1966?","June 4, 1931",bridge,hard
+hotpot_0341,"Who was born first, Mary Collins or Polly Draper?",Mary Collins,comparison,hard
+hotpot_0342,Marco de la O stars in the title role of El Chapo which premiered on which network in April 2017?,Univision,bridge,hard
+hotpot_0343,In what year was the aviator in whose honour the Quai d'Auteuil was renamed born?,1872,bridge,hard
+hotpot_0344,What former two-weight world champion is represented by boxing managed Ziggy Rozalski?,Tomasz Adamek,bridge,hard
+hotpot_0345,"Which director, Chris O'Dea or Lucky McKee,  is a Master of Fine Arts graduate of the UCLA School of Theater, Film and Television?",Edward Lucky McKee,comparison,hard
+hotpot_0346,Erskine Academy is located in a village in what county?,"Kennebec County, Maine",bridge,hard
+hotpot_0347,What is the nationality of the man who finished third in the 2016 Pau Grand Prix?,British,bridge,hard
+hotpot_0348,Which Dutch media tycoon transferred all of its media activities to Talpa Holding?,John de Mol Jr.,bridge,hard
+hotpot_0349,Black Book starred the actress and writer of what heritage?,Dutch,bridge,hard
+hotpot_0350,What date was the movie originally supposed to be released that was delayed due to the unlawful distribution of private photographs of Edison Chen with various women?,The film was originally set to be released in May 2008,bridge,hard
+hotpot_0351,Show Her is a song written by a country music artist who is also a former player of what sport?,American football,bridge,hard
+hotpot_0352," A business such as Eatza Pizza or Pizza Fusion, which have more then 10 locations are considered to be what?",restaurant chain,comparison,hard
+hotpot_0353,What year was Playford B Power Station permanently closed in by its Australian operator?,2015,bridge,hard
+hotpot_0354,The Robey-Peters Gun-Carrier was built at a commuter village with at population of what at the 2001 census?,"4,530",bridge,hard
+hotpot_0355,Where is the basketball team that Mike DiNunno plays for based ?,Ellesmere Port,bridge,hard
+hotpot_0356,"What English stand-up comedian has a style of comedy full of ""stream-of-conscious banter""?",Eddie Izzard,bridge,hard
+hotpot_0357,"Which British music producer and engineer is notable for working wih an English electronic band having the founders: Dave Gahan, Martin Gore, and Andy Fletcher?",Gareth Jones,bridge,hard
+hotpot_0358, The 1919 Mississippi gubernatorial election Incumbent Democrat was a master of what?,filibuster,bridge,hard
+hotpot_0359,"Wangaratta Wahine, an album featuring the work of an Australian Living Treasure, was recorded by what band?",The Captain Matchbox Whoopee Band,bridge,hard
+hotpot_0360,"What MLB pitcher nicknamed ""Gander"" was written about in ""the Stratton Story"">?",Monty Franklin Pierce Stratton,bridge,hard
+hotpot_0361,What kind of music did Firework's artist make before getting into pop?,gospel,bridge,hard
+hotpot_0362,"The composer for the music in the film ""A Clockwork Orange"" was born in which state?",Rhode Island,bridge,hard
+hotpot_0363,Who wrote the lyrics for Linda Eder's Broadway debut?,"Wildhorn, Bricusse and Cuden",bridge,hard
+hotpot_0364,In the 2012-13 FC Sion they brought in Gennaro Gattuso and a player who now plays for what Scottish team?,Scottish Premiership club Hearts,bridge,hard
+hotpot_0365,"Swiss music duo Double released their best known single ""The Captain of Her Heart"" in what year?",1986,bridge,hard
+hotpot_0366,"In the 1962 German Grand Prix, a racer came second. What did this racer found?",Surtees Racing Organisation team,bridge,hard
+hotpot_0367,Eduard Schweizer teaches at a German university with over how many students? ,"26,000",bridge,hard
+hotpot_0368,Are both Elko Regional Airport and Gerald R. Ford International Airport located in Michigan?,no,comparison,hard
+hotpot_0369,"Which songwriting duo composed music for ""La La Land"", and created lyrics for ""A Christmas Story: The Musical""? ",Pasek & Paul,bridge,hard
+hotpot_0370,Who was the head coach of the Georgia Tech football team that finished the regular season with the same record as the 1981 team?,Bill Lewis,bridge,hard
+hotpot_0371,Simone de Beauvoir partnered with the person whose journal would be called what?,Les Temps modernes,bridge,hard
+hotpot_0372,"Which dog is considered a giant dog breed, the  Leonberger or the Basset Hound?",The Leonberger is a giant dog breed.,comparison,hard
+hotpot_0373,"Human Shadow Etched in Stone is an exhibition to showcase which bombing that killed 129,000 people in 1945?",Hiroshima and Nagasaki,bridge,hard
+hotpot_0374,The person that William Flannery was an architect for entered the publishing business in what year?,1887,bridge,hard
+hotpot_0375,The FIBT World Championships 1960 took place in a town located in which part of Italy ?,the Veneto region of Northern Italy,bridge,hard
+hotpot_0376,What line featured characters from a DC Comic creator by Bob Kane and Bill Finger?,action figure toyline,bridge,hard
+hotpot_0377,What film did the sound editor for a 2013 Hong Kong-Chinese martial arts drama film based on the life story of the Wing Chun grandmaster Ip Man win two Academy Awards for?,"""Hacksaw Ridge""",bridge,hard
+hotpot_0378,What kind of company is this group whose headquarters are in AIA Central? ,pan-Asian life insurance group,bridge,hard
+hotpot_0379,Are the mountains known as Trivor and The Crown both found in Asia?,yes,comparison,hard
+hotpot_0380,Sadok Sassi played for a national team that made its first World Cup in what year?,1978,bridge,hard
+hotpot_0381," The name ""Mountbatten-Windsor"" applies to male-line descendants of the Queen without royal styles and titles which is a Eurpean dynasty resulting in what family?",Mountbatten family,bridge,hard
+hotpot_0382,Extract starred what American actress who is known for her work on Saturday Night Live from 2005-2012?,Kristen Carroll Wiig,bridge,hard
+hotpot_0383,Which retired Argentine footballer who played as a forward was a main player for Valencia CF?,Claudio Javier López,bridge,hard
+hotpot_0384,The Joggers are a four-piece band whose lead singer is the son of an American chemist who received the highest what?,Hirsch index rating,bridge,hard
+hotpot_0385,When did the person for whom Tubman University was named serve as President of his country?,1944 until his death in 1971,bridge,hard
+hotpot_0386,"Which Nigerian footballer who plays as a forward for Shanghai Greenland Shenhua was one of eleven players to have played in the top divisions in Italy, Spain, England and Germany?",Obafemi Martins,bridge,hard
+hotpot_0387,"At which rank did the American author, military historian, illustrator and painter, born in 1913, who survived the surprise military strike by the Imperial Japanese Navy Air Service against the United States finally retire?",Colonel,bridge,hard
+hotpot_0388,"Staten Island Summer, starred what actress who was a cast member of ""Saturday Night Live""?",Cecily Strong,bridge,hard
+hotpot_0389,"Who is older, Tarryl Lynn Clark or Michele Marie Bachmann?",Michele Marie Bachmann,bridge,hard
+hotpot_0390,Who directed the film Leigha Kayleen Hancock is best known for?,Gary Ross,bridge,hard
+hotpot_0391,What river runs along the neighborhood where Ashley Estes Kavanaugh's wedding was held?,Potomac River,bridge,hard
+hotpot_0392,Which song that John Kirby scored  is often the final piece of music played during an evening of revelry?,"""Loch Lomond""",bridge,hard
+hotpot_0393,"The moon represents my heart is a mandarin song made famous by Teresa Teng, what other language does she sing in?","Taiwanese Hokkien, Cantonese, Japanese, Indonesian and English",bridge,hard
+hotpot_0394,Camp Modin moved to the Belgrade Lakes region of Maine from its previous location in what Maine county?,Somerset County,bridge,hard
+hotpot_0395,which American political consultant was a former Trump campaign ,Roger Jason Stone Jr.,bridge,hard
+hotpot_0396,"Which magazine was first published earlier, The Chronicle of Philanthropy or Skeptic?",The Chronicle of Philanthropy,comparison,hard
+hotpot_0397,"Which 18th-century canal was longer, the Sandy and Beaver Canal in Ohio or New Jersey's Morris Canal?",Morris Canal,comparison,hard
+hotpot_0398,"What is the name of the American author, songwriter, educator, lawyer, diplomat, civil rights activist and husband to Grace Nail Johnson who was the first African American executive secretary of the National Association for the Advancement of Colored People (NAACP)?",James Weldon Johnson,bridge,hard
+hotpot_0399,"Which Indian actress who earned filmfare award for Best female debut in ""Refugee"" acted in K3G movie?",Kareena Kapoor Khan,bridge,hard
+hotpot_0400,The History of Ranching is a mural that was originally located at an American brewery that in 1999 began trasfering its production to who?,Miller Brewing,bridge,hard
+hotpot_0401,"Which band was formed first, Circus Diablo or Magic Dirt?",Magic Dirt,comparison,hard
+hotpot_0402,The Panel with striding lion  was one of many that lined the way north of the gate to the inner city of what location?,Babylon,bridge,hard
+hotpot_0403,Are Robert Philibosian and David Ignatius both politicians?,no,comparison,hard
+hotpot_0404,Are both Alabama Slammer and Yorsh non alcoholic drinks?,no,comparison,hard
+hotpot_0405,Many jack-in-the-boxes use an English nursery rhyme with a Roud Folk Song Index number of what?,5249,bridge,hard
+hotpot_0406,Who was the head of the Imperial Family that was making an broadcast announcement of Japan's surrender in 1945?,Emperor of Japan,bridge,hard
+hotpot_0407,"Which film was released more recently, Make Mine Music or Old Dogs?",Old Dogs,comparison,hard
+hotpot_0408,Who starred in the 1991 American action comedy film The Hard Way and was featured on the roster of Rawkus Records?,Mos Def,bridge,hard
+hotpot_0409,"Which tournament, organised by the Professional Darts Corporation, is planned to finish at the multi-purpose indoor arena located in the centre of The O2 entertainment complex on the Greenwich Peninsula in south-east London?",2018 Unibet Premier League Darts,bridge,hard
+hotpot_0410,"Arthur Saint-Léon was the ""Maître de Ballet"" of the ballet company now known as?",The Mariinsky Ballet,bridge,hard
+hotpot_0411,Which award did the author of Anastasia on Her Own win in 2002?,the 2002 Rhode Island Children's Book Award,bridge,hard
+hotpot_0412,What is the name for what was formerly called Grenier Army Air Field which is located in the two communities of Manchester and Londonberry?,Manchester–Boston Regional Airport,bridge,hard
+hotpot_0413,Celebrity Fifteen to One has had more than one appearance by an English writer and former Conservative Member of what?,Parliament,bridge,hard
+hotpot_0414,Jolyon James performed the role of Moonshadow in a musical by a composer of what nationality?,British,bridge,hard
+hotpot_0415,Where did the punter for the Dallas Cowboys in the 1980s play college football?,Arizona State University,bridge,hard
+hotpot_0416,Phoebe Ruguru created a 2014 film on a smartphone marketed by what company?,Apple,bridge,hard
+hotpot_0417,"In 1967, there were how many active members in the organization whose first Grand Wizard was convicted for the 1966 murder of Vernon Dahmer? ",around four hundred,bridge,hard
+hotpot_0418,"Who produced the sequel to the anthology horror comedy film from 2012, which contained 26 different shorts?","Ant Timpson, Ted Geoghegan and Tim League",bridge,hard
+hotpot_0419,Special K is a slang word for a medication whose main effects last how long?,up to 25 minutes,bridge,hard
+hotpot_0420,Socialist conferences were held with what countries that opposed the Central Powers in the First World War?,The Allies of World War I,bridge,hard
+hotpot_0421,What was the code name of the campaign where Joe Foss received a Medal of Honor?,Operation Watchtower,bridge,hard
+hotpot_0422,Do the bands 3OH!3 and Moonbabies have the same number of members?,yes,comparison,hard
+hotpot_0423,"What generation is the BMW series, that is optional on the xDrive that begun in 2005, on? ",seventh generation,bridge,hard
+hotpot_0424,Who directed a 2006 film where Ron Perkins character plays the manager of a hotel?,Christopher Nolan,bridge,hard
+hotpot_0425,Rebecca M. Bergman is the President of a college affliated with what church?,Evangelical Lutheran Church,bridge,hard
+hotpot_0426,Casey Jr. Splash 'n' Soak Station is an attraction in a city located in which county ?,Orange County,bridge,hard
+hotpot_0427,"Which internationl football team has had a player endorse the ""Nike Hypervenom"" football boot?",England,bridge,hard
+hotpot_0428,What was the birthdate of the actor who starred in the movie Voodoo?,"July 16, 1971",bridge,hard
+hotpot_0429,What New York representative and politician was defeated by Alan Hevesi in 2002?,John Faso,bridge,hard
+hotpot_0430,What dance competition television series features host and NFL reporter Erin Andrews?,Dancing with the Stars,bridge,hard
+hotpot_0431,What is the tagline of the roller coaster that utilizes the same ride system as Manta?,"""Discover Pure Energy""",bridge,hard
+hotpot_0432,Gleanntáin Ghlas' Ghaoth Dobhair is a song that can be heard in pubs licensed to serve what?,alcoholic drinks,bridge,hard
+hotpot_0433,"Aside from the Ivorian who was born in 1986, what other big name footballer has gone through the FC Bibo?","Feyenoord's Sekou Cissé, WS Woluwe's Bassilia Sakanoko, UTA Arad's Leoh Digbeu",bridge,hard
+hotpot_0434,What novel is a followup the Heir to the Empire trilogy?,Vision of the Future,bridge,hard
+hotpot_0435,What wrestling team is Mathew Thomas Rehwoldt a part of?,The Vaudevillains,bridge,hard
+hotpot_0436,"Between Greyia and Calibanus, which genus contains more species?",Greyia,comparison,hard
+hotpot_0437,"What ""sport"" involving animals dates all the way back to the Tang Dynasty and continued to the beginning of the 19th century?",Cricket fighting,bridge,hard
+hotpot_0438,What is this subfamily within the cat family Felidae named by Reginald Innes Pocock that is descendant of Pseudaelurus?,Pantherinae,bridge,hard
+hotpot_0439,"Kacha, Sevastopol is a settlement that is part of a sovereign state bordered on the northwest by which country?",Belarus,bridge,hard
+hotpot_0440,Joel H. Cohen is the younger brother of one-time Simpsons writer who has also written for which show? ,"""The Wonder Years""",bridge,hard
+hotpot_0441,"Who was born first, Lawrence Ferlinghetti or Luigi Pirandello?",Luigi Pirandello,comparison,hard
+hotpot_0442,"Who died first, Chester Erskine or Sam Taylor?",Sam Taylor,comparison,hard
+hotpot_0443,What was the album by Coldplay after the one with a song referencing Chris Martin's unrequited love?,A Rush of Blood to the Head,bridge,hard
+hotpot_0444,"Which genus is native to arid or semi-desert areas, Alopecurus or Echeveria?",Echeveria,comparison,hard
+hotpot_0445,Jim Jeffcoat is currently an assistant football coach in a university that was founded how many month before Colorado was admitted to the Union ?,five months,bridge,hard
+hotpot_0446,"Who released their debut album first, Daisy Chainsaw or Generationals?",Daisy Chainsaw,comparison,hard
+hotpot_0447,Deckers Creek begins west of an unincorporated area in what West Virginia county?,Preston County,bridge,hard
+hotpot_0448,What nationality was the lover of Lord Alfred Douglas ? ,Irish,bridge,hard
+hotpot_0449,Which country did the Falkland Islands beat in the 2010 Commonwealth games that has eleven administrative divisions?,Samoa,bridge,hard
+hotpot_0450,How many rooms does that largest single hotel within the United States that is owned by MGM Resorts International?,"5,124 rooms",bridge,hard
+hotpot_0451,Hostel: Part III is the first film in the series to be neither written nor directed by a director born in which year ?,1972,bridge,hard
+hotpot_0452,"In what English district is the town Digby, Victoria may be named after?","North Kesteven, Lincolnshire, England",bridge,hard
+hotpot_0453,"What song was created by the group consisting of Jeffrey Jey, Maurizio Lobina and Gabry Ponte and released on 15 January 1999?",Blue,bridge,hard
+hotpot_0454,"Which brother of John F. Kennedy had a memoir released September 14, 2009?",Ted Kennedy,bridge,hard
+hotpot_0455,"Which town is the venue, in which the APRA Music Awards of 2009 were held, located?",New South Wales,bridge,hard
+hotpot_0456,Are Lance King and Han Seung-yeon both heavy metal vocalists?,no,comparison,hard
+hotpot_0457,"For which football club, established in 1949, did Mitch Duggan have a loan spell prior to joining Tranmere Rovers?",Warrington Town Football Club,bridge,hard
+hotpot_0458,APB and Sleeper are both from britain?,yes,comparison,hard
+hotpot_0459,"Which game was released first, Icehouse pieces or Kill Doctor Lucky?",Icehouse pieces,comparison,hard
+hotpot_0460,Has Entrepreneur had a longer lifespan than Optimize?,yes,comparison,hard
+hotpot_0461,"Which band opened for more major international acts, Blessid Union of Souls or Blue Peter?",Blue Peter,comparison,hard
+hotpot_0462,What distinguishes the footwear brand referenced in the album Pork Soda?,"its air-cushioned sole (dubbed ""Bouncing Soles""), upper shape, welted construction and yellow stitching",bridge,hard
+hotpot_0463,China Bio-Immnunity has developed a vaccine for which viral disease that causes brain inflammation?,Rabies,bridge,hard
+hotpot_0464,"Which game is designed by more persons, Elfenland or San Marco?",San Marco,comparison,hard
+hotpot_0465,Which Danish professional football club that won three Danish championships and five Danish Cup trophies did Keld Bordinggaard play for?,Odense Boldklub,bridge,hard
+hotpot_0466,"What station is 3 miles away from the railway station that was used in the film ""Brief Encounter""?",Borwick railway station,bridge,hard
+hotpot_0467,Choi Jun-hong  is best known as a member of a group formed in which year ?,2012,bridge,hard
+hotpot_0468,What movement is this music seen as that released Facta Loquuntur as their first full length album?,neo-völkisch,bridge,hard
+hotpot_0469,Who did the Doncaster Belles play in the 1994 FA Women's Cup Final held at Glanford Park? ,Knowsley United Women,bridge,hard
+hotpot_0470,"The album ""The Best of LeAnn Rimes"" contained a song used as the theme song for a film. What is the name of the film?",Coyote Ugly,bridge,hard
+hotpot_0471,when does the role William Vere Reeve King-Fane change?,The High Sheriff changes every March.,bridge,hard
+hotpot_0472,whats the famous bavagheet by arun date?,Shukratara,bridge,hard
+hotpot_0473,"YouPorn was surpassed, in 2013, by competitor sites xHamster, Pornhub, LiveJasmin, and this website that is registered to the Polish company WGCZ Holding? ",XVideos,bridge,hard
+hotpot_0474,"Which genus contains more species, Ortegocactus or Eschscholzia?",Eschscholzia,comparison,hard
+hotpot_0475,"What band in the ""Art Wave"" scene is based in Glasgow?",Franz Ferdinand,bridge,hard
+hotpot_0476,"Stoke Extinguisher is what type of musical recording that contains more tracks than a single, but is usually unqualified as an album or LP?",extended play,bridge,hard
+hotpot_0477,Both the 2010–11 UEFA Champions League knockout phase  and 011 UEFA Champions League Final were held at what London stadium?,Wembley,bridge,hard
+hotpot_0478,"Which Indian film playback singer as well a devotional singer contributed to the film ""Baabul"" (2006) and Sukshinder Shinda's album ""Collaborations 3?""",Richa Sharma,bridge,hard
+hotpot_0479,Ara Berberian sand for which role an opera by Giuseppe Verdi?,Sparafucile,bridge,hard
+hotpot_0480,Where is the headquarters for the service broadcaster the show Tenko is on?,Broadcasting House in London,bridge,hard
+hotpot_0481,"What league, which is also known as the Barclays Premier League, had its start date pushed back?",The 2013–14 Premier League,bridge,hard
+hotpot_0482,A writer for The Kenyon Review won a Pulitzer Prize in what year?,1947,bridge,hard
+hotpot_0483,According to the 2011 census what is the population of the city where Royal Wahingdoh F.C. are based ?,"143,007",bridge,hard
+hotpot_0484,What kind of result does 2013 Ghana Movie Awards and A Northern Affair have in common?,winners,bridge,hard
+hotpot_0485,In what country did Petrus van Hooijdonk compete in for the 1998 FIFA World Cup?,It was held in France from 10 June to 12 July 1998.,bridge,hard
+hotpot_0486,"One of the signatories of the Chicago Statement on Biblical Inerrancy was which Presbyterian pastor, known for taking a more presuppositional approach to apologetics?",Francis Schaeffer,bridge,hard
+hotpot_0487,"What character did Selina Giles play in the 2005 dystopian political thriller named ""V for Vendetta""?",Evey's mother,bridge,hard
+hotpot_0488," How many acres did this plantation consist of, in which the Honourable The Irish Society was set up to colonise County Londonberry? ",half a million acres,bridge,hard
+hotpot_0489,"Which of the following cities is a county-level city, Jingzhou or Zixing?",Zixing,comparison,hard
+hotpot_0490,Which had a bigger population in the 2016 census: Queens or Staten Island?,Queens,comparison,hard
+hotpot_0491,"What uniform number was the umpire wearing when ""Pudge"" hit a home run in Game 6 of the 1975 World Series?",4,bridge,hard
+hotpot_0492,Who portrays Rachel Zane on the American legal comedy-drama that airs on USA Network?,Rachel Meghan Markle,bridge,hard
+hotpot_0493,Are Yoo-hoo and Faygo both carbonated drinks?,no,comparison,hard
+hotpot_0494,Bridge of Spies stars a Soviet intelligence officer with what name?,Rudolf Abel,bridge,hard
+hotpot_0495,When was the first stud book created for the breed of horse that came from Rotrou introducing Arabian horses to Perche?,1883,bridge,hard
+hotpot_0497,When was the stadium that held the 2015 Magyar Kupa demolished?,2017,bridge,hard
+hotpot_0498,A holdout is an accessory used by cheats in order for them to recieve what?,reward,bridge,hard
+hotpot_0499,"Which American rock band was formed first, Soil or Drowning Pool?",Drowning Pool,bridge,hard
+hotpot_0500,"Which movie was released first, 'Mean Girls' or the remake of 'April Fool's Day'?",Mean Girls,bridge,hard
+hotpot_0501,Which one the cast members in the film Only Lovers Left Alive also played in Othello?,Tom Hiddleston,bridge,hard
+hotpot_0502,What is the name of the company that wholly owns the Value Alliance airline whose head office is within Terminal 2 of Narita International Airport?,All Nippon,bridge,hard
+hotpot_0503,Was Steve Sekely and Willian King Baggot known by multiple names or nicknames?,yes,comparison,hard
+hotpot_0504,"Which opera has more acts, Parsifal or Manon by Massenet?",Parsifal,comparison,hard
+hotpot_0505,What is the seventh book of the Hebrew and Christina bible and also has Quran references to the river drinking experience?,Book of Judges,bridge,hard
+hotpot_0506,"What movie directed by Tim Fywell, included the actress who also appeared in ""Euro Trip"" and ""Inspector Gadget""?  ",Ice Princess,bridge,hard
+hotpot_0507,"Which film was released first, The Watercolor or Pokémon: Arceus and the Jewel of Life?",Pokémon: Arceus and the Jewel of Life,comparison,hard
+hotpot_0508,What is the relationship between the singers on the album Tales of Old Grand Daddy?,brothers,bridge,hard
+hotpot_0509,When was the album released that The Red Tour supported?,"October 22, 2012",bridge,hard
+hotpot_0510,Which host of Sunday Night Safran has the hebrew first name Yehoshua?,John Safran,bridge,hard
+hotpot_0511,"Who is Bruce Spizer an expert on, known as the most influential act of the rock era?",The Beatles,bridge,hard
+hotpot_0512,"That Darn Cat and Honey, I Blew Up the Kid are both what?",comedy,comparison,hard
+hotpot_0513,What type of coat coloration do Colorpoint Shorthairs and Siamese share?,Point coloration,bridge,hard
+hotpot_0514,"who is older, Maria Sharapova or Chanda Rubin?","Chanda Rubin (born February 18, 1976)",comparison,hard
+hotpot_0515,Stella Maxwell has been a model for a famous fashion shown since when?,Since 2015,bridge,hard
+hotpot_0516,Was Artie Ziff a good prom date for Marge?,Artie turns out to be a terrible date,bridge,hard
+hotpot_0517,Which market town in Lancashire is part of the BB postcode area?,Burnley,bridge,hard
+hotpot_0518,In what county was Duffy Jackson born?,Nassau County,bridge,hard
+hotpot_0519,Are both Yangzhou and Jiangyan District considered coastal cities?,no,comparison,hard
+hotpot_0520,What man with a lazy left eye starred in Sacred Ground?,Jack Elam,bridge,hard
+hotpot_0521,Which host of Straight to the Heart is an American actress and producer?,Barbara Niven,bridge,hard
+hotpot_0522,"in 1999, Spirit Halloween LLC was purchased by a mall retailer that has how many stores in the United States and Canada ?",over 600 stores,bridge,hard
+hotpot_0523,"Which facility was founded in Missouri, Discovery Zone or Valentino's?",Discovery Zone,comparison,hard
+hotpot_0524,Alexander S. Wadsworth served during the war that was faught between which two countries?,"United States, the United Kingdom, and their respective allies",bridge,hard
+hotpot_0525,Were Halldór Laxness and Timothy Leary from the same country?,no,comparison,hard
+hotpot_0526,Jim Betts ran against the first American to orbit what?,Earth,bridge,hard
+hotpot_0527,In which of the largest surviving medieval old towns in Europe is the Vilnius Cathedral located?,Vilnius Old Town,bridge,hard
+hotpot_0528,"What rapper on the song ""Wij zijn Ajax"" plays for the Turkish club Beşiktaş?",Ryan Babel,bridge,hard
+hotpot_0529,The King who opened Newcastle Civic Center in 1968 was born in what year?,1903,bridge,hard
+hotpot_0530,"What team competed in six competitions in their 116th season, and four in their 117th?",Football Club Barcelona,bridge,hard
+hotpot_0531,Persona Non Grata includes interviews by the political leader of what nationality?,Palestinian,bridge,hard
+hotpot_0532,"Who has won more Grand Slam women's doubles titles, Lisa Raymond or Liezel Huber?",Liezel Huber,comparison,hard
+hotpot_0533,"Which American audio engineer and clandestine chemist, who was a key figure in the San Francisco Bay Area hippie movement during the 1960s recorded the album ""Old and in the Way?""",Owsley Stanley,bridge,hard
+hotpot_0534,Mount Austin Barracks is located near the Peak Tram terminus at what mountain that is also known as Mount Austin?,Victoria Peak,bridge,hard
+hotpot_0535,"William Sidney Sid Hatfield was the Police Chief of Matewan, West Virginia during a shootout between local coal miners and the Baldwin-Felts Detective Agency that is referred to as what?",Battle of Matewan,bridge,hard
+hotpot_0536,How long is the tidal estuary in which Branford is a shoreline town?,110 miles,bridge,hard
+hotpot_0537,"Calling All Dawns includes the theme for the game ""Civilization IV,"" written by whom?",Christopher Tin,bridge,hard
+hotpot_0538,What is the population of the town at the intersection of Interstate Highways 77 and  the longest Interstate highway within the borders of Virginia?,"8,211 at the 2010 census",bridge,hard
+hotpot_0539,"The 1997 independent slapstick comedy film Snowboard Academy stars this Danish-Italian actress, model, singer and reality television personality who began her career modelling for whom?",Greg Gorman and Helmut Newton,bridge,hard
+hotpot_0540,Arthur Noss was a gunner for the commader during which two European theatre battles in WWII?,Battle of Britain and the Battle of Malta,bridge,hard
+hotpot_0541,What is the name of one the ex-security officials that means The Institute?,Mossad,bridge,hard
+hotpot_0542,Were both magazines Diva and Cleo founded in the same country?,no,comparison,hard
+hotpot_0543,"In what year did the Danish plant ecologist who assisted a Danish chemist, famous for the introduction of the concept of pH die?",1974,bridge,hard
+hotpot_0544,Shenley Hall is a house at a parish how far from central London?,18.7 miles,bridge,hard
+hotpot_0545,Hamilton Wanderers AFC has a former player that is vice captain for what team?,New Zealand national team,bridge,hard
+hotpot_0546,What is the population according to the 2007 population census of the city in which the National Archives and Library of Ethiopia is located?,"3,384,569",bridge,hard
+hotpot_0547,The Out of Control Tour began in an indoor arena above what?,Manchester Victoria station,bridge,hard
+hotpot_0548,"Between Mike Muir and Paul Di'Anno, who has worked with more bands?",Muir,comparison,hard
+hotpot_0549,MacBook offers what brand-type of displays that are higher-resolution than other portable computers?,Retina,bridge,hard
+hotpot_0550,Which store in Gurney Paragon was founded in Belgium in 1926?,Godiva,bridge,hard
+hotpot_0551,What year did the CEO of Tata Consultancy Services takeover as Chairman?,2017,bridge,hard
+hotpot_0552,What group of participants that carried of Operation Neptune Spear is sometimes referred to in the U.S. media as a Special Mission Unit? ,SEAL Team Six,bridge,hard
+hotpot_0553,Hndrxx features a guest appearance by what Canadian singer?,The Weeknd,bridge,hard
+hotpot_0554,"Which item spanned farther distances regarding sales, Interact Home Computer or Sord M5?",Sord M5,comparison,hard
+hotpot_0555,"Who has lived longer in the USA, Ulli Lommel or Benjamin Stoloff?",Stoloff,comparison,hard
+hotpot_0556,"The 2008–09 Texas Tech Red Raiders played in which athletic conference headquartered in Irving, Texas?",Big 12,bridge,hard
+hotpot_0557,What city does Saint Paul School of Theology and United Methodist Church of the Resurrection have in common?,Kansas,bridge,hard
+hotpot_0558,Which of the following buildings was designed by SHoP Architects: 247 Cherry or General Motors Building?,247 Cherry,comparison,hard
+hotpot_0559,Codex Escalada shows an apparition to the saint that is a native of which country?,Mexico,bridge,hard
+hotpot_0560,"What is the main flavor of both soft drinks, Solo from Norway, and Sunkist?",orange,comparison,hard
+hotpot_0561,"If Selfridges in London is the UK's second largest shop, which store - today owned by the State of Qatar - is the biggest?",Harrods,bridge,hard
+hotpot_0562,"Which album was released first, ""Talk That Talk"" or ""Loud""?",Loud,bridge,hard
+hotpot_0563,Where does Yannick Ferreira Carrasco play home games?,Wanda Metropolitano,bridge,hard
+hotpot_0564,What 4 divisions make up the company of the wealthiest person in Georgia?,"newspapers, television, radio, cable television",bridge,hard
+hotpot_0565,Stockely Webster has paintings hanging in what home (that serves as the residence for the Mayor of New York)?,Gracie Mansion,bridge,hard
+hotpot_0566,"""Look At Us Now"" is a song by American DJs based in which city ?",Los Angeles,bridge,hard
+hotpot_0567,What is the name of this Fortune 500 American company that operates a chain of retail home improvement stores that sponsored House Rules?,Lowe's,bridge,hard
+hotpot_0568,Between Parsifal and Saul og David which opera has more acts?,Saul og David,comparison,hard
+hotpot_0569,The Jeep Cherokee was originally sold as a variant of a Jeep model produced during what years?,1963 to 1991,bridge,hard
+hotpot_0570,What are the two categories of the non-electric version of the neighbourhood electric vehicle?,"light quadricycles (L6e), and heavy quadricycles (L7e)",bridge,hard
+hotpot_0571,"Where does the Husband character reside in the book published in 1847 under the pseudonym ""Ellis Bell""?",Thrushcross Grange,bridge,hard
+hotpot_0572,"The song that came out ahead of The Wanted's ""Lightning"" on the UK Singles Chart was featured on which album?","""Talk That Talk""",bridge,hard
+hotpot_0573,"Arrêtez-moi is a film in which film genre, known for suspense and anxiety?",Thriller,bridge,hard
+hotpot_0574,Black Pearl was a South Korean girl group who were known to follow the steps of what Norwegian pop music duo comprising Marit Larsen and Marion Raven?,M2M,bridge,hard
+hotpot_0575,Are both Duke Energy and Affiliated Managers Group based in Massachusetts?,no,comparison,hard
+hotpot_0576,"Which of the following works was completed first, Something Wicked This Way Comes or The Wind in the Willows?",The Wind in the Willows,comparison,hard
+hotpot_0577,"Where was the Super Bowl, that Alan Faneca won, played ?",Ford Field in Detroit,bridge,hard
+hotpot_0578,Nikhil Nanda is the son of the insurance advisor in what business?,life insurance,bridge,hard
+hotpot_0579,What profession did Willi Forst and Elmer Clifton share?,actor,comparison,hard
+hotpot_0580,What date in 2010 was a South Korean film starring  Kim Hyang-gi released?,"January 14, 2010",bridge,hard
+hotpot_0581,"In which county was the English rock band formed that released the box set of four studio albums ""Genesis 1983–1998""?",Surrey,bridge,hard
+hotpot_0582,The creators of the product designation TSR 2002 was the first to publish what kind of game?,role-playing game,bridge,hard
+hotpot_0583,What year was the inventor of Rejuvelac born?,1909,bridge,hard
+hotpot_0584,"Which space mission did the man, in which the Onizuka Prop Wash Award is named after, perish?",STS-51-L,bridge,hard
+hotpot_0585,"Which European Space Agency astronaut flew more Space Shuttle missions, Hans Schlegel of Germany or first Belgian in space Dirk Frimout?",Hans Wilhelm Schlegel,comparison,hard
+hotpot_0586,Have Jelena Janković and Marat Safin both played tennis professionally?,yes,comparison,hard
+hotpot_0587,"What is the current capital of the district that Michael ""Mike"" Campbell is from?",Harare,bridge,hard
+hotpot_0588,Were Sound Team and Dead by Sunrise both formed before 2010? ,yes,comparison,hard
+hotpot_0589,"What is the name of the 1988 film starring Gene Bervoets that was based on the Dutch to English translated novel, ""The Vanishing""?",The Vanishing,bridge,hard
+hotpot_0590,"During which years was the model of car, featured on the cover of Earth's ""Pentastar: In the Style of Demons"" manufactured?",1964 to 1974,bridge,hard
+hotpot_0591,In which sport does both Virginia Ruzici and Andy Murray participate?,professional tennis player,comparison,hard
+hotpot_0592,"New Hampshire Route 124 runs between two regions, one of which is found in Cheshire County, New Hampshire, United States with the population of about 2000 and is named what?",Marlborough,bridge,hard
+hotpot_0593,"Were both the One, Inc. v. Olesen and  Erie Railroad Co. v. Tompkins cases ones that included a ruling by the United States Supreme Court?",yes,comparison,hard
+hotpot_0594,What was the population of the city where Penobscot Marine Museum is located?,"The population was 2,615",bridge,hard
+hotpot_0595,Which battle took place first out of the Battle of the Ch'ongch'on River and the Battle of Tarawa?,The Battle of Tarawa,comparison,hard
+hotpot_0596,What 1958 born American television writer and actress contributed to the writing on I Am Not Homer?,"Deborah ""Deb"" Lacusta",bridge,hard
+hotpot_0597,What role did Slim Dunlap take when he joined the Minnesota band the Replacements in 1987?,guitarist,bridge,hard
+hotpot_0598,Radio shack made a line of computers in the 1980's which was marketed as the TRS-80 Color Computer or the Interact Home Computer?,TRS-80 Color Computer,comparison,hard
+hotpot_0599,"What was the name of a woman from the book titled ""Their Lives: The Women Targeted by the Clinton Machine "" and was also a former white house intern?",Monica Lewinsky,bridge,hard
+hotpot_0600,AVN Media Network has as part of their business what convention and trade show that takes place every January in Las Vegas Nevada?,AVN Adult Entertainment Expo,bridge,hard
+hotpot_0601,Which character in The Hunt for Red October was played by the actor who made his film debut in The Revolutionary,Skip Tyler,bridge,hard
+hotpot_0602,What is another name for basidiomycete fungus?,Funki Porcini,bridge,hard
+hotpot_0603,What part of Australia is Alice River and Rupertswood in?,Victoria,bridge,hard
+hotpot_0604,"Macaulay Carson Culkin was regarded as the most successful child actor since which actress, who was Hollywood's number one box-office draw as a child actress from 1935 to 1938?",Shirley Temple Black,bridge,hard
+hotpot_0605,Was Kanako Momota or Mark Hollis born first?,Mark David Hollis,comparison,hard
+hotpot_0606,"Which species is native to Asia, Corokia or Rhodotypos?",Rhodotypos,comparison,hard
+hotpot_0607,"Which airplane was this Major test-flying after whom the base, that 514th Flight Test Squadron is stated at, is named?",B-17 Flying Fortress bomber,bridge,hard
+hotpot_0608,Dangerous is a book by which political commentator?,Milo Yiannopoulos,bridge,hard
+hotpot_0609,Who covered the song I Love You by Chris Write?,People! and The Carnabeats,bridge,hard
+hotpot_0610,What types of activities occur in both the Bennington and Bridgewater Triangles?,alleged paranormal phenomena,bridge,hard
+hotpot_0611,Falling Stars is a role-playing game published by the company based out of what country?,Lithuania,bridge,hard
+hotpot_0612,Are Toshi and Warrel Dane both in the band Sanctuary?,no,comparison,hard
+hotpot_0613,"What netflix series, produced by Joe Swanberg, had an actress  best known for her role as Vanessa on ""Atlanta""?",Easy,bridge,hard
+hotpot_0614,Where was the coach of the 1999 Oklahoma State Cowboys football team hired in 2013?,Boulder High School,bridge,hard
+hotpot_0615,Hotel Splendide is a British film from 2000 that features which James Bond actor?,Daniel Craig,bridge,hard
+hotpot_0616,Pedro Duque and Mark Shuttleworth both went where in their life times?,space,comparison,hard
+hotpot_0617,Jimmy D'Arcy played in Northern Ireland for the team based in what county?,Antrim,bridge,hard
+hotpot_0618,Patrick Kennedy is known for his collections of Irish  folktales from a province situated in which part of Ireland ?,the east of Ireland,bridge,hard
+hotpot_0619,What liberal arts college has their athletic teams named the Lincoln Memorial Railsplitters?,Lincoln Memorial University,bridge,hard
+hotpot_0620,Do both Kettering University and University of New Mexico offer post-secondary degrees?,yes,comparison,hard
+hotpot_0621,"Which of the fighter in Battle of Gavinana was created in 1422, and came to an end when the Holy Roman Empire was wound up in 1806, as the result of the Napoleonic Wars?",Army of the Holy Roman,bridge,hard
+hotpot_0622,"Which airport is located in the state of Georgia, Brunswick Golden Isles Airport or Lafayette Regional Airport?",Brunswick Golden Isles Airport,comparison,hard
+hotpot_0623,In what Chennai location are trade laws different from rest of the country?,Madras Export Processing Zone,bridge,hard
+hotpot_0624,Which region of Ghana was the city where Akrofuom is located? ,Ashanti Region of Ghana,bridge,hard
+hotpot_0625,Which show co-hosted by Hoda Kotb was produced by Brian Balthazar?,the fourth hour of the TODAY Show,bridge,hard
+hotpot_0626,What type of submarine was the non-nuclear U-32?,German Type 212 class,bridge,hard
+hotpot_0627,Luther: The Calling is based on the BBC crime drama comprising six episodes that were run in which year?,2010,bridge,hard
+hotpot_0628,What is the English translation of the name of the novel series which the Four III is the final installment of?,"""The Four Great Constables""",bridge,hard
+hotpot_0629,"Which Eminem album included vocals from a singer who had an album titled ""Unapologetic""?","""The Marshall Mathers LP 2""",bridge,hard
+hotpot_0630,My Sentimental Friend was performed by which English beat rock band?,Herman's Hermits,bridge,hard
+hotpot_0631,What child starred in a Chicago production of Alice Walker's 1982 novel?,Diamond White,bridge,hard
+hotpot_0632,"Which band was formed first, Goldfinger or The Fray?",Goldfinger,comparison,hard
+hotpot_0633,In what year were the European Athletics Junior Championships held in the capital of Slovenia?,1997,bridge,hard
+hotpot_0634,what is the football club that formed in 1876 and has Dael Jonathan Fry as a player?,Middlesbrough,bridge,hard
+hotpot_0635,"What group released a song called ""Stinkfist"" on September 17, 1996?",Tool,bridge,hard
+hotpot_0636,When did the first bank come into existence that is part of an organization that serves rural areas of India with basic banking and financial services?,on 20 July 2009,bridge,hard
+hotpot_0637,The movies Queen of Blood and Battle Beyond the Sun both contained scenes from what 1959 Soviet feature?,Nebo Zovyot,bridge,hard
+hotpot_0638,"What Friday night programming block included what collective series that includes ""Whatever Happened to... Robot Jones?""?",Cartoon Cartoon Fridays,bridge,hard
+hotpot_0639,Are both Viken Babikian and Don Manoukian American ?,yes,comparison,hard
+hotpot_0640,Are Der Rosenkavalier and I Capuleti e i Montecchi both comic operas?,no,comparison,hard
+hotpot_0641,Jihad: A Story of the Others is a documentary by the director who is of what descent?,Punjabi/Pashtun,bridge,hard
+hotpot_0642,What kind of material forms the wrapping for the chocolate candies that Hershey Kissables were shaped like?,aluminum foil,bridge,hard
+hotpot_0643,The Russian-British physicist who shared the Nobel Prize in Physics in 2010 has established a reserach center dedicated to continuing the work with graphene in what country?,Singapore,bridge,hard
+hotpot_0644,"When was the newspaper, in which the 1891 Birthday Honours list appeared on 30 May 1891, adopt its current name ?",January 1788,bridge,hard
+hotpot_0645,which  Australian politician represented  Electoral district of Goulburn,Jane Goward,bridge,hard
+hotpot_0646,Both William Friedkin and Jon Paul Puno are both directors of which type of media?,film,comparison,hard
+hotpot_0647,In what year was the team that Luke Clark plays either right back or central midfielder for founded?,1963,bridge,hard
+hotpot_0648,2006 KNVB Cup Final had two goals scored by a player of what nationality?,Dutch,bridge,hard
+hotpot_0649,Which former Republican won the presidential nomination at the 2012 United States Libertarian National Convention? ,Gary Earl Johnson,bridge,hard
+hotpot_0650,"On the Knocking at the Gate in Macbeth is an essay by what English essayist best known for ""Confessions of an English Opium-Eater""?",Thomas Penson De Quincey,bridge,hard
+hotpot_0651,"Which semi-retired professional wrestler appeared in ""Final Score?""",David Michael Bautista Jr.,bridge,hard
+hotpot_0652,Band-e-Amir Dragons is named after the lakes in which Afghan national park?,Band-e Amir National Park,bridge,hard
+hotpot_0653,John Alexander and Trent Alexander-Arnold are professional footballers from which country?,England,bridge,hard
+hotpot_0654,Where were the presenters of the 2016 Brit Awards from?,"Newcastle upon Tyne, England",bridge,hard
+hotpot_0655,Tyler Redenbach was selected 77th overall by the Phoenix Coyotes in an NHL draft that was held in what city?,Nashville,bridge,hard
+hotpot_0656,Who signed into law the act made to lower barriers to adoption?,President Bill Clinton,bridge,hard
+hotpot_0657,Wiener Werkstätte Style was part of the movement that took place during what eras?,late 19th and early 20th centuries,bridge,hard
+hotpot_0658,"""The Empire Builder""'s Columbia River Subdivision was part of which line?",Great Northern Railway,bridge,hard
+hotpot_0659,What position in the court does the Professor of Law at the Interdisciplinary Center in Herzliya hold?,Supreme Court Judge,bridge,hard
+hotpot_0660,What award did the writer of Never Let Me Go novel win in 1989?,Man Booker Prize for Fiction,bridge,hard
+hotpot_0661,The school in which the Wilmslow Show is held is designated as what?,Centre of Excellence,bridge,hard
+hotpot_0662,John Paesano wrote which film for DreamWorks Dragons?,Dragons: Riders of Berk,bridge,hard
+hotpot_0663,Augustus Jesse Bowie Jr was the innovator of the switch that was crucial to leading to the passage of which federal legislation in 1936?,Rural Electrification Act,bridge,hard
+hotpot_0664,"What is Opry Mills in Nashville, Tennessee?",super-regional shopping mall,bridge,hard
+hotpot_0665,"Who is younger, Pelle Almqvist or Steve Winwood?",Pelle Almqvist,comparison,hard
+hotpot_0666,Maggie May is a musical based on a folk song about a prostitute who robbed whom?,sailor,bridge,hard
+hotpot_0667,"Which director is from the US, Wayne Wang or W. D. Richter?",W. D. Richter,comparison,hard
+hotpot_0668,"What type of elevation does Aldgate railway station, Adelaide and Aldgate, South Australia have in common?",Hills,bridge,hard
+hotpot_0669,Which one of Ricardo Rodríguez Saá's relatives would become governor from 1983 to 2001?,Adolfo Rodríguez Saá,bridge,hard
+hotpot_0670,In what city did Jennifer Paige Chambers appear with the creator of the characters Jiminy Glick and Ed Grimley?,Los Angeles,bridge,hard
+hotpot_0671,What is the nationality of the scientist who invented in Tribometer?,Dutch,bridge,hard
+hotpot_0672,"Who is older, Steven Tyler, or Elizabeth Fraser?",Steven Tyler,comparison,hard
+hotpot_0673,WLMW is licensed to a city in which county?,located in Hillsborough County,bridge,hard
+hotpot_0674,In which year was the King who made the 1925 Birthday Honours born?,1865,bridge,hard
+hotpot_0675,What intrusment did Jem Finer play in the band The Pogues?,banjo player,bridge,hard
+hotpot_0676,Where is the home of the common party princess voiced by Idina Menzel?,Arendelle,bridge,hard
+hotpot_0677,Who beat the Missouri Tigers in what is alternatively known as the Border Showdown?,The 2008 Kansas Jayhawks,bridge,hard
+hotpot_0678,The Heart Never Lies is an album by the author of a state ballad entitled what?,The Land of Enchantment,bridge,hard
+hotpot_0679,Where is Greensky Bluegrass band's home and location of where they created their first album?,"Bell's Brewery, Inc.",bridge,hard
+hotpot_0680,What federal agency was founded in 1935 and maintains a list of wanted persons?,the Federal Bureau of Investigation (FBI),bridge,hard
+hotpot_0681,At which level of French football does the football team named after the manager of France national team play?,Championnat National 3,bridge,hard
+hotpot_0682,Chandgi Ram won a gold medal in 1970 in a continental multi-sport event held at which city ?,Bangkok,bridge,hard
+hotpot_0683,What was held in 2011 at the same stadium where the seventeenth edition of the IAAF World Championships is scheduled to be held in 2019?,The final of 2011 AFC Asian Cup,bridge,hard
+hotpot_0684," Hamilton Evans ""Tony"" James is the COO and director of the largest alternative investment firm in what?",the world,bridge,hard
+hotpot_0685,How many times has the national team Joseph Raich Garriga played for in 1941 participated in FIFA World Cups?,14,bridge,hard
+hotpot_0686,What was the birth name of the start of Hwarang: The Poet Warrior Youth?,Park Yong-gyu,bridge,hard
+hotpot_0687,"when was the album that includes the song by Dustin Lynch released to country radio on February 17, 2017?","September 8, 2017",bridge,hard
+hotpot_0688,Who is prime minister of this West African country that covers 36125km2?,Umaro Mokhtar Sissoco Embaló,bridge,hard
+hotpot_0689,"Where is the academy, for which Joseph D. Stewart was appointed Superintendent, located?","Kings Point, New York",bridge,hard
+hotpot_0690,Revival of 1800 was a series of evangelical christian meetings. In what month did Francis Asbury begin attending the revival meetings ?,June,bridge,hard
+hotpot_0691,What team did Kenny Brown manage following the departure of Dean Holdsworth?,Chelmsford,bridge,hard
+hotpot_0692,A relative of the emu is native to which continent?,Africa,bridge,hard
+hotpot_0693,Are Southwest Florida International Airport and Henry E. Rohlsen Airport both in Florida?,no,comparison,hard
+hotpot_0694,"Which restaurant was founded first, Papa Murphy's or Gino's Pizza and Spaghetti?",Gino's Pizza and Spaghetti,comparison,hard
+hotpot_0695,What is the name of the record label owned by one of the three artists responsible for creating the 1993 album Honky Tonk Angels?,Dolly Records,bridge,hard
+hotpot_0696,Are Bamboo Mañalac and Danny Jones both musicians?,yes,comparison,hard
+hotpot_0697,In between  Polytechnic University of the Philippines and California Polytechnic State University which was founded as a vocational high school?,California Polytechnic State University,comparison,hard
+hotpot_0698,When was the advisor of Alpher–Bethe–Gamow paper died?,"August 19, 1968",bridge,hard
+hotpot_0699,How long is the river for which Frenchmans Creek is a tributary?,2844 km,bridge,hard
+hotpot_0700,What region of Italy was Giorgio Pini born in?,Emilia-Romagna Region,bridge,hard
+hotpot_0701,Did the playwrights Eugène Ionesco and Paul Scott live during the same time period?,yes,comparison,hard
+hotpot_0702,Which contest did the singer of the song Mama's Song win ?,"American Idol""",bridge,hard
+hotpot_0703,The author of Sexual Politics attended which British University?,Oxford,bridge,hard
+hotpot_0704,"What animated movie, starring Danny Devito, featured music written and produced by Kool Kojak?",The Lorax,bridge,hard
+hotpot_0705,"Which women's magazine was published first, Mirabella or Home Monthly?",Home Monthly,comparison,hard
+hotpot_0706,"The city in which the Disney Resort & Spa, Aulani is located in, is colloquially known as what?","the ""second city"" of Oahu",bridge,hard
+hotpot_0707,"This American is best known for his work on such Disney animated films as ""Beauty and the Beast"" and a 1996 American animated musical drama film whose plot centers on who?",Quasimodo,bridge,hard
+hotpot_0708,Are Trent Edwards and Lucy Saroyan both football players?,no,comparison,hard
+hotpot_0709,Were both Léopold Eyharts and Ulrich Walter a General in the French Air Force? ,no,comparison,hard
+hotpot_0710,Peter and the Wolf was originally released as a segment of an animated anthology released to theaters on which day ?,"April 20, 1946",bridge,hard
+hotpot_0711,What college did the person who defeated Fedor Emelianenko play football at?,Purdue University,bridge,hard
+hotpot_0712,"Who has more scope of profession, Edward Dmytryk or Otto Preminger?",Otto Ludwig Preminger,comparison,hard
+hotpot_0713,"The Prodigal Daughter, though a book about an American, is by a novelist of what nationality?",English,bridge,hard
+hotpot_0714,The Pluralist school is said to have included what creator of the theory of atomism? ,Leucippus,bridge,hard
+hotpot_0715,"Which movie directed by James Gunn portrayed the fictional character, Ego the Living Planet?",Guardians of the Galaxy Vol. 2,bridge,hard
+hotpot_0716,Which year and which conference was the 14th season for this conference as part of the NCAA Division that the Colorado Buffaloes played in with a record of 2-6 in conference play?,2009 Big 12 Conference,bridge,hard
+hotpot_0717,Jalen Jones plays basketball for an NBA team that plays their home games in what arena?,Smoothie King Center,bridge,hard
+hotpot_0718,"Which writer also enjoyed boxing, Amy Tan or Norman Lindsay?",Norman Alfred William Lindsay,comparison,hard
+hotpot_0719,From which alphabet was this alphabet derived that the name of the club Ilysiakos B.C. has the starting letter of?,Phoenician alphabet,bridge,hard
+hotpot_0720,Pulsed Pressure Cavitation Technique was developed at a natioal laboratory sponsored by what U.S. department?,U.S. Department of Energy,bridge,hard
+hotpot_0721,"In 1736, a fortified complex was built in the heart of Moscow. What is this complex known as?",Moscow Kremlin,bridge,hard
+hotpot_0722,"Although Michael Fincke's record was broken by Scott Kelly, commander of the International Space Station (ISS) on Expeditions 26, 45, and 46, what was his record for the most time in space?",381.6 days,bridge,hard
+hotpot_0723,"Whose writing covered more topics, Alan Dean Foster or Samuel R. Delany?",Samuel Ray Delany Jr.,comparison,hard
+hotpot_0724,"Which body of water flows through more states, Tamiami Canal or Genesee River?",Genesee River,comparison,hard
+hotpot_0725,How long was the career of the actor in The Skull?,70 years,bridge,hard
+hotpot_0726,What region has the indigenous language that includes the word Catuaba?,South America,bridge,hard
+hotpot_0727,Are Colocasia and Coronilla both flowering plants?,yes,comparison,hard
+hotpot_0728,When did the event that led Marissa Kurtimah to flee her country of birth begin? ,1991,bridge,hard
+hotpot_0729,Which South African anti-apartheid archbishop was part of the actions against the ruling National Party government?,Desmond Mpilo Tutu,bridge,hard
+hotpot_0730, Chun Woo-hee's notable films include a South Korean horror film about  a policeman who investigates a series of mysterious killings and what?,illnesses,bridge,hard
+hotpot_0731,"Which formed first, Fireflight or Dirty Three?",Dirty Three,comparison,hard
+hotpot_0732,Hugh Milburn Stone stared ina tv series created by what writer?,John Meston,bridge,hard
+hotpot_0733,Who was a higher ranked tennis player: Paola Suárez or Michael Venus?,Paola Suárez,comparison,hard
+hotpot_0734,"Who born earlier, Lewis Terman or  G. Stanley Hall?",G. Stanley Hall,bridge,hard
+hotpot_0735,The scientists who discovered Tedatioxetine were from what international pharmaceutical company?,Danish international pharmaceutical company,bridge,hard
+hotpot_0736,Where is the origin of Tie Domi who was a player for the Maple Leafs?,Albanian origin,bridge,hard
+hotpot_0737,Edward C. Hugger and Alexander Acosta served at appointees for what job?,Secretary of Labor,bridge,hard
+hotpot_0738,What was the code name of The landing barge primarily used to provide hot meals to the landing crew?,Operation Neptune,bridge,hard
+hotpot_0739,"When was the American actor, film director which  Dana Brunetti is the president of his company born ","July 26, 1959",bridge,hard
+hotpot_0740,Which countries forces fought in The Battle of Hürtgen Forest which was covered in the shooter video game Darkest Hour: Europe '44-'45?,American and German,bridge,hard
+hotpot_0741,Goldilocks and the Three Bares was a film that was totally separate from the fairy tale from what century?,19th-century,bridge,hard
+hotpot_0742,What Swedish songwriter worked with Taylor Swift?,Shellback,bridge,hard
+hotpot_0743,Who is a Brazilian mixed martial artist in the UFC who Namsaknoi Yudthagarngamtorn coached?,Rafael Souza dos Anjos,bridge,hard
+hotpot_0744,Where is the magazine headquartered that Robert W. McElroy writes for?,Manhattan,bridge,hard
+hotpot_0745,What is the English translation of the social group which Baran Khan Kudezai was a part of?,grand assembly,bridge,hard
+hotpot_0746,The player who defeated Johnny Majors for the Heisman Trophy in 1956 was born in what year?,1935,bridge,hard
+hotpot_0747,"What season of the Indian reality TV series ""Big Boss"" did the model Lopamundra Raut compete in?",the tenth season,bridge,hard
+hotpot_0748,Are Maro Ajemian and Patricia Field both pianists?,no,comparison,hard
+hotpot_0749,Geoff LaTulippe is an American writer whose best-known work was directed by whom?,Nanette Burstein,bridge,hard
+hotpot_0750,"Rowland Salley's best-known tune is ""Killing the Blues"", which has been most recently covered by which American singer-songwriter active mainly in the outlaw country music and Southern rock genres?",Shooter Jennings,bridge,hard
+hotpot_0751,"Which mine first entered into production, Beaulieu Mine or Con Mine?",Con Mine,comparison,hard
+hotpot_0752,Four presidents including the 26th president Theodore Roosevelt were featured in the 60ft sculpture in the granite face of Mount Rushmore which was sculpted by what sculptor?,Sculptor Gutzon Borglum,bridge,hard
+hotpot_0753,"How did Emilie du Chatelet, Voltaire's love, contribute to the basic laws of physics?","commentary on Isaac Newton's book ""Principia""",bridge,hard
+hotpot_0754,In what field did a Swiss physicist who had a geometrical representation named after him work in?,quantum mechanics,bridge,hard
+hotpot_0755,Little Brown Stein is a rivalry trophy that imitates a mug made out of what item?,stoneware,bridge,hard
+hotpot_0756,The Midland Regional Hospital in managed by what cabinet that exercises executive authority in the Republic of Ireland?,managed by the Irish Government's Health Service Executive,bridge,hard
+hotpot_0757,What is the nationality of the most successful female ski racer ever?,American,bridge,hard
+hotpot_0758,"Name the movie that was cowritten by Paul Rudd and the director of the 2011 British science fiction horror comedy film written and directed by Joe Cornish and starring John Boyega, Nick Frost, Jodie Whittaker and Luke Treadaway.",Ant-Man,bridge,hard
+hotpot_0759,In what order does Three Colours: Blue appear in the Three Colours trilogy?,first,bridge,hard
+hotpot_0760,"The actor that plays Phileas Fogg in ""Around the World in 80 Days"", co-starred with Gary Cooper in a 1939 Goldwyn Productions film based on a novel by what author?",Charles L. Clifford,bridge,hard
+hotpot_0761,Which pickup truck that's name was retired in North America in 1976 is part of Toyota's IMV program with the Fortuner SUV?,Toyota Hilux,bridge,hard
+hotpot_0762,"Which show which aired on NBC from September 22, 1994, to May 6, 2004, has the fifteenth episode entitled, ""The One with the Girl Who Hits Joey""?",Friends,bridge,hard
+hotpot_0763,What was the title of the failed magazine that preceded and inspired the The Science Fiction League?,Amazing Stories,bridge,hard
+hotpot_0764,Black Journal is based on the real life events of what serial killer that  murdered three women in Correggio?,Leonarda Cianciulli,bridge,hard
+hotpot_0765,"Which tennis player is younger, John Newcombe or Květa Peschke?",Květa Peschke,comparison,hard
+hotpot_0766,"Which university did the singer of ""Long Time Gone"" study?",Tufts University,bridge,hard
+hotpot_0767,Which Member of Parliament for Macclesfield was married to Jane Ann Winterton?,Sir Nicholas Raymond Winterton,bridge,hard
+hotpot_0768,The Patriotic front promotes the interests of what nation particularly with the aim of gaining and mainting self governance.,Bulgaria,bridge,hard
+hotpot_0769,Are both Lygodium or Maxillaria a genus of orchids?,no,comparison,hard
+hotpot_0770,"Does Linzhou, Henan have a larger population than Xingcheng?",yes,comparison,hard
+hotpot_0771,When was the date of birth of one of the founder of Congo Reform Association?,1 September 1864,bridge,hard
+hotpot_0772,Louis XVI style sought to evoke the artistic styles that were just then being rediscovered in  Pompeii and this ancient Roman town that was destroyed in what year,79 AD,bridge,hard
+hotpot_0773,Who created the British television series to which Tofu was a sister series focusing on a range of sex attitudes in the twenty-first century from the viewpoint of everyday people?,Russell T Davies,bridge,hard
+hotpot_0774,"What 1997 song was on the Garth Brooks album that debuted at #1 on the ""Billboard"" 200?",Two Piña Coladas,bridge,hard
+hotpot_0775,Who composed music for this 1941 American animated film with the main character of Jumbo Jr.?,Dan Crow,bridge,hard
+hotpot_0776,Christopher de Haro provided the financial backing to what Portuguese explorer who organised the Spanish expedition to the East Indies from 1519 to 1522? ,Ferdinand Magellan,bridge,hard
+hotpot_0777,Bill McCollum took a leadership role in the Senate trial that began on which date?,"December 19, 1998",bridge,hard
+hotpot_0778,What sport does Simon Aspelin and Thomaz Koch have in common?,tennis,comparison,hard
+hotpot_0779,The Carnaval del Pueblo is Eurpoe's largest celebration of what expression of the people of Latin America?,Latin American culture,bridge,hard
+hotpot_0780,Luke Rockhold defeated the MMA fighter who was the first to earn a win against which champion in the UFC?,Anderson Silva,bridge,hard
+hotpot_0781,"What waltz was composed by ""The Waltz King"" in 1844?",Sinngedichte,bridge,hard
+hotpot_0782,Which episode of season nine of The Simpsons was the last speaking role for Lionel Hutz?,ninth,bridge,hard
+hotpot_0783,"Who is the director of Hollywood film ""7th Heaven"" (1927), Jerry Belson or  Frank Borzage?",Frank Borzage,comparison,hard
+hotpot_0784,"What was the occupation of the man who founded the Huffman Historic District which is a part of the Historic Inner East neighborhood in Dayton, Ohio, Unoited States?",wealthy businessman,bridge,hard
+hotpot_0785,"Who was born first, Brooklyn Decker or Andy Roddick?",Andrew Stephen Roddick,bridge,hard
+hotpot_0786,The Russian route M9 forms a part of what European route that has a length of about 5320 km?,European route E 22,bridge,hard
+hotpot_0787,What is the translation of the name of the river on which Widnes is located ?,boundary river,bridge,hard
+hotpot_0788,"Which American professional poker player also starred in the 2015 movie ""Extraction""?",Dan Bilzerian,bridge,hard
+hotpot_0789,"What award does Crystal Palace F.C. present, first won by John McCormick and most recently by Wilfried Zaha?",Player of the Year,bridge,hard
+hotpot_0790,"In 1632, where was one of the most highly acclaimed English architects born?",East Knoyle,bridge,hard
+hotpot_0791,What language was spoken by the Native American people whose principal town was Anhaica?,Apalachee,bridge,hard
+hotpot_0792,What variety of mockingbird is the mascot of the University of Tennessee at Chattanooga?,northern mockingbird,bridge,hard
+hotpot_0793,"What is the name of the genocidal mass slaughter of Tutsi Rwanda, in which Cyprian and Daphrose Rugamba were assassinated?",Rwandan genocide,bridge,hard
+hotpot_0794,"Which American comedian born on March 21, 1962, appeared in the movie ""Sleepless in Seattle?""",Rosie O'Donnell,bridge,hard
+hotpot_0795,Who co-founded View Askew Productions and produced numerous movies starring Jason Lee?,Kevin Smith,bridge,hard
+hotpot_0796,HK Express is one of how many founding members of the world's first alliance of low cost carriers?,one of the four founding members,bridge,hard
+hotpot_0797,Who directed the animated series which featured an American comedy writer as the voice of Lucy?,Loren Bouchard,bridge,hard
+hotpot_0798,"Who was the lead singer of Eighth Wonder and who was born on March, 4th in 1968?",Patricia Jude Francis Kensit,bridge,hard
+hotpot_0799,"What professional baseball player who played for the Brooklyn Robbins in 1928 and 1929, attended college in Denton, Texas?",Walter Maxwell West Sr.,bridge,hard
