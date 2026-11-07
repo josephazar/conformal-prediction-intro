@@ -173,3 +173,15 @@ Part III also draws on:
 - Zhilin Yang, Peng Qi, Saizheng Zhang, Yoshua Bengio, William W. Cohen, Ruslan Salakhutdinov,
   and Christopher D. Manning. "HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question
   Answering." EMNLP, 2018.
+
+## License
+
+- Code (the Python in the notebooks): MIT, see [LICENSE](LICENSE).
+- Course text and figures (the notebook explanations, the field guide, the project guide and
+  the glossary): [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+- Data in `notebooks/llm_data/`: the `hotpot_*.csv` files adapt HotpotQA, which is built
+  from Wikipedia, and are shared under
+  [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), as their source requires;
+  the MMLU questions are MIT-licensed and the PubChem values are public domain. See
+  [notebooks/llm_data/README.md](notebooks/llm_data/README.md) for attribution.
+- Third-party datasets and passages that the notebooks load or quote keep their own licences.
