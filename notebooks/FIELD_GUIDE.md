@@ -27,12 +27,12 @@ lies between 1 - alpha and 1 - alpha + 1/(n+1). Beware the shortcuts that look e
 k-th score, which is invalid; `np.quantile(scores, k / n, method="higher")` returns the
 (k+1)-th smallest whenever k < n, which is valid but spends one rank for nothing, a cost that
 is invisible at n in the thousands and worth points of coverage at n = 40 (notebook 06).
-Libraries differ, and even differ between their own classes: in MAPIE 1.4.1 the split and
-cross-conformal regressors take the exact rank, while the split classifiers and conformalized
-quantile regression (which by default corrects each bound at alpha/2) can land one rank higher;
-at alpha = 0.10 that happens exactly when (n + 1)(1 - alpha), or (n + 1)(1 - alpha/2) for each
-CQR bound, is a whole number below n (notebook 08). MAPIE 1.6.0 takes the exact rank in all of them.
-Check which rank your version returns.
+Libraries differ, and even differ between their own classes and versions: MAPIE 1.6.0, the
+version this course pins, takes the exact rank in every class the notebooks use, but up to
+1.5.0 its split classifiers and conformalized quantile regression (which by default corrects
+each bound at alpha/2) could land one rank higher; at alpha = 0.10 that happened exactly when
+(n + 1)(1 - alpha), or (n + 1)(1 - alpha/2) for each CQR bound, was a whole number below n
+(notebook 08). Check which rank your version returns.
 
 And if `ceil((n + 1) * (1 - alpha)) > n`, stop: your calibration set is too small for this
 alpha, and the only honest prediction set is the whole outcome space: the entire real line in

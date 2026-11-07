@@ -6,6 +6,6 @@ pandas==2.3.3
 scipy==1.15.3
 scikit-learn==1.7.2
 matplotlib==3.10.9
-mapie==1.4.1
+mapie==1.6.0
 threadpoolctl==3.6.0
 jupyter==1.1.1
