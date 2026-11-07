@@ -11,7 +11,7 @@ intervals with a measurable coverage promise.
 
 **Prediction interval**  
 For regression, a lower and upper number around a prediction. Example: "this home should
-sell between $480k and $690k."
+sell between USD 480k and USD 690k."
 
 **Prediction set**  
 For classification, a set of possible labels. Example: `{cardiac, respiratory}` instead
@@ -237,6 +237,173 @@ than individual shuffled rows.
 **Adaptive conformal inference (ACI)**  
 An online conformal method that adjusts interval size over time based on recent misses and
 hits.
+
+## Exchangeability, Tested
+
+**Exchangeable is not independent**  
+Rows can be correlated and still exchangeable, for example readings that share a hidden
+common cause such as the same building or the same batch. Conformal prediction needs "no
+position is special", not independence. i.i.d. data is exchangeable; the reverse is not true.
+
+**Level of exchangeability**  
+The unit at which the shuffle is plausible: rows, days, buildings, machines. Rows of one
+building can be exchangeable with each other while a new building is not exchangeable with
+them.
+
+**Label shift**  
+The mix of classes changes while what each class looks like stays the same. Overall
+coverage moves with the new mix; per-class calibration protects it.
+
+**Selection effect**  
+Labels are observed only for the cases the business acted on, so the calibration set is a
+filtered sample and its coverage does not transfer to everyone.
+
+**Permutation test**  
+A test of "calibration and recent data come from the same pool": compare a statistic with
+its distribution when the pooled scores are shuffled.
+
+**Conformal p-value**  
+The share of all scores seen so far, the new one included, that are at least as large as the
+new score, with a random tie-break. Under exchangeability these p-values are uniform and
+independent.
+
+**Conformal test martingale**  
+A running bet against exchangeability that grows when conformal p-values stop looking
+uniform. It is used as a drift alarm.
+
+**Ville's inequality**  
+The reason a test martingale's alarm is trustworthy: under exchangeability, the chance that
+its wealth ever reaches 1/delta is at most delta, however long you watch.
+
+**Anytime-valid**  
+A test whose error guarantee holds at every moment you look, not only at one planned look.
+
+## Forecasting And Time Series
+
+**Forecast origin**  
+The moment a forecast is issued. Every input must already be known then.
+
+**Horizon**  
+How many steps ahead a forecast looks. Each horizon gets its own calibration and its own
+report.
+
+**Persistence (last value)**  
+The forecast "tomorrow equals today". Hard to beat at short horizons.
+
+**Seasonal naive**  
+The forecast "same time yesterday" or "same time last week".
+
+**14-day median**  
+The median of the same time of day over the last 14 days; a robust simple rule.
+
+**Percentile reference band**  
+The 5th to 95th percentile of those 14 past values. A natural first band, and usually
+under-covers.
+
+**Walk-forward (rolling-origin) evaluation**  
+A backtest in time order: refit before each block, calibrate on data that ends before the
+block, test on the block.
+
+**Purge**  
+A gap of h steps between training, calibration and test so that no target used for fitting
+or calibration lies after the forecast origin.
+
+**Leakage test**  
+Shuffle the series in time; an honest pipeline loses its skill. Paired with the
+future-scramble check, which confirms that no feature changes when future values do.
+
+**Interval score**  
+Width plus 2/alpha times the distance of every miss. Lower is better; it charges for both
+width and misses, so coverage cannot be bought with width alone.
+
+**Joint coverage**  
+The share of trajectories (for example whole days) whose every step is covered. Much lower
+than per-step coverage.
+
+**Zero-shot forecasting**  
+Using a pre-trained model on a series it was never fitted on, with only its recent context.
+
+**Pre-training overlap**  
+A zero-shot evaluation on a series that was in the model's pre-training data. It flatters
+the model and counts as leakage.
+
+## Sensors, Alarms And Drift
+
+**Stuck (frozen) value**  
+A reading repeated by a frozen sensor or gateway. It looks plausible and is wrong.
+
+**Minimum-run-length rule**  
+Flag runs of at least L consecutive identical readings, within a tolerance.
+
+**Alarm limit**  
+A band edge used as a threshold: a reading outside the band raises an alarm.
+
+**False-alarm rate**  
+Alarms per day on healthy data. A calibrated 90% band alarms on about 10% of healthy
+readings.
+
+**Detection delay**  
+The time from the start of a fault to the first alarm.
+
+**Chance rate**  
+How often an alarm rule fires in the same window when no fault is present. A detection rate
+means little without it.
+
+**Recency-weighted conformal**  
+Calibration that gives more weight to recent scores, with fixed weights chosen by age. Its
+coverage gap is bounded by how much the data changed.
+
+**Conformal PID**  
+An online method that steers the band's offset like a controller: quantile tracking (P), an
+integrator of past misses (I) and an optional forecast of the next score (D).
+
+**Long-run miss rate**  
+The average miss rate over a long stream. It is what ACI and conformal PID guarantee, for any
+sequence; it says nothing about a particular week.
+
+## Language Models
+
+**Token probability**  
+The probability a language model assigns to its answer, read from its log-probabilities (for a
+multiple-choice question, the probability of each answer letter).
+
+**Stated (verbalized) confidence**  
+A confidence number the model writes when asked how sure it is. Often crowded near the top of
+the scale whatever the truth.
+
+**Self-consistency (agreement)**  
+How often independent samples of the model give the same answer. Usable when an API returns no
+probabilities; it takes only a few distinct values, so ties are common.
+
+**Reliability diagram**  
+A plot of stated or predicted confidence against the observed accuracy in each confidence bin.
+On the diagonal means calibrated, which is still not a per-question guarantee.
+
+**Procedure**  
+Everything that must stay fixed between calibration and use: model version, prompt, decoding
+settings, option order and the population of questions.
+
+**Contamination**  
+Benchmark questions that appeared in the model's training data. It flatters accuracy and makes
+the benchmark a poor stand-in for real users.
+
+**Claim**  
+One atomic statement in a longer generated answer, checkable on its own.
+
+**Conformal factuality**  
+Keep only the claims whose score clears a calibrated threshold, so that with probability at
+least 1 - alpha every kept claim in an answer is true.
+
+**Retrieval depth**  
+How many passages a retrieval-augmented system sends to the model. Each passage costs tokens.
+
+**Conformal risk control (CRC)**  
+Choose a parameter so that the expected loss is at most alpha. Requires a loss that only
+improves as the parameter loosens.
+
+**Learn then Test (LTT)**  
+Test each candidate parameter for "risk at most epsilon", correct for testing many candidates,
+and keep the ones that pass. Works when the risk is not monotone.
 
 ## Libraries And Practice
 

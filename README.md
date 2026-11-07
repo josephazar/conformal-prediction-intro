@@ -8,11 +8,24 @@ ship the methods with MAPIE without treating the library as a substitute for jud
 The course is intentionally practical: every idea is introduced through a product scenario,
 then tested in code, then translated into the language a team would use in a launch review.
 The main story follows Hearthstone, a fictional property-tech startup, with a short detour
-through Cairn Health for classification and triage.
+through Cairn Health for classification and triage. Part II follows Kestrel Operations, a
+fictional operator of office buildings and a cloud platform, and takes the methods to time
+series: exchangeability tested rather than assumed, honest backtests, calibrated forecast
+bands, frozen sensors, alarms, and coverage under drift. Part III follows Quill Learning, a
+fictional education company, and applies the same ideas to language models with real model
+outputs: calibrated confidence, answer shortlists, factual claims you can vouch for, and
+retrieval with a guarantee.
 
 ## What Is Inside
 
-- `notebooks/` - the main eight-notebook course, from point-prediction failure to MAPIE.
+- `notebooks/` - Part I (notebooks 01-08), from point-prediction failure to MAPIE;
+  Part II (notebooks 09-15), forecasts and alarms you can trust; Part III (notebooks 16-19),
+  language models that know what they do not know.
+- `notebooks/llm_data/` - cached outputs of `gpt-4.1-mini` used by Part III, with the notebook
+  that generated them and their provenance and licences.
+- `notebooks/PROJECT_GUIDE.md` - for students starting a project on calibrated forecasts for
+  energy, IoT or cloud time series: objectives mapped to notebooks, and how to move to public
+  data (Building Data Genome 2, the Azure Public Dataset).
 - `notebooks/bonus/` - four extra notebooks on MAPIE regression, time-series forecasting,
   a compact coverage gallery, and decision policy from prediction-set size.
 - `notebooks/FIELD_GUIDE.md` - the recurring operational traps and guardrails.
@@ -31,6 +44,27 @@ through Cairn Health for classification and triage.
 | 6 | `06_small_data_full_conformal_jackknife_cv.ipynb` | Full conformal, jackknife+, and CV+ |
 | 7 | `07_when_the_world_shifts_covariate_shift.ipynb` | Covariate shift and weighted conformal prediction |
 | 8 | `08_shipping_it_conformal_prediction_with_mapie.ipynb` | MAPIE, real data, and the launch checklist |
+
+Part II, forecasts and alarms you can trust:
+
+| Step | Notebook | Topic |
+|---:|---|---|
+| 9 | `09_exchangeable_or_not.ipynb` | Exchangeable vs independent, six violations, and how to test the assumption |
+| 10 | `10_when_tomorrow_remembers_today.ipynb` | Time series, simple baselines, the percentile reference band, clustered misses |
+| 11 | `11_the_honest_backtest_walk_forward.ipynb` | Walk-forward evaluation, leakage tests, per-horizon bands, the interval score |
+| 12 | `12_wrapping_any_forecaster_cqr_and_pretrained.ipynb` | CQR around boosting and a zero-shot pre-trained stand-in, pre-training overlap, the benchmark table |
+| 13 | `13_frozen_sensors_stuck_values.ipynb` | Stuck-value detection and its effect on error, coverage and width |
+| 14 | `14_band_edges_as_alarm_limits.ipynb` | Band edges as fault-detection limits against a standard detector |
+| 15 | `15_coverage_under_drift_aci_and_pid.ipynb` | Coverage under drift: recalibration, ACI, and conformal PID |
+
+Part III, language models that know what they do not know:
+
+| Step | Notebook | Topic |
+|---:|---|---|
+| 16 | `16_the_confident_chatbot.ipynb` | Token probabilities, stated confidence, calibration, and exchangeability for language models |
+| 17 | `17_multiple_choice_answer_sets.ipynb` | Multiple-choice answers as prediction sets, with and without probabilities |
+| 18 | `18_conformal_factuality.ipynb` | Keeping only the generated claims you can vouch for |
+| 19 | `19_retrieval_risk_control_rag.ipynb` | Retrieval depth for RAG: conformal risk control and Learn then Test |
 
 Bonus notebooks:
 
@@ -60,7 +94,10 @@ jupyter lab
 
 The notebooks are self-contained. Most data is synthetic and generated inside each
 notebook with fixed seeds. Notebook 08 uses public scikit-learn datasets, including
-California housing and wine.
+California housing and wine. Notebooks 16-19 read cached language-model outputs from
+`notebooks/llm_data/`, so they also run offline and need no API key; only regenerating that
+data (`notebooks/llm_data/generate_llm_data.ipynb`) needs an Azure OpenAI deployment and
+`pyarrow`.
 
 To execute a notebook from the command line and save its outputs:
 
@@ -101,3 +138,38 @@ This course is inspired by and cites the following conformal prediction literatu
 - Chen Xu and Yao Xie. "Conformal Prediction Interval for Dynamic Time-Series." ICML, 2021.
 - Vianney Taquet, Vincent Blot, Thomas Morzadec, Louis Lacombe, and Nicolas Brunel.
   "MAPIE: an Open-Source Library for Distribution-Free Uncertainty Quantification." 2022.
+
+Part II also draws on:
+
+- Tilmann Gneiting and Adrian E. Raftery. "Strictly Proper Scoring Rules, Prediction, and
+  Estimation." Journal of the American Statistical Association, 2007.
+- Isaac Gibbs and Emmanuel Candes. "Adaptive Conformal Inference Under Distribution Shift."
+  NeurIPS, 2021.
+- Margaux Zaffran, Olivier Feron, Yannig Goude, Julie Josse, and Aymeric Dieuleveut.
+  "Adaptive Conformal Predictions for Time Series." ICML, 2022.
+- Anastasios N. Angelopoulos, Emmanuel J. Candes, and Ryan J. Tibshirani. "Conformal PID
+  Control for Time Series Prediction." NeurIPS, 2023.
+- Rina Foygel Barber, Emmanuel J. Candes, Aaditya Ramdas, and Ryan J. Tibshirani.
+  "Conformal Prediction Beyond Exchangeability." Annals of Statistics, 2023.
+- Rina Foygel Barber, Emmanuel J. Candes, Aaditya Ramdas, and Ryan J. Tibshirani. "The
+  Limits of Distribution-Free Conditional Predictive Inference." Information and Inference,
+  2021.
+- Stephen Bates, Emmanuel Candes, Lihua Lei, Yaniv Romano, and Matteo Sesia. "Testing for
+  Outliers with Conformal p-values." Annals of Statistics, 2023.
+
+Part III also draws on:
+
+- Bhawesh Kumar, Charlie Lu, Gauri Gupta, Anil Palepu, David Bellamy, Ramesh Raskar, and
+  Andrew Beam. "Conformal Prediction with Large Language Models for Multi-Choice Question
+  Answering." 2023.
+- Christopher Mohri and Tatsunori Hashimoto. "Language Models with Conformal Factuality
+  Guarantees." ICML, 2024.
+- Anastasios N. Angelopoulos, Stephen Bates, Adam Fisch, Lihua Lei, and Tal Schuster.
+  "Conformal Risk Control." ICLR, 2024.
+- Anastasios N. Angelopoulos, Stephen Bates, Emmanuel J. Candes, Michael I. Jordan, and
+  Lihua Lei. "Learn then Test: Calibrating Predictive Algorithms to Achieve Risk Control." 2021.
+- Dan Hendrycks, Collin Burns, Steven Basart, Andy Zou, Mantas Mazeika, Dawn Song, and Jacob
+  Steinhardt. "Measuring Massive Multitask Language Understanding." ICLR, 2021 (MMLU).
+- Zhilin Yang, Peng Qi, Saizheng Zhang, Yoshua Bengio, William W. Cohen, Ruslan Salakhutdinov,
+  and Christopher D. Manning. "HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question
+  Answering." EMNLP, 2018.

@@ -153,3 +153,215 @@ slice to do it.
 
 Guard: the bake-off tables in notebooks 05 and 06 are the template: coverage, width, and
 slice/size breakdowns, side by side, before any winner is declared.
+
+---
+
+# Part II: exchangeability, forecasting and alarms (notebooks 09-15)
+
+## §13. Exchangeable at which level?
+
+Exchangeable is weaker than independent: rows that share a hidden common cause (the same
+building, the same batch, the same month) can be correlated and still exchangeable with each
+other. What matters is how the calibration rows and the future rows were chosen. Rows of one
+building can be exchangeable with each other while a new building is not exchangeable with
+them; buildings can be exchangeable with each other while their rows are not.
+
+Symptom: coverage averaged over many sites is on target, and any single site is not.
+
+Guard: write down the level at which the shuffle is plausible (rows, days, buildings, VMs)
+and split and calibrate at that level. Notebook 09 shows both cases.
+
+## §14. Test before you quote
+
+The guarantee holds under an assumption you can check. Plot the scores over time; run a
+permutation test between the calibration window and recent data; train a classifier to tell
+the two apart (notebook 07); or run a conformal test martingale, whose false-alarm
+probability is bounded by Ville's inequality no matter how long you watch.
+
+Symptom: a guarantee quoted in a report with no evidence about the assumption behind it.
+
+Guard: quote the guarantee after the test, not instead of it, and keep the test running in
+production (notebook 09).
+
+## §15. Walk forward or do not report
+
+A random train/test split of time-ordered rows lets the model learn from the neighbours of
+every test point; scaling or tuning on the full series lets it learn from the future. Both
+produce numbers that production will not reproduce.
+
+Symptom: backtest error far below live error.
+
+Guard: rolling-origin blocks in time order, model re-fitted before each block, bands
+calibrated on data that ends before the block starts, and an h-step purge so no training or
+calibration target lies after the forecast origin (notebook 11).
+
+## §16. Run the leakage test
+
+If you shuffle the series in time, an honest pipeline loses all of its skill. A pipeline that
+keeps its skill after the shuffle is reading the answer from somewhere. The converse does not
+hold: a feature that leaks from the target's neighbours (a centred rolling mean) can lose its
+skill under the shuffle too, because the shuffle destroys the neighbours it was leaking from.
+
+Symptom: a model that "forecasts" shuffled noise, or a backtest that beats production by a
+margin nobody can explain.
+
+Guard: run the shuffle once per pipeline change and report skill relative to the best
+constant forecast (the training median, for absolute error) before and after. Add the
+future-scramble check, which needs no model at all: change every value after the forecast
+origin and confirm that no feature of that row changes. Change the values, do not merely
+reorder them: a reordering leaves the full-series mean, median, minimum and maximum untouched,
+so a scaler fitted on the whole series would pass it. Notebook 11 shows a leak that only the
+second test catches.
+
+## §17. Beat the best simple rule, not the worst
+
+Persistence (last value), seasonal naive (same time yesterday or last week) and the 14-day
+median of the same time are hard to beat on regular series, and on bursty cloud series they
+often win. A model is worth deploying only if it beats the best of them, per horizon and per
+series family.
+
+Symptom: a model compared with a single, weak baseline.
+
+Guard: report all four rules for every family and horizon, and carry the best one into the
+benchmark table, chosen on data before the test period. Picking the rule on the test period
+itself is notebook 11's lie number three in a new costume: it flatters the rule. Show the
+hindsight-best rule as a stress test if you like, labelled as such. "The model did not win" is
+a valid result (notebooks 10, 11 and 12).
+
+## §18. Report the interval score next to coverage
+
+Coverage can always be bought with width. The interval score (Gneiting and Raftery, 2007)
+charges for both: width plus 2/alpha times the distance of every miss.
+
+Symptom: a method wins on coverage by being uselessly wide, or wins on width by missing.
+
+Guard: report MAE, coverage, width and interval score together (notebook 11).
+
+## §19. One band per horizon, and hourly is not daily
+
+Forecast errors grow with the horizon, so each horizon needs its own calibration. Even then,
+90% per hour does not make 90% per day: the share of days whose every hour is covered is far
+lower.
+
+Symptom: a planner surprised that "90% bands" leave most days with at least one miss.
+
+Guard: calibrate per horizon; report joint coverage when a decision depends on a whole
+trajectory (notebook 11).
+
+## §20. Frozen values masquerade as data
+
+A gateway that repeats its last value produces readings that look perfectly plausible. They
+flatter persistence, and they distort the band in either direction: frozen calibration rows
+that are easy to predict shrink it, while models trained on frozen rows can widen it a great
+deal. Either way, the guarantee then covers what the sensor reported rather than what the
+building did. Some flat lines are innocent: a saturated VM at exactly 100%, a meter that rounds
+to whole kWh at night.
+
+Symptom: a long run of identical readings, a baseline that is suspiciously good, or a band
+that changes width sharply once flagged rows are removed.
+
+Guard: a minimum-run-length rule with a tolerance, checked against innocent flat lines;
+drop flagged rows from training and calibration; report evaluation with and without them
+(notebook 13).
+
+## §21. A band edge is an alarm with a false-alarm rate of alpha per reading
+
+On healthy data a reading leaves a calibrated 90% band one time in ten. At hourly readings
+that is more than two alarms per meter per day. And a forecaster that uses the latest
+readings follows a fault and stops alarming.
+
+Symptom: alarm fatigue, or slow drifts and freezes that never trigger.
+
+Guard: choose the band level by the cost of false alarms and missed faults; require
+consecutive exceedances; report false alarms both per flagged reading (what alpha caps) and per
+alarm event (what the pager sees). Know the horizon trade-off: a forecast issued before the
+fault began does not chase it, so it keeps alarming once the fault is under way, but its band is
+wider, so it can catch the onset later than a next-step band. Measure both, and pair the band
+with a stuck-value detector (notebooks 13 and 14).
+
+## §22. Online calibration guarantees the long run, not this week
+
+ACI and conformal PID bound the average miss rate over a long stream, for any sequence, with
+no exchangeability assumption. They promise nothing about a given week, and ACI can return
+infinite bands.
+
+Symptom: long-run coverage on target and a bad week that someone asks about.
+
+Guard: report weekly (worst-week) coverage, width and infinite-band counts next to long-run
+coverage (notebook 15).
+
+## §23. Pre-training overlap is leakage
+
+A pre-trained forecaster evaluated zero-shot on a series that was part of its training data
+is being tested on its homework. Several public cloud and building traces appear in the
+pre-training corpora of popular time-series foundation models.
+
+Symptom: a zero-shot model that looks far better on some datasets than on others.
+
+Guard: check the model's published pre-training data lists; evaluate on series released
+after the model or not listed; otherwise report the overlap (notebook 12).
+
+---
+
+# Part III: language models (notebooks 16-19)
+
+## §24. Token probabilities, stated confidence and agreement are opinions
+
+A language model can tell you how sure it is in three ways: the probability it assigns to its
+answer, a confidence number it writes when asked, and how often repeated samples agree. All
+three are useful and none is a promise. Stated confidence in particular tends to crowd near the
+top of the scale whatever the truth.
+
+Symptom: "the model said 95%" quoted as the chance that an answer is right.
+
+Guard: check calibration with a reliability diagram, then conformalize whichever score ranks
+easy and hard questions best. Even a perfectly calibrated probability promises nothing about a
+single question; a conformal set does promise coverage (notebooks 16 and 17).
+
+## §25. Freeze the procedure
+
+A calibration is valid for one procedure: one model version, one prompt, one set of decoding
+settings, one option order, one population of questions. Change any of them and the calibration
+scores may no longer be exchangeable with the new answers. Hosted models are not even
+bit-for-bit repeatable: the same request can come back with different probabilities.
+
+Symptom: coverage drifts after a "harmless" prompt edit or a silent model upgrade.
+
+Guard: log the procedure with every calibration run (model version string, prompt hash,
+decoding settings, option order, date, population); recalibrate after any change; measure how
+much an identical request varies (notebook 16).
+
+## §26. The benchmark is not your users
+
+Public benchmarks are convenient calibration sets, and some of them have probably been seen in
+training. Coverage measured on a benchmark transfers only to questions exchangeable with it, and
+your users' questions usually are not.
+
+Symptom: a guarantee quoted from a benchmark run and applied to live traffic.
+
+Guard: calibrate on a sample of your own traffic, labelled; treat benchmark results as a
+rehearsal (notebooks 09 and 16).
+
+## §27. A factuality guarantee is about whole answers, and only as good as its grader
+
+Conformal factuality promises that, with probability at least 1 - alpha, every claim kept in an
+answer is true. It says nothing about any single claim, and "true" means "accepted by the
+grader": a wrong reference value or an ambiguous question becomes part of the guarantee.
+
+Symptom: a filtered explainer published with a guarantee nobody can trace to its grading rules.
+
+Guard: state the grader, its tolerances and its known ambiguities next to the guarantee; treat
+answers (not claims) as the exchangeable units (notebook 18).
+
+## §28. Controlling an expected loss is not controlling every answer
+
+Conformal risk control bounds the average loss (for example the share of evidence missed), so
+some questions can still miss a lot. It needs a loss that only improves as the parameter
+loosens. When the risk can go up and down (more retrieved context can confuse a model), picking
+the parameter with the best calibration score is not a certificate.
+
+Symptom: "we control the miss rate" read as "no question misses evidence", or the best-looking
+setting chosen and then reported as guaranteed.
+
+Guard: say "on average" when you use conformal risk control; for non-monotone risks use Learn
+then Test, one test per candidate setting with a family-wise error correction (notebook 19).
