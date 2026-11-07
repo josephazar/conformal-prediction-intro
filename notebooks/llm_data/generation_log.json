@@ -10,6 +10,17 @@
     "hotpot_questions": 799,
     "hotpot_answers": 3995
   },
+  "response_models": {
+    "chat: gpt-4.1-mini-2025-04-14": 19786,
+    "embed: text-embedding-3-large": 138
+  },
+  "notes": [
+    "Probabilities are stored at full precision; a letter probability of exactly 0 means the letter was not among the 20 returned tokens (see *_top20_floor).",
+    "The base and rerun requests differ only in the API's user field.",
+    "The cache key is a hash of kind, deployment name and request body; it does not include the endpoint or API version, which are recorded here instead.",
+    "HotpotQA F1 follows the official evaluator's yes/no/noanswer rule.",
+    "response_models counts responses as read during this run: a cached request used twice counts twice, so the totals exceed the number of distinct requests."
+  ],
   "usage_this_run": {
     "cached": 19966
   }
